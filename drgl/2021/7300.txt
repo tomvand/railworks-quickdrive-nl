@@ -1,0 +1,19 @@
+Rhn 	v 	13:09
+Vndc 	a 	13:15
+Vndc 	v 	13:18
+Vndwo 	- 	13:19
+Vndw 	+ 	13:20
+Har 	- 	13:25
+Mrn 	+ 	13:30
+Mrg 	- 	13:31
+Db 	+ 	13:37
+Bnk 	+ 	13:41
+Utza 	- 	13:45
+Utvr 	+ 	13:46
+Ut 	a 	13:49
+Ut 	v 	13:50   [14]
+Utma 	- 	13:52
+Utzl 	+ 	13:53
+Mas 	+ 	13:58
+Bkla 	- 	14:01
+Bkl 	a 	14:02

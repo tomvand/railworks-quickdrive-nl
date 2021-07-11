@@ -1,0 +1,18 @@
+Gdg 	v 	15:20
+Gd 	a 	15:24
+Gd 	v 	15:25
+Hgwbr 	- 	15:26
+Mda 	- 	15:28
+Mdo 	- 	15:29
+Nwki 	- 	15:30
+Nwk 	+ 	15:32
+Cps 	+ 	15:35
+Rta 	+ 	15:38
+Rtngo 	- 	15:40
+Rtngw 	- 	15:41
+Rtn 	+ 	15:43
+Hlba 	- 	15:45
+Az 	- 	15:46
+Wspl 	- 	15:47
+Rtd 	a 	15:49   [15]
+Rtd     v   16:08   >7701

@@ -1,0 +1,23 @@
+Ddr     a   11:35   <7200
+Ddr 	v 	11:41   [15]
+Ddrs 	a 	11:44
+Ddrs 	v 	11:45
+Wijb 	- 	11:46
+Bmbr 	- 	11:47
+Sdtb 	+ 	11:49
+Sdt 	a 	11:52
+Sdt 	v 	11:53
+Hbzm 	+ 	11:56
+Gnd 	+ 	11:58
+Bhdv 	a 	12:01
+Bhdv 	v 	12:02
+Gr 	a 	12:07
+Gr 	v 	12:09
+Akl 	+ 	12:13
+Mkbr 	- 	12:15
+Ldm 	a 	12:20
+Ldm 	v 	12:21
+Bsd 	+ 	12:27
+Gdma 	- 	12:31
+Gdm 	a 	12:33
+Gdm     v   12:39   [3] [*4a] >7200

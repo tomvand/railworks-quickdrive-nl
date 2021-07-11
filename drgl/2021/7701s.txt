@@ -1,0 +1,18 @@
+Rtd     a   08:49   <7700
+Rtd 	v 	09:08   [15]
+Wspl 	- 	09:10
+Az 	- 	09:11
+Hlba 	- 	09:12
+Rtn 	+ 	09:13
+Rtngw 	- 	09:15
+Rtngo 	- 	09:16
+Rta 	+ 	09:18
+Cps 	+ 	09:21
+Nwk 	+ 	09:25
+Nwki 	- 	09:26
+Mdo 	- 	09:28
+Mda 	- 	09:29
+Hgwbr 	- 	09:30
+Gd 	a 	09:32
+Gd 	v 	09:33
+Gdg 	a 	09:36

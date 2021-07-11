@@ -1,0 +1,21 @@
+Ut  a   12:18
+Ut 	v 	12:26   [1] <5701
+Uto 	+ 	12:30
+Blw 	- 	12:31
+Bln 	- 	12:32
+Hor 	- 	12:35
+Hvsp 	+ 	12:39
+Hvs 	a 	12:42
+Hvs 	v 	12:43
+Hvsm 	- 	12:44
+Crao 	- 	12:45
+Craw 	- 	12:46
+Bsmz 	- 	12:47
+Ndb 	a 	12:48
+Ndb 	v 	12:51
+Kv 	- 	12:54
+Mbga 	- 	12:57
+Ampo 	+ 	13:01
+Almmo 	- 	13:03
+Almm 	+ 	13:05
+Alm 	a 	13:08

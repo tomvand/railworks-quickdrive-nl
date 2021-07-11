@@ -1,0 +1,21 @@
+Alm 	v 	21:22
+Almm 	+ 	21:25
+Almmo 	- 	21:26
+Ampo 	+ 	21:29
+Mbga 	- 	21:31
+Kv 	- 	21:33
+Ndb 	a 	21:40
+Ndb 	v 	21:42
+Bsmz 	- 	21:43
+Craw 	- 	21:44
+Crao 	- 	21:45
+Hvsm 	- 	21:46
+Hvs 	a 	21:47
+Hvs 	v 	21:48
+Hvsp 	+ 	21:51
+Hor 	+ 	21:55
+Bln 	- 	21:59
+Blw 	- 	22:00
+Uto 	+ 	22:02
+Ut 	a 	22:06
+Ut  v   22:24   [1] >14900

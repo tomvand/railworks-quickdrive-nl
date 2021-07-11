@@ -1,0 +1,27 @@
+Ddr     a   12:34   <5001
+Ddr 	v 	12:42   [3a]
+Grbr 	- 	12:44
+Zwd 	+ 	12:45   [2]
+Kfhaz 	- 	12:50
+Brd 	+ 	12:51   [2]
+Rlb 	+ 	12:54   [2]
+Rtst 	- 	12:56
+Rtz 	+ 	12:58   [2]
+Wiltz 	- 	12:59
+Rtb 	+ 	13:01   [2]
+Wiltn 	- 	13:03
+Rtd 	a 	13:04
+Rtd 	v 	13:06   [8]
+Dhsa 	- 	13:07
+Dhs 	- 	13:08
+Rmoa 	- 	13:09
+Sdm 	+ 	13:11
+Dtcp 	+ 	13:17
+Dt 	+ 	13:20
+Ngsfa 	- 	13:21
+Dta 	- 	13:22
+Rsw 	+ 	13:24
+Gvmw 	+ 	13:27
+Gv 	a 	13:31
+Gv 	v 	13:33
+Gvc 	a 	13:36

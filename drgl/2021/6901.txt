@@ -1,0 +1,42 @@
+Gvc 	v 	10:43
+Bkh 	- 	10:46
+Vb 	+ 	10:47
+Ypb 	+ 	10:50
+Ztm 	+ 	10:55
+Ztmo 	+ 	10:58
+Llzm 	+ 	11:00
+Mdaz 	- 	11:04
+Mda 	- 	11:05
+Hgwbr 	- 	11:07
+Gd 	a 	11:10
+Gd 	v 	11:15
+Gdg 	a 	11:17
+Gdg 	v 	11:18
+Odw 	- 	11:24
+Odo 	- 	11:25
+Wdo 	- 	11:26
+Wd 	a 	11:28
+Wd 	v 	11:34
+Hmla 	- 	11:36
+Hmlva 	- 	11:37
+Vtn 	+ 	11:40
+Utt 	+ 	11:43
+Utlr 	+ 	11:45
+Utwaw 	- 	11:47
+Utwao 	- 	11:48
+Ut 	a 	11:50
+Ut 	v 	11:52   [21]
+Utvr 	+ 	11:54
+Utln 	+ 	11:57
+Htn 	+ 	12:01
+Htnc 	a 	12:03
+Htnc 	v 	12:04
+Lek 	- 	12:08
+Cl 	+ 	12:10
+Gdma 	- 	12:14
+Gdm 	a 	12:16
+Gdm 	v 	12:24   [4] [*4a]
+Wnn 	- 	12:28
+Tpsw 	+ 	12:31
+Tl 	a 	12:35
+Tl  v   12:53   [3] >6900

@@ -1,0 +1,76 @@
+Asd 	v 	13:04
+Sgbr 	- 	13:05
+Sgra 	- 	13:06
+Obpa 	- 	13:08
+Ass 	+ 	13:09
+Hwzb 	- 	13:11
+Hw 	- 	13:12
+Hlms 	- 	13:15
+Spbr 	- 	13:17
+Hlm 	a 	13:19
+Hlm 	v 	13:20
+Zspl 	- 	13:22
+Had 	+ 	13:25
+Hil 	- 	13:29
+Lis 	- 	13:31
+Nwh 	- 	13:33
+Vh 	- 	13:35
+Ledn 	a 	13:40
+Ledn 	v 	13:45
+Dvnk 	- 	13:47
+Vkbr 	- 	13:48
+Vst 	- 	13:49
+Gvm 	- 	13:51
+Laa 	+ 	13:54
+Gv 	a 	13:57
+Gv 	v 	13:59
+Gvmw 	- 	14:01
+Rsw 	- 	14:02
+Dta 	- 	14:03
+Ngsfa 	- 	14:04
+Dt 	+ 	14:05
+Dtcp 	- 	14:07
+Sdm 	+ 	14:13
+Rmoa 	- 	14:14
+Dhs 	- 	14:15
+Dhsa 	- 	14:16
+Rtd 	a 	14:18
+Rtd 	v 	14:21   [4/7]
+Wiltn 	- 	14:22
+Rtb 	+ 	14:24   [3]
+Wiltz 	- 	14:25
+Rtz 	- 	14:26
+Rtst 	- 	14:27
+Rlb 	- 	14:28
+Brd 	- 	14:30
+Kfhaz 	- 	14:31
+Zwd 	- 	14:34
+Grbr 	- 	14:35
+Ddr 	a 	14:36
+Ddr 	v 	14:37   [5]
+Ddzd 	- 	14:40
+Wld 	- 	14:41
+Mdbz 	- 	14:44
+Zlw 	- 	14:46
+Zvb 	- 	14:50
+Zvbi 	- 	14:51
+Mabr 	- 	14:52
+Odb 	- 	14:55
+Rsd 	a 	15:00
+Rsd 	v 	15:06   [4a]
+Kraga 	- 	15:11
+Bgn 	+ 	15:15
+Rb 	+ 	15:25
+Kbd 	+ 	15:30
+Krg 	+ 	15:35
+Vlk 	- 	15:37
+Bzl 	+ 	15:41
+Gs 	+ 	15:46
+Ha 	- 	15:49
+Lwd 	- 	15:54
+Arn 	+ 	15:56
+Abr 	- 	15:58
+Mdb 	+ 	16:01
+Vss 	+ 	16:06
+Vs 	a 	16:09   [3]
+Vs  v   16:21   >2201

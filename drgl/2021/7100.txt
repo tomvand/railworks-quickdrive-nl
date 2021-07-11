@@ -1,0 +1,14 @@
+Gr 	v 	13:25
+Bhdv 	a 	13:30
+Bhdv 	v 	13:31
+Gnd 	+ 	13:34
+Hbzm 	- 	13:36
+Sdt 	a 	13:38
+Sdt 	v 	13:39
+Sdtb 	+ 	13:42
+Bmbr 	- 	13:43
+Wijb 	- 	13:44
+Ddrs 	a 	13:45
+Ddrs 	v 	13:46
+Ddr 	a 	13:50   [15]
+Ddr     v   13:56   >7101

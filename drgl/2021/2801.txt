@@ -1,0 +1,30 @@
+Rtd     a   11:10   <2800
+Rtd 	v 	11:20   [13]
+Wspl 	- 	11:22
+Az 	- 	11:23
+Hlba 	- 	11:24
+Rtn 	- 	11:25
+Rtngw 	- 	11:26
+Rtngo 	- 	11:27
+Rta 	+ 	11:28
+Cps 	- 	11:30
+Nwk 	- 	11:32
+Nwki 	- 	11:33
+Mdo 	- 	11:35
+Mda 	- 	11:36
+Hgwbr 	- 	11:37
+Gd 	a 	11:38
+Gd 	v 	11:39
+Gdg 	- 	11:41
+Odw 	- 	11:43
+Odo 	- 	11:44
+Wdo 	- 	11:48
+Wd 	- 	11:49
+Hmla 	- 	11:51
+Hmlva 	- 	11:52
+Vtn 	- 	11:53
+Utt 	- 	11:54
+Utlr 	- 	11:55
+Utwaw 	- 	11:56
+Utwao 	- 	11:57
+Ut 	a 	11:58

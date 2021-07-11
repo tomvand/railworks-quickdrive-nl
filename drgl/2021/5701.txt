@@ -1,0 +1,33 @@
+Hfd 	v 	11:38
+Shl 	a 	11:42
+Shl 	v 	11:43
+Asra 	- 	11:46
+Skbr 	- 	11:47
+Asdz 	a 	11:49
+Asdz 	v 	11:50
+Rai 	+ 	11:52
+Dvaw 	- 	11:54
+Dvd 	+ 	11:56
+Vspa 	- 	11:57
+Dmnz 	+ 	11:59
+Mdsa 	- 	12:01
+Ddm 	- 	12:02
+Gpda 	- 	12:04
+Wp 	a 	12:06
+Wp 	v 	12:13
+Vtbr 	- 	12:15
+Kv 	- 	12:17
+Ndb 	+ 	12:19
+Bsmz 	+ 	12:22
+Craw 	- 	12:23
+Crao 	- 	12:24
+Hvsm 	+ 	12:26
+Hvs 	a 	12:28
+Hvs 	v 	12:29
+Hvsp 	+ 	12:32
+Hor 	+ 	12:36
+Bln 	- 	12:41
+Blw 	- 	12:42
+Uto 	+ 	12:44
+Ut 	a 	12:48   [1]
+Ut  v   12:56   [1] >4900

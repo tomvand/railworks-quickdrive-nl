@@ -1,0 +1,14 @@
+Ddr     a   11:50   <7100
+Ddr 	v 	11:56   [15]
+Ddrs 	a 	11:59
+Ddrs 	v 	12:00
+Wijb 	- 	12:01
+Bmbr 	- 	12:02
+Sdtb 	+ 	12:04
+Sdt 	a 	12:07
+Sdt 	v 	12:08
+Hbzm 	- 	12:10
+Gnd 	+ 	12:11
+Bhdv 	a 	12:15
+Bhdv 	v 	12:16
+Gr 	a 	12:21

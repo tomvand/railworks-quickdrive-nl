@@ -1,0 +1,44 @@
+Ddr     a   11:32   <6601
+Ddr 	v 	11:58   [4b]
+Ddzd 	+ 	12:01
+Wld 	- 	12:05
+Mdbz 	- 	12:07
+Zlw 	+ 	12:09
+Zha 	- 	12:12
+Nvbro 	- 	12:13
+Bdpb 	+ 	12:16
+Bda 	- 	12:19
+Bd 	a 	12:21
+Bd 	v 	12:23   [5/6]
+Gz 	+ 	12:30
+Tbr 	+ 	12:35
+Tbu 	+ 	12:39
+Tb 	a 	12:42
+Tb 	v 	12:43
+Tba 	- 	12:45
+Tbi 	- 	12:47
+Vga 	- 	12:55
+Ht 	a 	12:58
+Ht 	v 	13:02   [1]
+Htda 	- 	13:04
+Hto 	+ 	13:06
+Rs 	+ 	13:10
+Ow 	+ 	13:16
+O 	+ 	13:20
+Oelz 	- 	13:21
+Rvs 	+ 	13:26
+Mbrvo 	- 	13:27
+Wc 	+ 	13:31
+Nmd 	+ 	13:35
+Nmgo 	+ 	13:38
+Nm 	a 	13:43
+Nm 	v 	13:46
+Nml 	+ 	13:49
+Rsa 	- 	13:51
+Ebtwa 	- 	13:52
+Esta 	- 	13:53
+Est 	+ 	13:54
+Ahz 	+ 	13:58
+Ahwa 	- 	14:01
+Ahb 	- 	14:02
+Ah 	a 	14:04

@@ -1,0 +1,22 @@
+Asd 	v 	13:22
+Sgbr 	- 	13:24
+Sgra 	- 	13:25
+Asdta 	- 	13:26
+Ass 	- 	13:27
+Aeg 	- 	13:28
+Asdl 	- 	13:29
+Asra 	- 	13:32
+Shl 	a 	13:34
+Shl 	v 	13:37
+Hfd 	- 	13:40
+Hfdm 	- 	13:41
+Hshfdo 	- 	13:43
+Hshmdo 	- 	13:47
+Hsghtn 	- 	13:50
+Hsghtz 	- 	13:53
+Hsrtdv 	- 	13:55
+Hsvbw 	- 	13:56
+Hsrtdt 	- 	13:59
+Rhsla 	- 	14:00
+Rtd 	a 	14:03   [3/11]
+Rtd     v   14:25   >1001

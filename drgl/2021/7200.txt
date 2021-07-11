@@ -1,0 +1,23 @@
+Gdm     a   12:33
+Gdm 	v 	12:39   [3] [*4a] <7201
+Gdma 	- 	12:40
+Bsd 	+ 	12:44
+Ldm 	a 	12:50
+Ldm 	v 	12:52
+Mkbr 	- 	12:57
+Akl 	+ 	12:58
+Gr 	a 	13:02
+Gr 	v 	13:09
+Bhdv 	a 	13:14
+Bhdv 	v 	13:15
+Gnd 	+ 	13:18
+Hbzm 	+ 	13:20
+Sdt 	a 	13:22
+Sdt 	v 	13:23
+Sdtb 	+ 	13:26
+Bmbr 	- 	13:27
+Wijb 	- 	13:28
+Ddrs 	a 	13:29
+Ddrs 	v 	13:30
+Ddr 	a 	13:35   [15]
+Ddr     v   13:41   >7201
