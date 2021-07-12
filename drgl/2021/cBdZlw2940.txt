@@ -1,0 +1,8 @@
+# 2019b_bls.pdf 43522
+# Rtd_Bd dal (:16)
+Bd      v   00:29   Novara(Cont), Cont, Diesel
+Bda     -   00:30
+Bdpb    -   00:32
+Nvbro   -   00:35
+Zha     -   00:36
+Zlw     a   00:40
