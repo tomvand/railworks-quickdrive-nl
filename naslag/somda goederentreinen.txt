@@ -1,0 +1,770 @@
+9 juli 2021: BLSC, CT, VTG, NIAG, SBBC, SHTR en RRF bijgewerkt.
+27 juni 2021: CT, DBC en SBBC bijgewerkt.
+26 juni 2021: DBC, FT, RC, SBBC en RRF bijgewerkt.
+16 juni 2021: DBC, LNS, HSL en RTBC bijgewerkt.
+11 juni 2021: CT, DBC en NIAG bijgewerkt.
+
+
+
+Om wat duidelijkheid te scheppen in het hele goederengebeuren hieronder een lijst van de in Nederland actieve goederenlocs. Op de grensstations, met name in Venlo, komen nog andere loctypen, die hier niet worden genoemd om het zo overzichtelijk mogelijk te houden. Informatie over lading van treinen is onderaan dit bericht te vinden. Vragen over en/of aanvullingen voor dit bericht zijn uiteraard welkom in het forum
+Aanvullingen op Cargo richtlijnen dan wel per email.
+
+Van belang bij het invoeren van goederentreinen met een in eerste instantie onbekend treinnummer zijn tijd, richting en belading/soort wagens. Om toch een nummer te kunnen achterhalen zijn deze gegevens van cruciaal belang. Daarnaast is het niet zo dat een treinnummer per definitie correct is als de doorkomsttijd klopt met die van het treinnummer, een containertrein die doorkomt op de tijd van een kolentrein krijgt niet ineens het treinnummer van die kolentrein.
+N.B. Conform de Somda-invoerrichtlijnen moet een spatie in het locnummer vervangen worden door een . Die . staat er in het echt dus niet op. B.v.; 189 096 moet vermeld worden als 189.096. Dergelijke locnummers staan hieronder al vermeld met .
+
+Inhoudsopgave van het overzicht
+
+BAM Rail
+Bentheimer Eisenbahn (BE)
+BLS Cargo (BLSC) / Crossrail Benelux (CR)
+BoxXpress (BOXX)
+CapTrain (CT)
+DB Cargo (DBC)
+Ecco Rail (ECCO)
+Eurailscout
+Fairtrains (FT)
+HSL Netherlands (HSL)
+Independent Rail Partner (IRP)
+KombiRail Europe (KRE)
+Lineas (LNS)
+LTE
+Mercitalia Rail (MIR)
+Metrans (MT)
+Niederrheinische Verkehrsbetriebe Aktiengesellschaft (NIAG)
+PKP Cargo (PKPC)
+Railexperts (RXP)
+Rail Force One (RFO)
+Railtraxx (RTX)
+RheinCargo (RC)
+Rhenus Rail International (RRI)
+Rotterdam Rail Feeding (RRF)
+RTB Cargo (RTBC)
+SBB Cargo (SBBC)
+Shunter Tractie (SHTR)
+Strukton Rail (SR)
+Swietelsky / RTS
+VolkerRail (VR)
+VTG Retrack (VTG)
+Wiener Lokalbahnen Cargo (WLC)
+Lading van de treinen
+
+
+BAM Rail
+
+BAM Rail heeft naast diverse werkvoertuigen ook een ex-DB 703 (Windhoff) en de Mosi 27. BAM huurt meestal RRF in voor hun werktreinen en de Speno-slijptreinen rijden onder regie van BAM. De stopmachines worden ingevoerd als "UNIMAT20x".
+
+
+Bentheimer Eisenbahn (BE)
+
+De BE had tot november 2020 de ex-NS 1835 in dienst als E01. De loc werd ingezet voor de Co-shuttle, een containertrein tussen de Maasvlakte en Coevorden, of voor omgeleide treinen tussen Coevorden en Bad Bentheim. In november 2020 heeft IRP / TCS deze verbindingen overgenomen, en is de E01 niet meer in dienst bij BE. Het bedrijf wel nog drie blauwe G2000-locomotieven, die af en toe in Nederland ingezet worden bij omleidingen van de BE-treinen, grindtreinen naar Almelo of gehuurd worden door IRP. Dit zijn de "D20", "D21" en "D22". 
+
+
+BLS Cargo (BLSC) / Crossrail Benelux (CR)
+
+BLS Cargo-locomotieven rijden momenteel verschillende treinen uit Zwitserland en Italië naar Nederland. BLS Cargo is eigenaar van Crossrail, dat vooral transittreinen tussen België en Duitsland rijdt. Het kan voorkomen dat BLSC locomotieven voor Crossrail-treinen verschijnen. BLSC en Crossrail beschiken over de volgende locomotieven:
+
+Class 66:
+PB03 "Mireille" (rood/wit, Crossrail-logo)
+PB12 "Marleen" (rood/wit, Crossrail-logo)
+PB15 (blauw, klein RTB Cargo-logo)
+DE6301 "Debora" (rood/wit, Crossrail-logo)
+DE6302 "Federica" (rood/wit, Crossrail-logo)
+DE6306 (grijs)
+DE6307 (grijs)
+DE6308 "Anja" (rood/wit, Crossrail-logo + tekst "Repaired by ElectroMotive and DB Cottbus")
+DE6309 (grijs, klein Crossrail-logo)
+DE6310 "Griet" (rood/wit, Crossrail-logo)
+DE6311 "Hana" (rood/wit, Crossrail-logo)
+DE6312 "Alix" (rood/wit, Crossrail-logo)
+DE6314 "Hanna" (rood/wit, Crossrail-logo)
+
+TRAXX (lease van Railpool tenzij anders vermeld):
+186.103 (grijs, BLS Cargo Alpen-bestickering)
+186.105 (grijs, BLS Cargo Alpen-bestickering)
+186.109 (grijs, BLS Cargo Alpen-bestickering)
+186.150 (grijs/wit, Crossrail-logo, lease van Akiem)
+186.187 (grijs/blauw, Crossrail-logo)
+186.211 (groen/grijs, lease van Alpha Trains)
+186.213 (groen/grijs, lease van Alpha Trains)
+186.220 (groen/grijs, lease van Alpha Trains)
+186.228 (groen/grijs, lease van Alpha Trains)
+186.268 (donkerblauw, Rhenus-logo)
+186.269 (donkerblauw, Rhenus-logo)
+186.289 (grijs/blauw)
+186.292 (grijs/blauw)
+186.447 (grijs/blauw)
+186.458 (grijs/blauw)
+186.496 (grijs/blauw)
+186.498 (grijs/blauw)
+186.509 (grijs/blauw)
+In zeldzame gevallen worden BLSC 486'ers die geen verdere toelating in Nederland hebben meegenomen vanuit Venlo naar Lutterade DSM. Omdat deze wel tot Venlo kunnen komen, mogen deze ingevoerd worden op dezelfde manier als de 186'ers.
+
+BLSC beschikt hiernaast ook over Vectrons met toelating in Nederland:
+475.401 t/m 475.415 (eigendom, groen/grijs met BLS Cargo Alpen-bestickering)
+475.416 t/m 475.425 (eigendom, groen/grijs met kleine logo's, toegelaten in België)
+- De 475.417 heeft inmiddels BLS Cargo Alpen-bestickering.
+193.494 t/m 193.497 (huur van Hupac, blauw met BLS Cargo Alpen-bestickering)
+193.711 (huur van MRCE, slogan "e-mobility 140 years" op de zijkanten)
+193.712 t/m 193.714, 193.716 (huur van MRCE, zwart met zowel BLS Cargo- als Crossrail-logo's)
+193.715 (huur van MRCE, zwart)
+193.717 (huur van MRCE, "Locomotive Workshop Rotterdam"-reclame)
+
+De Vectron-locomotieven rijden sinds december 2018 net als de 186'ers containershuttles naar Amsterdam en Rotterdam, maar ook ketelwagentreinen naar Rotterdam. 
+
+
+BoxXpress (BOXX)
+
+BoxXpress is een Duitse goederenvervoerder die vooral actief is in het containervervoer in Duitsland, maar sinds 1 juli 2019 ook treinen van en naar de Rotterdamse havens rijdt onder IRP-toelating. Onder andere de Kornwestheim- en München-shuttles zijn van andere vervoerders overgenomen. Hiervoor heeft BOXX de 193.833 t/m 193.836 beschikbaar, allen eigendom en wit/blauw met groot logo en een rode snor, en sinds augustus 2020 ook de 193.536 t/m 193.539 in dezelfde kleuren maar zonder rode snor. 
+
+
+CapTrain (CT)
+
+CapTrain rijdt o.a. kolentreinen uit Maasvlakte naar Duitsland en verschillende containertreinen tussen Rotterdam en midden-Europa.
+CapTrain heeft de beschikking over de volgende locs:
+
+600:
+691 (geel/blauw, gehuurd van BTT, voor rangeerwerk in Sloe)
+
+V100 (alle grijs/groen):
+203-101
+203-102 (nummer CT-102 op de loc, maar invoeren als 203-102)
+203-103
+203-104
+
+G1206:
+1375 (limoengroen/grijs, "Corina")
+1506 (blauw/wit/geel)
+1507 (blauw/wit/geel)
+1796 (groen/wit/geel)
+
+186:
+186.151 t/m 186.158 (groen/grijs met logo's, eigendom van Captrain Cargo West)
+186.229 (groen/grijs, lease van Alpha Trains op dagbasis)
+186.368 (grijs met 3 rode vlekken en logo's, lease van Akiem)
+
+In zeldzame gevallen komen ITL Vectrons met treinen vanuit Duitsland tot Oldenzaal, alwaar een locwissel plaatsvindt met een RFO locomotief. Dit betreffen de 193.781 t/m 193.786 (groen/grijs met Captrain logo's).
+
+
+DB Cargo (DBC)
+
+DB Cargo is in Nederland actief met 6400'en, 189'ers en 193'ers. 
+
+6400:
+De diesellocs 6400 zijn DB Verkehrsrot behalve de geel/grijze 6461. Er zijn verschillende aangepaste 6400'n:
+- 6411-6414, 6416-6418, 6454 en 6455 hebben ATB NG.
+- 6421-6442 hebben ETCS.
+- 6476-6479 zijn geschikt als heuvelloc op Kijfhoek.
+- 6461-6475 en 6480-6485 zijn aangepast voor de inzet in Duitsland en hebben een vin op de huif. De meeste van deze locomotieven staan echter terzijde of zijn verkocht aan Polen.
+- 6463, 6466, 6502-6513 en 6515-6520 zijn geschikt voor inzet in België.
+
+De ATB-NG locs worden ingezet vanuit Onnen naar Delfzijl/Roodeschool/Veendam, tussen Sittard en Venlo en tussen Sittard en Emmen waarbij die loc overdag rangeert in Almelo.
+De ETCS locs zijn hoofdzakelijk actief op de Rotterdamse havenlijn met uitlopers naar Acht, Tilburg Industrie en Alphen a/d Rijn.
+De zg. "Duitse Herders" worden bij een tekort aan 189'ers sporadisch ingezet tussen Osnabrück en Amersfoort en verder gebruikt voor de binnenlandse dienst.
+De zg. "Vlaamse Reuzen" zijn actief tussen Sittard en Kinkempois, vanuit Kijfhoek naar en in de Antwerpse haven en naar en in Zeeuws Vlaanderen.
+
+De 6403, 6443, 6462 en 6467 staan terzijde op Whz.
+De 6401-6405, 6408, 6410, 6444, 6445, 6453, 6458, 6459, 6460, 6467, 6468, 6470, 6472-6474, 6480, 6483, 6485, 6480 en 6486-6501 zijn verkocht aan DB Cargo Polska (Polen).
+De 6406 en 6409 zijn verkocht aan LTE.
+De 6407 en 6420 zijn verkocht aan NRC Norway (Noorwegen).
+De 6419, 6446, 6448 en 6449 zijn verkocht aan Grenland Rail (Noorwegen).
+De 6447, 6450, 6451, 6456 en 6457 zijn verkocht aan Eurotunnel (Frankrijk).
+De 6452 is verkocht aan NJD Maskin AS (Noorwegen).
+De 6475, 6481, 6482 en 6484 zijn verkocht aan Railtraxx (België).
+De 6415 en 6514 zijn gesloopt (na ongeval Barendrecht 25-9-2009, sloop in maart 2010).
+De 6413, 6436, 6438, 6503 en 6506 zijn voorzien van de tekst "Bedankt. Aan iedereen die helpt in deze crisis. Aan al onze medewerkers die Europa mobiel houden!"
+De 6471 is voorzien van een Belgische vlag met daarin een uitlijning van België en het DB-logo.
+
+DBC België huurt de grijs/witte 186.240 van Akiem.
+
+189:
+Alle DBC 189'ers die in Nederland komen zijn rood met een wit front. De voor Nederland geschikte 189'ers zijn de 189.023 t/m 189.054, 189.065 t/m 189.089, 189.100, 189.822 en 189.823. De locs worden ingezet voor allerlei goederentreinen naar en van Duitsland. De locs met AK worden hoofdzakelijk ingezet voor ertsvervoer Maasvlakte-Dillingen.
+De 189.029 t/m 189.050 hebben een automatische koppeling voor ertsvervoer.
+De 189.072 is voorzien van het afbladerend opschrift "GZ1000".
+De 189.822 en 189.823 hebben een iets afwijkend front en kunnen ook in Oostenrijk en Italië rijden.
+
+Daarnaast heeft DBC nog 10 locs teruggekocht van MRCE. De volgende locs zijn van die serie al bij DBC in dienst;
+189.090
+189.093
+189.094
+189.095 (nog voorzien van BELog-stickers)
+189.098 (nog voorzien van BELog-stickers)
+189.099
+
+193:
+193.300 t/m 193.379 (merendeel rood)
+193.560 (onderdeel van tweede serie)
+
+De 193.300, 193.301, 193.309, 193.310, 193.312, 193.357 en 193.361 hebben grote groene stickers met o.a. de tekst "Das ist Grün" op de zijkanten.
+De 193.318 en 193.365 zijn zwart met ruggengraat-stickers en voorzien van de tekst "I am the backbone of the economy" op de zijkanten.
+De 193.331 heeft het cijfer "500" op de neus om te vieren dat Siemens de vijfhonderdste Vectron in München-Allach heeft gebouwd.
+De 193.338 heeft de tekst "#DBCargofährt" groot op de zijkanten.
+De 193.342 is voorzien van stickers "Unlock the dock" en "DBwestports express".
+De 193.360 t/m 193.366, 193.368 en 193.560 zijn Siemens-wit, al dan niet met stickers.
+De 193.360, 193.362 en 193.364 hebben een kaart van Europa, blauwe strepen en de tekst "I am European" op de zijkanten.
+De 193.363 heeft groene strepen en de tekst "I am a climate hero" op de zijkanten.
+De 193.366 heeft regenboogstrepen en de tekst "I am Einziganders" op de zijkanten.
+De 193.368 is deels blauw en deels turqoise, en de teksten "Starke Cargo", "Fur das Klima" en "Fur das Wirdschaft" op één zijkant, de Engelse vertalingen zitten op de andere kant.
+De 193.379 heeft het cijfer "100 MS Vectron" op de neus om te vieren dat Siemens de honderdste DB Cargo Vectron MS heeft afgeleverd.
+De 193.560 is geheel groen en heeft de tekst "Güter gehören auf die Schiene" en "wirsindgueter. de" groot op de zijkanten.
+
+
+Ecco Rail (ECCO)
+
+Ecco Rail is een Poolse goederenvervoerder die sinds mei 2019 de LKW-Walter treinen uitvoert tussen de Rotterdamse Botlek en Wenen. In Nederland wordt gereden onder de vlag van RRF. Ecco Rail heeft hiervoor de volgende locs in dienst, allen 189'ers gehuurd van MRCE, merendeel zwart;
+189.104
+189.201
+189.208
+189.280
+189.281
+189.283
+189.998 (ES64F4-098)
+
+
+Eurailscout
+
+Eurailscout heeft diverse zelfrijdende en gesleepte meettreinen.
+Zelfrijdend:
+BRT-91 "mP Jules" (ex-motorPost)
+UFM-07
+UFM120
+UFM160
+UST02 ("Karla Peijs", twee-delig)
+Gesleepte:
+SIM-09 "Antoinette"
+SIM-10 "Inge"
+SIM-11
+SIM-12 "Annet"
+SIM-13 "Théia"
+SIM-14
+US15
+
+De UFM160 en de US15 zijn gedetacheerd in Frankrijk i.s.m. Vigirail/SNCF.
+De videoschouwtreinen (voormalige NS 2200'en), ODT-08, UST-96 en motorPost BRT-08 zijn terzijde gesteld, de 302282 is verkocht aan SHD.
+
+
+Fairtrains (FT)
+
+Fairtrains is een in 2017 opgerichte stichting en heeft als doelstelling het verduurzamen van spoorwegmaterieel. Dit wordt gedaan door overcompleet, maar nog bruikbaar spoorwegmaterieel in dienst te houden en te verhuren aan spoorwegbedrijven. Met de opbrengsten van Fairtrains wordt materieel behouden en onderhouden. Het is geen vervoerder, wel een voertuighouder. Let op: terzijde gestelde locomotieven mogen maximaal 1 keer per maand ingevoerd worden. Fairtrains beschikt over/voert onderhoud uit aan de volgende locomotieven:
+
+Sik 200:
+231 (geel/grijs, Fairtrains-logo, inzetbaar voor rangeerwerk in Blerick)
+276 (geel/grijs met kraan, in revisie in Blerick)
+314 (geel/grijs, terzijde in Blerick)
+
+1100:
+1122 (geel/grijs, terzijde in Blerick, eigendom van Werkgroep loc 1501)
+
+1200:
+1201 (turquoise, tentoongesteld in het Spoorwegmuseum, eigendom van Werkgroep loc 1501)
+1218 (rood/geel, terzijde in Blerick, eigendom van Werkgroep loc 1501)
+1251 (blauw/geel, Railexperts-logo, inzetbaar - verhuurd aan Railexperts)
+1252 (zwart/wit, Railpromo-logo's, terzijde in Blerick)
+1254 (rood/geel, terzijde in Blerick)
+1255 (blauw/geel, terzijde in Blerick, eigendom van Stichting KLOK)
+
+1300:
+1304 (bruin/oranje, inzetbaar en beschikbaar voor verhuur, stadswapen "Culemborg")
+1315 (blauw/wit met Fairtrains-logo en stadswapen "Tiel")
+
+
+HSL Netherlands (HSL)
+
+HSL Netherlands b.v. is de opvolger van HSL Logistik b.v. nadat in april 2017 de licentie werd ingetrokken door IL&T. HSL Netherlands houdt zich bezig met spotvervoer zoals ketelwagentreinen en graantreinen.
+
+Moederbedrijf HSL Deutschland beschikt over de volgende 186'ers die onder HSL-toelating naar Nederland komen;
+186.148 (Akiem, Macquarie-kleurstelling)
+186.236 (Akiem, Macquarie-kleurstelling)
+186.298 (Railpool grijs/blauw)
+186.299 (Railpool grijs/blauw, vlaggen van 7 toegelaten landen op koppen en zijkanten en oranje strepen)
+186.364 (Akiem, "WaveRider", wit/lichtblauw met zee/eilandthema en de tekst "Erfolgswelle!")
+186.365 (Akiem grijs met 3 rode stippen)
+186.366 (Akiem grijs met 3 rode stippen)
+186.381 (Akiem/HSL blauw, "European Together Logistics"-bestickering)
+186.382 (Akiem rood, "European Together Logistics"-bestickering)
+186.383 (Akiem paars, "European Together Logistics"-bestickering)
+186.533 (Railpool grijs/blauw)
+186.551 (Railpool grijs/blauw, vlaggen van 7 toegelaten landen op koppen en zijkanten en oranje strepen)
+
+Voor het rijden van de Pon-autotreinen huurt HSL de 6002 (voormalige EETC 505) van RXP, deze kan ingevoerd worden als RXP6002. HSL huurt ook de G2000 1324 (bruine cabines, grijze huiven met oranje strepen, logo's en de teksten "We connect Europe" en "Kwaliteit nodig? Bel Mission Control!") van Alpha Trains, en zo nu en dan de 2454 van de Stichting 2454 CREW. De PB13 rijdt daarnaast bij HSL Belgium, in theorie kan deze loc ook naar Nederland komen.
+
+
+Independent Rail Partner (IRP)
+
+IRP is onderdeel van Lineas, en is een logistiek dienstverlener met leaselocomotieven G1206 en G2000 die rijdt onder de licentie van Rail2U. Alle diesellocomotieven worden ingevoerd als "IRP2xxx". Daarnaast gebruikt IRP ook regelmatig een 1700 van TCS voor het rijden van hun treinen.
+
+G1206:
+2201 (groen/wit met geel resp. wit contrastvlak, UIC 92 80 1275 634-4, ProRail Wegsleepdienst-sticker op cabine)
+2211 (zwart/roze met IRP logo's)
+2212 (zwart/roze met IRP logo's)
+2213 (zwart/roze met IRP logo's)
+
+G2000 met smalle cabine:
+2101 (grijs/roze, UIC 9280 1273 105-7, fabrieksnr. 1001034)
+2102 (grijs/roze, UIC 9280 1273 103-2, fabrieksnr. 1001039)
+2103 (grijs/roze, UIC 9280 1273 104-0, fabrieksnr. 1001326)
+2104 (grijs/roze, UIC 9280 1273 107-3, fabrieksnr. 1001038)
+2105 (grijs/roze, UIC 9280 1273 106-5, fabrieksnr. 1001035)
+2106 (grijs/roze, UIC 9280 1273 102-4, fabrieksnr. 1001043)
+2107 (grijs/blauw met roze streep, UIC 9280 1273 101-6, fabrieksnr. 1001029)
+
+
+KombiRail Europe (KRE)
+
+KombiRail Europe rijdt containertreinen tussen Maasvlakte en Duitsland en gebruikt hiervoor de van RheinCargo gehuurde 285.113 en de volgende 186'ers (lease van Railpool);
+186.422
+186.495
+186.536
+
+
+Lineas (LNS)
+
+Lineas is sinds 27 april 2017 de nieuwe naam van B Logistics (tot 7 oktober 2015 NMBS Logistics).
+
+De diesellocs 7771 t/m 7786, 7788 t/m 7790 en 7866 t/m 7870 worden ingezet naar NL, enkeltractie naar Zeeuws-Vlaanderen en in dubbeltractie naar Budel (zinkerts), Limburg (transit coil- en kalktreinen via Fvs-Vl-Kn), Sloe (ad-hoc), Veendam (dolime) en Lage Zwaluwe (kalkslurry). Invoeren als NMBS77xx.
+De 7784 en 7789 zijn zwart met groene strepen en Lineas-logo.
+De 7866 t/m 7869 hebben stickers op de cabine "Join our company in motion" (ene zijde) en "Check out www modal-shift be" (andere zijde). De 7866 heeft eveneens een klein Lineas-logo op de neus.
+
+De van Alpha Trains/NMBS gehuurde loc 2843 is beschikbaar voor allerlei internationale verbindingen, evenals de volgende van Railpool gehuurde locs;
+186.181 t/m 186.183
+186.256
+186.258
+186.291
+186.293 t/m 186.296
+186.424
+186.427
+186.445
+186.446
+186.448 t/m 186.457
+186.459
+186.492
+186.494
+186.497
+186.500 t/m 186.505
+186.507
+186.508
+186.510
+Hiernaast huurt Lineas ook de 186.384 t/m 186.387 (grijs met rode vlekken) van Akiem en de 186.209 en 186.228 direct van Alpha Trains. Een aantal locs heeft ook bestickering;
+De 2843 heeft stickers "E-drivers, 30% less energy" aan 1 kant.
+De 186.258 is wit met groene strepen, en voorzien groot Lineas-logo en #WeAreInThisTogether-slogan n.a.v. de coronacrisis.
+De 186.291 heeft op de koppen en op de Railpool-band een Belgische vlag, en kleine logo's.
+De 186.293 is zwart met groene strepen en voorzien van groot Lineas-logo.
+De 186.294 heeft logo's op de zijkanten en koppen.
+De 186.295 heeft gekleurde stickers op de zijkant met daarin een groot Railpool-logo.
+De 186.296 en 186.386 hebben logo's op de koppen.
+De 186.452, 186.454 en 186.494 hebben slechts op 1 van de koppen een logo.
+
+De E-locs serie 2800 invoeren als "NMBS28xx", niet met het E186-nummer. De 186.xxx van Railpool en Akiem dienen wel altijd met het E186-nummer ingevoerd te worden.
+
+Lineas Nederland huurt ook nog G1206'en van Northrail:
+1511 (zwart)
+1553 (zwart met Lineas-bestickering)
+1571 (zwart met Lineas-bestickering)
+
+Lineas heeft daarnaast de zwarte BTT V60'en 363.712 en 363.723 (met BTT logo's) beschikbaar voor rangeerwerk in Amsterdam Westhaven. Voor het rijden van de dolimetrein tussen Sittard en Onnen wordt een TCS 1700 gehuurd, een IRP G2000 verzorgt de lastmile naar Veendam.
+
+
+LTE
+
+LTE rijdt diverse containertreinen tussen Rotterdam en Duitsland/Oostenrijk, spotvervoer in de vorm van ketel- en graantreinen en een kolentreinverbinding tussen Amsterdam en Oostenrijk. LTE beschikt over de volgende locomotieven:
+
+6400 (blauw/wit):
+6406
+6409
+
+G1206:
+5612 (blauw/geel/wit, fabrieksnummer 1505)
+5633 (groen/geel/wit, grote LTE-sticker op cabine, fabrieksnummer 1797)
+
+TRAXX:
+186.355 (gehuurd van Akiem, grijs met 3 rode vlekken)
+186.359 (gehuurd van Akiem, grijs met 3 rode vlekken)
+186.530 (gehuurd van Railpool)
+186.540 (gehuurd van Railpool, kleine sticker "TRAXX locomotive no.200 for Railpool")
+286.940 (wit, LTE-logo, eigendom van moederbedrijf Rhenus, geregistreerd in Oostenrijk, vandaar het "286"-nummer)
+186.941 (blauw/wit met "AtTRACKtive"-design met slogan "Constant service", eigendom)
+186.942 (blauw/wit met "AtTRACKtive"-design met slogan "Uniting Power", eigendom)
+186.943 (blauw/wit met "AtTRACKtive"-design met slogan "Constant service", eigendom)
+186.944 (blauw/wit met "AtTRACKtive"-design met slogan "Joining Potential", eigendom)
+186.945 (blauw/wit met "AtTRACKtive"-design met slogan "Flowing Energy", eigendom)
+
+Vectron (lease van ELL tenzij anders vermeld):
+193.232 (zwart/grijs/groen, grote sticker "number 100 ELL/Flying Dutchman")
+193.261 (zwart/grijs/groen, grote LTE-sticker "from C2C carbon-dioxide free!")
+193.262 (zwart/grijs/groen, grote LTE-sticker "from C2C carbon-dioxide free!")
+193.263 (zwart/grijs/groen, grote LTE-sticker "from C2C carbon-dioxide free!")
+193.280 (zwart/grijs/groen met wit vlak en rode snor)
+193.299 (zwart/grijs/groen met wit vlak en rode snor)
+193.620 (zwart met witte neus, lease van MRCE)
+193.621 (zwart met witte neus, lease van MRCE)
+193.729 (zwart/grijs/groen, grote LTE sticker "ECS-eurocargo .at")
+193.733 (zwart/grijs/groen met wit vlak)
+193.735 (zwart/grijs/groen met wit vlak)
+193.737 (zwart/grijs/groen met wit vlak)
+193.738 (zwart/grijs/groen, grote sticker "number 111 ELL/Enchanting Loreley")
+193.740 (zwart/grijs/groen met 1 volledig gele zijde met grote sticker "Komm zum zug", andere zijde alleen binnen het reclamevak dezelfde slogan)
+193.829 (zwart/grijs/groen met wit vlak en rode snor)
+
+Daarnaast huurt LTE sinds 1 juni 2018 de Railexperts 6703.
+
+
+Mercitalia Rail (MIR)
+
+Sinds 2020 rijdt Mercitalia Rail in samenwerking met DB Cargo de containertreinen tussen Noord-Duitsland en Italië, en sinds kort ook tussen Nederland en Italië. MIR huurt hiervoor Vectrons van MRCE:
+193.700 en 193.702 t/m 193.709 (zwart met MIR-logo's)
+193.710 (slogan "e-mobility 140 years" op de zijkanten en kleine MIR-logo's)
+
+
+Metrans (MT)
+
+Metrans rijdt nagenoeg iedere dag containertreinen tussen Waalhaven RSC en Tsjechië.
+Metrans rijdt containertreinen onder de licentie van RRF met hun eigen locs:
+386.028 t/m 386.040.
+
+
+Niederrheinische Verkehrsbetriebe Aktiengesellschaft (NIAG)
+
+NIAG is een Duitse vervoerder die zich naast OV in de grensstreek ook met goederenvervoer bezighoudt. Sinds 2021 heeft het bedrijf een eigen licentie voor het rijden van goederentreinen in Nederland, en sinds 1 mei wordt daar ook gebruik van gemaakt, voor het rijden van kolentreinen tussen Amsterdam en het Ruhrgebiet. Hiervoor huurt NIAG de 189.207 (zwart) van MRCE. De bijsturing in Nederland wordt gedaan door RXP.
+
+
+PKP Cargo (PKPC)
+
+PKP Cargo rijdt op onregelmatige basis containertreinen afkomstig uit China tussen Polen en Tilburg. PKP beschikt over 3 Vectrons die in Nederland kunnen rijden, de 193.513 t/m 193.515 (grijs/rood met grote logo's).
+
+
+Railexperts (RXP)
+
+Railexperts (onderdeel van Railadventure) heeft de ex-Locon 9901, ex-Railpromo 1251 en ex-ACTS 6703 en 6705 in dienst voor gezelschapsvervoer en locomotief- en treinstel-overbrengingen. Daarnaast zijn de 1602, 1604, 1611 (9903), 1614, 1615 (9904) en 1616 (9902) overgekocht van DBC en beschikt ben ook over de voormalige V60'en van EETC. Het rijden van goederen- en werktreinen gebeurt vaak i.o.v. een andere vervoerder maar RXP kan ook rijden onder eigen licentie.
+Voor diverse rangeerwerkzaamheden gebruikt RXP de V100 201.093 van VEB Tractie. De 6703 is momenteel verhuurd aan LTE, de 6002 (voormalige EETC 505) rijdt bij HSL.
+De 9901 is oranje/wit met logo's en een blauwe verticale band.
+De 9902 is rood met logo's en een blauwe verticale band.
+De 9903 heeft de RailAdventure-kleurstelling, twee tinten grijs met RADVE-logo's.
+
+De nieuwe 9902, 9903 en 9904 kunnen gewoon ingevoerd worden onder die nummers.
+
+
+Rail Force One (RFO)
+
+RFO is de door Raillogix (actief in o.a. Nederland als logistiek bedrijf met het aantrekken van goederenvervoer per spoor) zelf opgerichte vervoerder die sinds juli 2017 actief is. RFO heeft de volgende locs ter beschikking;
+
+1800 (allen lease van RRL):
+1828 (oranje/wit)
+1829 (zilvergrijs met zwart/witte strepen)
+1830 (oranje met witte diagonale strepen op de koppen)
+1831 (oranje/wit)
+1837 (oranje/wit)
+
+NMBS 6200:
+6702 (oranje, lease van RRL, voormalig Locon-nummer 9802 op de loc)
+
+600:
+683 (oranje, lease van RRL)
+692 (donkergrijs met rode bufferbalken en geel/zwarte schrikstrepen op de fronten, lease van RRL)
+
+186:
+186.210 (groen/grijs, lease van Alpha Trains, kleine logo's op 1 neus)
+186.231 (groen/grijs, lease van Alpha Trains)
+
+189 (allen lease van MRCE):
+189.101 (zwart)
+189.203 (geel/grijs met kleine logo's op de neus en grote "1" op de zijkant)
+189.205 (geel/grijs met kleine logo's op de neus)
+189.210 (zwart)
+189.213 (zwart met NL + PL-vlaggen en "Linked by Rail"-opschrift, kleine logo's op de neus)
+
+193:
+193.623 (haaienbestickering, lease van MRCE)
+193.734 (lease ELL, zwart/grijs/groen)
+
+G1206:
+1572 (zwart, Rail Force One-logo op huif en tekst en nummer 7110 op de cabine)
+
+G2000:
+5001604 (zwart/grijs, Rail Force One-logo en tekst op cabines, tijdelijk buiten dienst na onstporing)
+5001605 (zwart/grijs, Rail Force One-logo en tekst op cabines)
+
+Bij afwezigheid van een andere dieselloc kan van Strukton een G1206 gehuurd worden.
+
+
+Railtraxx (RTX)
+
+Railtraxx is een Belgische vervoerder die met containertreinen via Essen-Roosendaal-Venlo naar Duitsland rijdt en heeft daarvoor de volgende locomotieven beschikbaar:
+
+Class 66's (lease van Beacon Rail):
+266.001 (groen/grijs met Captrain-logo's, nummer 6601 op de neus en onder cabineramen)
+266.009 (oude Captrain-kleuren, nummers PB05 en 6609 onder cabineramen)
+266.016 (oude Captrain-kleuren, nummer 6605 op de neus)
+266.024 (groen/grijs)
+266.031 (groen, logo)
+266.035 (grijs, logo)
+266.113 (blauw)
+266.118 (zwart, logo)
+561-04 (RRF-kleurstelling met Freightliner-logo's)
+
+G2000 (lease van Alpha Trains):
+272.003-5 (groen/grijs)
+
+6400 (groen):
+6475
+6481
+6482
+6484
+
+186 (groen/grijs, lease van Alpha Trains):
+186.123
+186.215
+186.216
+186.218
+186.226
+
+
+RheinCargo (RC)
+
+RheinCargo is de coöperatie van Hafen und Güterverkehr Köln (HGK) en Neuss Düsseldorfer Hafen (NDH). RC rijdt in Nederland containertreinen tussen Duitsland en de Maasvlakte en vervuilde grond naar Veendam. RC heeft daarvoor beschikbaar:
+
+Traxx F140 DE (allen grijs met RC logo's op zijkanten):
+DE801 (als enige ook logo's op de fronten)
+DE802 (geen logo's meer, verhuurd aan KRE als 285.113)
+DE803
+DE804
+DE805
+
+Class 66:
+DE61 (grijs, RC-logo)
+DE67 (groen)
+DE668 (grijs, RC-logo, "Klaus Meschede")
+
+
+Rhenus Rail St. Ingbert (RRI)
+
+Rhenus Rail rijdt enkele keren per week een kolentrein tussen Houtrakpolder en Frankfurt am Main, afwisselend met LTE en IRP-personeel. Hiervoor worden de 186.239 (Macquarie-grijs met RRI logo's) en 186.144 (Macquarie-grijs zonder logo's) gehuurd van Akiem.
+
+
+Rotterdam Rail Feeding (RRF)
+
+RRF rijdt verschillende containertreinen tussen Rotterdam en het Ruhrgebied, en is daarnaast ook actief in het (gas)ketelvervoer. Daarnaast verzorgt RRF de bijsturing en bediening van treinen verschillende andere vervoerders. Hiervoor is een grote verscheidenheid aan locs beschikbaar.
+
+Reeks 73:
+RRF heeft 8 ex-NMBS reeks 73, genummerd 101 t/m 108, allemaal geel/groen en inmiddels allemaal terzijde. Invoeren kan nog als "RRF10x" (max. 1x per maand conform invoerregels).
+
+V100:
+RRF heeft 10 V100'en, de 16 t/m 25, de 19 is blauw met witte Distrirail-opschriften, de rest groen/geel. De V100'en worden ingezet voor eigen treinen, voor aannemers en af en toe voor andere vervoerders. Invoeren als "RRFxx".
+
+G2000 (brede cabines tenzij anders vermeld, gehuurd van Alpha Trains):
+1384 (smalbek, grijs met blauwe cabines, tekst "VSFT" op cabine)
+1445 (grijs met blauwe cabines, voormalig RRF-nr 1103 op cabine)
+1634 (grijs met groene cabines)
+1699 (grijs met groene cabines, voormalig RRF-nr 1104 op cabine)
+Invoeren als "RRF1xxx"
+
+Class 66 (gehuurd van Beacon Rail):
+653-01 (oranje/geel/zwart met grote logo's)
+653-02 (blauw/geel met Beacon Rail logo's_
+653-03 (blauw/geel met HSL logo's)
+653-10 (zwart/geel, "JT-10")
+PB01 (oranje/geel/zwart met grote logo's)
+
+1600:
+4401 (ex 1606)
+4402 (ex 1609)
+Invoeren als "RRF4401" en "RRF4402".
+
+189 (lease van MRCE):
+189.284 (zwart, SBBC / Alpäzähmer logo's)
+189.285 (zwart)
+
+Onder RRF-toelating kunnen ook Freightliner Class 66-locomotieven in Nederland komen.
+266.004 (groen met gele streep en logo's)
+513-02 (Freighliner groen/geel)
+
+
+RTB Cargo (RTBC)
+
+Rurtalbahn Cargo (RTBC) rijdt in Nederland o.a. containertreinen Maasvlakte-Blerick en Pernis-Frankfurt Oder en is actief in ketelwagenvervoer. RTB heeft hiervoor diverse locs ter beschikking:
+
+Class 66:
+V267 (PB17, lease van Beacon Rail, groen, groot RTBC-logo)
+PB09 (blauw, lease van Beacon Rail, geen V2xx nummer, buiten dienst i.v.m. schade)
+PB14 (groen, lease van Beacon Rail, geen V2xx nummer)
+
+G1206:
+V155 (grijs/blauw, RTBC-logo, eigendom)
+V156 (grijs/blauw, RTBC-logo, eigendom)
+V158 (zwart, wit contrastvlak, RTBC-logo, lease northrail)
+V159 (donkergrijs, wit contrastvlak, lease northrail)
+V160 (zwart, wit contrastvlak, RTBC-logo, lease northrail)
+
+G2000:
+V209 (grijs/groen met gele neus en logo's op de zijkant, brede cabine, UIC nr. 92 80 1272 405-2, fabrnr. 5001606)
+
+186 (lease van Ralipool, grijs/blauw tenzij anders vermeld):
+186.297 (blauwe "Aachen / Aken" bestickering, RTB Cargo-logo)
+186.300 (blauwe "Antwerpen / Anvers" bestickering, RTB Cargo-logo)
+186.421 (EGS-logo)
+186.423 (Blauw/paars met witte streep, tandwiel-stickers en de slogan "Running like clockwork")
+186.425 (RTB Cargo-logo)
+186.426 (blauwe "Rotterdam" bestickering, RTB Cargo-logo)
+186.428 (RTB Cargo-logo)
+186.491
+186.493
+186.506
+186.538
+
+193:
+193.485 (geheel wit, lease van Siemens Mobilty, toelating in België)
+193.564 (donkerblauw met witte strepen, RTB Cargo-logo, "Wir verbinden die Euregio" aan ene zijde, "Wij verbinden de Euregio" andere zijde, toelating in België)
+193.565 (donkerblauw met witte strepen en thema "RTB Evolution", toelating in België)
+193.726 (zwart/groen, grote EGS-sticker, lease ELL)
+193.727 (zwart/groen, grote EGS-sticker, lease ELL)
+193.732 (zwart/groen, grote EGS-sticker, lease ELL)
+193.739 (zwart/groen, groot wit vlak, lease ELL)
+193.756 (zwart/groen, grote sticker "Vectron #750", lease ELL)
+193.791 (donkerblauw met witte strepen, RTB Cargo-logo, "Gemeinsam durch Europa" aan ene zijde, "Samen door Europa" andere zijde)
+193.792 (donkerblauw met witte strepen, RTB Cargo-logo, "Mit uns auf die Zugspitze" aan ene zijde, "Binnenkort jouw werkplek?" andere zijde)
+193.793 (donkerblauw met witte strepen, RATH gruppe-logo, bestickering met verschillende afdelingen binnen RATH)
+
+RTB huurt V100 203.101 van Shunter voor rangeerwerk naar/van de terminal in Blerick.
+
+
+SBB Cargo (SBBC)
+
+SBB Cargo rijdt containertreinen en autotreinen en heeft daarvoor de volgende 189'ers ter beschikking:
+189.097 (zwart)
+189.102 (zwart, SBB Cargo International-logo)
+189.106 (zwart)
+189.107 (zwart, SBB Cargo International-logo)
+189.108 (zwart, SBB Cargo International- en Alpäzähmer-logo)
+189.109 (zwart)
+189.111 (zwart)
+189.112 (zwart, SBB Cargo International-logo)
+189.113 (zwart)
+189.282 (zwart, SBB Cargo International-logo)
+189.288 (zwart, SBB Cargo International-logo)
+189.289 (zwart)
+189.982 (zwart, SBB Cargo International-logo)
+189.983 (zwart, SBB Cargo International-logo)
+189.984 (zwart, SBB Cargo International-logo)
+189.985 (zwart)
+189.986 (zwart)
+189.988 (zwart)
+189.989 (zwart)
+189.991 (zwart, SBB Cargo International-logo)
+189.992 (zwart)
+189.993 (geel/grijs)
+189.994 (zwart)
+189.995 (zwart)
+189.996 (zwart, SBB Cargo International-logo)
+189.997 (zwart)
+
+Daarnaast worden er ook 193'ers ingezet, leasemaatschappij vermeld:
+193.256 t/m 193.260 (zwart/groen, logo's, ELL)
+193.490 (blauw/wit met Hupac-reclame, Hupac)
+193.491 (blauw/wit met Hupac-reclame, Hupac)
+193.492 (blauw, Hupac)
+193.493 (blauw met WRS-logo's, Hupac)
+193.516 "Aare" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.517 "Adda" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.518 "Ticino" (blauw/rood met logo's en reclame voor opening Ceneri-basistunnel, SüdLeasing)
+193.519 "Adige" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.520 "Diveria" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.521 "Donau" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.522 "Elbe" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.523 "Lahn" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.524 "Limmat" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.525 "Rotterdam" (blauw/rood/oranje met logo's en Nederland-thema, SüdLeasing)
+193.526 "Maas" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.527 "Main" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.528 "Mosel" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.529 "Neckar" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.530 "Po" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.531 "Reuss" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.532 "Rhein" (blauw met logo's en Nightpiercer-design, SüdLeasing)
+193.533 "Rhone" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.534 "Ruhr" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+193.535 "Toce" (blauw/rood met logo's en Alppiercer-design, SüdLeasing)
+
+
+Shunter Tractie (SHTR)
+
+Shunter, recent overgenomen door Alstom, heeft twee geel/grijze V100'en, de locs 203.101 en 203.102 (groot Alstom logo). Deze locs worden regelmatig door andere vervoerders gehuurd voor het rijden van treinen. Daarnaast heeft Shunter een groot scala aan rangeerlocs, welke voornamelijk in het Rotterdams havengebied ingezet worden. De 203.101 wordt momenteel verhuurd aan RTBC. 
+
+
+Strukton Rail (SR)
+
+Infraonderneming Strukton heeft zowel locomotieven als onderhoudsmachines. Vrijwel al dit materieel wordt ingevoerd onder het SGRM-nummer, met uitzondering van nieuwe aankopen sinds 2019. Vaak heeft het materieel echter ook nog andere nummers of namen, welke soms beter zichtbaar aangebracht zijn. Hieronder een overzicht van al het Strukton-materieel dat ingevoerd kan worden. Als eerste staan de SGRM-nummers, daarna andere uiterlijke kenmerken:
+
+300001 - Kettinghor 2 (Kettinghormachine RM 80)
+300004 - Kettinghor 4 (Kettinghormachine C750)
+300022 - CSM2
+300023 - CSM3 (Stopmachine 09-16
+300024 - CSM4 (Stopmachine 09-3X)
+300025 - CSM5 (Stopmachine 09-3X)
+300034 - Unimat-4 (Wisselstopmachine Unimat 08-275)
+300035 - Unimat-5 (Wisselstopmachine Unimat 08-475/4S)
+300037 - Unimat-7 (Wisselstopmachine Unimat 08-475/4S)
+300038 - Unimat-8 (Wisselstopmachine Unimat 08-475/4S)
+300039 - Unimat-9 (Wisselstopmachine Unimat 08-475/4S)
+300050 - Ploeg 10 (Ballastprofileermachine SSP 110 SW)
+300052 - Ploeg 12 (Ballastprofileermachine SSP 110 SW)
+300053 - Ploeg 14 (Ballastprofileermachine SSP 110 SW)
+300066 - Tonny (LK60)
+300070 - Stab10 (Stabilisator DGS 42 N)
+300071 - Stab11 (Stabilisator DGS 62 N)
+300095 - Stopmachine Beaver 20 (type Beaver 800)
+300098 - Ravot3/Ingrid (Ravot Mosi 29)
+300105 - Gemma (Bovenleidingsvernieuwingstrein FUM 100)
+300202 - Herma (O&K-loc)
+303001 - Carin (G1206)
+303002 - Willy (G1206)
+303003 - Janine (Deutz-loc)
+303004 - Monique (Deutz-loc)
+303005 - Ankie (Deutz-loc)
+303007 - Demi (G1206)
+303008 - Danique (G1206)
+300094 - Dit is de voormalige Ravot 2 alias ex TG804NS en lijkt enigszins op een mosi. De vermelding Ravot 2 is nog wel aanwezig op dit voertuig.
+
+Sinds 2019 worden er geen SGRM-nummers meer aangebracht op aangeschaft materieel. Onderstaand materieel mag onder de normale nummers ingevoerd worden.
+704 - nog geen naam, voormalige NS loc.
+706 - nog geen naam, voormalige NS loc.
+1740 - nog geen naam, voormalige NS loc, voorzien van kleurrijke bestickering met "groene stroom" als thema.
+1756 - nog geen naam, voormalige NS loc, voorzien van kleurrijke bestickering met "groene stroom" als thema.
+1824 - Nicole, voormalige NS loc, voorzien van kleurrijke bestickering met "groene stroom" als thema en een sticker "Strukton 100 jaar".
+1666215 - UTM-15 (Stopmachine Universal Tamper 4.0)
+PLB9030 - Ballastplog / Ploeg 16. 
+
+Hiernaast heeft Strukton ook de NS 1736 en DDAR Bvk 270 7014 en ABvk 270 7039 overgenomen voor het batterij-project. Deze worden eerst gereviseerd.
+
+
+Swietelsky / RTS
+
+Swietelsky is een spooraannemer die een G1206 inzet van dochteronderneming RTS. Momenteel is dat de 1018 (oranje/grijze huisstijl van RTS, met logo's en groene Alpha Trains accenten, UIC-nr op brandstoftank: 92 84 2275 101-8 D-ATLU).
+
+
+VolkerRail (VR)
+
+VolkerRail rijdt werktreinen door Nederland en overbrengingen voor Nedtrain en gebruikt daarvoor voormalige Oost-Duitse locomotieven typen V100. De V100'en zijn:
+203-1 "Tom"
+203-2 "Jerry"
+203-4 "Cris"
+203-5 "Tyke"
+Alle locs kunnen onder hun nummer worden ingevoerd. Verder staan nog SGRM300093 (de voormalige Ravot 1), twee stopmachines (invoeren als "U10x") en videoschouwtrein "Sherloc" (zo in te voeren) ter beschikking.
+203-3 "Spike" is op 29 februari 2016 verkocht aan RRF en werd de RRF 24.
+
+VolkerRail heeft in 2020 de NS 1732, 1743 en 1778 overgenomen, twee van deze worden rijvaardig gemaakt en daarna ingezet voor het overbrengen van werktreinen en -materieel, een derde is een plukloc. De 1778 is omgenummerd naar 7178, de 1743 naar 7143.
+
+
+VTG Retrack (VTG)
+
+Sinds november 2020 rijdt VTG / Retrack een container-/trailertrein tussen Rzepin (Polen) en Tilburg. In Nederland verzorgt RRF het personeel. VTG huurt voor deze trein de 189.096 (zwart), 189.209 (zwart, aan één zijde voorzien van BTT-stickers), 189.211 (volledige wit/blauwe VTG kleurstelling, "Patrick") en 189.286 ( zwart) van MRCE.
+
+
+Wiener Lokalbahnen Cargo (WLC)
+
+Wiener Lokalbahnen Cargo (WLC) rijdt sinds eind 2019 onder de vlag van RRF een containertrein tussen Botlek en Wenen. Hiervoor worden Vectrons 193.754, 193.758 en 193.760 (zwart/grijs/groen, ELL) gebruikt.
+
+
+Lading van de treinen
+
+De lading van de trein is, zoals hierboven al is opgemerkt, ook van belang om een treinnummer te kunnen achterhalen. Er bestaan vuistregels voor het koppelen van een treinnummer aan een bepaald type goederentrein, anders gezegd: een bepaalde treinnummerreeks bevat meestal eenzelfde type trein.
+4xxxx betreft internationale treinen.
+5xxxx betreft binnenlandse treinen van private vervoerders (m.u.v. RFO).
+6xxxx betreft binnenlandse treinen van DBC en RFO.
