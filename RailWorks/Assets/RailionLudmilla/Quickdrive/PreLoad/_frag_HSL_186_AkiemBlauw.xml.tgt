@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">BlueprintEditor2.exe</Filename>
+			<Time d:type="cDeltaString">Wednesday, March 03, 2021 20:05:11</Time>
+			<IntTime d:type="sUInt64">132592719112301538</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RailionLudmilla\Quickdrive\PreLoad\_frag_HSL_186_AkiemBlauw.xml</Filename>
+			<Time d:type="cDeltaString">Friday, July 16, 2021 16:37:40</Time>
+			<IntTime d:type="sUInt64">132709198602946191</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">PreLoad\_frag_HSL_186_AkiemBlauw.xml</Filename>
+			<Time d:type="cDeltaString">Friday, July 16, 2021 16:37:39</Time>
+			<IntTime d:type="sUInt64">132709198594846182</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

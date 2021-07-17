@@ -1,5 +1,5 @@
 # 2019b_bls.pdf 43521
-Kfhz    v   00:08   Novara(Cont), Cont, Diesel; (Ook Kfhz)
+Kfhz    v   00:08
 Kfhaz   -   00:10
 Zwd     -   00:12
 Grbr    -   00:14
