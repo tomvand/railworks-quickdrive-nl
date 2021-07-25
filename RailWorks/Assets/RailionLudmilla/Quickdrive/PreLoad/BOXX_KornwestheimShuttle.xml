@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cConsistBlueprint xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+			<ConsistEntry>
+				<cConsistEntry d:id="1626">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_frag_BOXX_193.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1633">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1640">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_RoodGroen_tex-China.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1647">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_BlauwBlauw_Cosco.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1654">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_RoodRood.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1661">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_WitRood_OOCL.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1668">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_BlauwRood_CMA.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1675">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1682">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_RoodRood_Triton-CAI.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1689">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_LeegRood.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1696">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_BlauwBlauw.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1703">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_BlauwRood.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1710">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_BlauwRood.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1717">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_BlauwRood_Cosco-CAI.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1724">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1731">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1738">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1745">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_RoodBlauw_NorLines-Samskip.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1752">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1759">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_BlauwLeeg_Samskip.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1766">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1773">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_WitLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1780">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_2x40ft_LeegLeeg.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="1787">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Container_80ft_LeegBlauw_Samskip.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+			</ConsistEntry>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">BR 193</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other />
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<DisplayName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">BoxXpress 193 + Kornwestheim Shuttle</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other />
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</DisplayName>
+			<EngineType d:type="cDeltaString">Electric</EngineType>
+			<EraStartYear d:type="sUInt32">2019</EraStartYear>
+			<EraEndYear d:type="sUInt32">2021</EraEndYear>
+			<DrivingEngineIndex d:type="sUInt32">0</DrivingEngineIndex>
+			<ValidBuildAndDriveRoutes>
+				<cConsistValidRoute d:id="1821">
+					<RouteGUID d:type="cDeltaString">2fd712fd-2a9b-4e30-b10c-a93b7051a081</RouteGUID>
+				</cConsistValidRoute>
+			</ValidBuildAndDriveRoutes>
+			<DrivableConsist d:type="cDeltaString">eTrue</DrivableConsist>
+			<ConsistType d:type="cDeltaString">eConsistTypeFreightPaper</ConsistType>
+			<HasPantograph d:type="cDeltaString">eTrue</HasPantograph>
+			<Has3rdRailShoe d:type="cDeltaString">eFalse</Has3rdRailShoe>
+			<Requires4thRail d:type="cDeltaString">eFalse</Requires4thRail>
+		</cConsistBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

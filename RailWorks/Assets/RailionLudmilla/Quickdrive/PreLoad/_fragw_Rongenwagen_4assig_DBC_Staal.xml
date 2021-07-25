@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cConsistFragmentBlueprint xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+			<Name d:type="cDeltaString"></Name>
+			<ConsistEntry>
+				<cConsistEntry d:id="855">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">3DZUG</Provider>
+									<Product d:type="cDeltaString">3dz_KIPack</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailVehicles\Cargo\rnoos_loaded.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+			</ConsistEntry>
+		</cConsistFragmentBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

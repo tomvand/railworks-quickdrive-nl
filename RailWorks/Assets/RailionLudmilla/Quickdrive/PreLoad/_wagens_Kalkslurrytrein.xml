@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cConsistBlueprint xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+			<ConsistEntry>
+				<cConsistEntry d:id="8515">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8522">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_ermewa.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8529">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8536">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8543">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8550">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_ermewa.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8557">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8564">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8571">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8578">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8585">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8592">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8599">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_ermewa.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8606">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8613">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8620">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+				<cConsistEntry d:id="8627">
+					<BlueprintName>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RailionLudmilla</Provider>
+									<Product d:type="cDeltaString">Quickdrive</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintName>
+					<Flipped d:type="cDeltaString">eFalse</Flipped>
+				</cConsistEntry>
+			</ConsistEntry>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other />
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<DisplayName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Kalkslurrytrein</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other />
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</DisplayName>
+			<EngineType d:type="cDeltaString">Diesel</EngineType>
+			<EraStartYear d:type="sUInt32">2013</EraStartYear>
+			<EraEndYear d:type="sUInt32">2021</EraEndYear>
+			<DrivingEngineIndex d:type="sUInt32">0</DrivingEngineIndex>
+			<ValidBuildAndDriveRoutes>
+				<cConsistValidRoute d:id="8661">
+					<RouteGUID d:type="cDeltaString">2fd712fd-2a9b-4e30-b10c-a93b7051a081</RouteGUID>
+				</cConsistValidRoute>
+			</ValidBuildAndDriveRoutes>
+			<DrivableConsist d:type="cDeltaString">eFalse</DrivableConsist>
+			<ConsistType d:type="cDeltaString">eConsistTypeFreightLivestock</ConsistType>
+			<HasPantograph d:type="cDeltaString">eFalse</HasPantograph>
+			<Has3rdRailShoe d:type="cDeltaString">eFalse</Has3rdRailShoe>
+			<Requires4thRail d:type="cDeltaString">eFalse</Requires4thRail>
+		</cConsistBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

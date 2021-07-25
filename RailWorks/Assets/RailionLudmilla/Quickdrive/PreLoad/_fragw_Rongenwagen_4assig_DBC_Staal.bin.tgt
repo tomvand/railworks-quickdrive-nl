@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Wednesday, March 03, 2021 20:05:12</Time>
+			<IntTime d:type="sUInt64">132592719120166799</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RailionLudmilla\Quickdrive\PreLoad\_fragw_Rongenwagen_4assig_DBC_Staal.bin</Filename>
+			<Time d:type="cDeltaString">Saturday, July 24, 2021 22:00:45</Time>
+			<IntTime d:type="sUInt64">132716304456877702</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">PreLoad\_fragw_Rongenwagen_4assig_DBC_Staal.xml</Filename>
+			<Time d:type="cDeltaString">Saturday, July 24, 2021 21:53:07</Time>
+			<IntTime d:type="sUInt64">132716299877673923</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

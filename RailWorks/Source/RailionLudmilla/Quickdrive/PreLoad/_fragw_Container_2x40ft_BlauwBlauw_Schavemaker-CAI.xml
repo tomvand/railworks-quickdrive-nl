@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Freight\ES_AAE_CMA CGM_A\ES_AAE_CMA CGM_A.xml</Value>
+																	<Value>RailVehicles\Freight\ES_AAE_Safmarine_A\ES_AAE_Safmarine_A.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Freight\ES_AAE_OPDR_B\ES_AAE_OPDR_B.xml</Value>
+																	<Value>RailVehicles\Freight\ES_AAE_ARKAS_B\ES_AAE_ARKAS_B.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
