@@ -1,5 +1,0 @@
-# 2019b_dbc_auto.pdf
-Bd      v   00:06
-Bda     -   00:07
-Etn     -   00:15
-Rsd     -   00:26

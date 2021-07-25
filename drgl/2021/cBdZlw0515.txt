@@ -1,8 +1,0 @@
-# 2019b_bls.pdf
-# Rtd_Bd dal (:16)
-Bd      v   00:05   Novara(Cont)
-Bda     -   00:06
-Bdpb    -   00:08
-Nvbro   -   00:11
-Zha     -   00:12
-Zlw     a   00:15
