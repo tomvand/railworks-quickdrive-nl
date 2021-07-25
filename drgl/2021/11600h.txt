@@ -1,0 +1,31 @@
+Amfs    a   14:53
+Amfs 	v 	15:04   [2]
+Ama 	- 	15:06
+Amf 	a 	15:08
+Amf 	v 	15:11   [7]
+Amfga 	- 	15:13
+Brna 	- 	15:17
+Brn 	- 	15:18
+Hvs 	a 	15:23
+Hvs 	v 	15:24   [5]
+Hvsm 	- 	15:25
+Crao 	- 	15:26
+Craw 	- 	15:27
+Bsmz 	- 	15:28
+Ndb 	- 	15:29
+Kv 	- 	15:31
+Vtbr 	- 	15:32
+Wp 	- 	15:33
+Gpda 	- 	15:34
+Ddm 	- 	15:35
+Mdsa 	- 	15:36
+Dmnz 	- 	15:38
+Vspa 	- 	15:39
+Dvd 	+ 	15:40
+Dvaw 	- 	15:42
+Rai 	- 	15:43
+Asdz 	a 	15:45
+Asdz 	v 	15:46
+Skbr 	- 	15:47
+Asra 	- 	15:48
+Shl 	a 	15:52

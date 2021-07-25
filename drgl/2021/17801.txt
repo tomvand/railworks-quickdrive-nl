@@ -1,0 +1,10 @@
+Apd     a   13:25
+Apd 	v 	13:35   [3]
+Apda 	- 	13:36
+Apdm 	+ 	13:38
+Kbk 	a 	13:44
+Kbk 	v 	13:45
+Vem 	+ 	13:49
+IJbza 	- 	13:53
+IJbz 	- 	13:54
+Zp 	a 	13:55

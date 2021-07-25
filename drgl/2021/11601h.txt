@@ -1,0 +1,31 @@
+Shl 	v 	14:08
+Asra 	- 	14:12
+Skbr 	- 	14:13
+Asdz 	a 	14:14
+Asdz 	v 	14:15
+Rai 	- 	14:17
+Dvaw 	- 	14:19
+Dvd 	+ 	14:20
+Vspa 	- 	14:22
+Dmnz 	- 	14:23
+Mdsa 	- 	14:24
+Ddm 	- 	14:25
+Gpda 	- 	14:26
+Wp 	- 	14:27
+Vtbr 	- 	14:28
+Kv 	- 	14:29
+Ndb 	- 	14:31
+Bsmz 	- 	14:32
+Craw 	- 	14:33
+Crao 	- 	14:34
+Hvsm 	- 	14:35
+Hvs 	a 	14:36
+Hvs 	v 	14:37   [2]
+Brn 	- 	14:42
+Brna 	- 	14:43
+Amfga 	- 	14:47
+Amf 	a 	14:48
+Amf 	v 	14:49   [1]
+Ama 	- 	14:51
+Amfs 	a 	14:53   [2]
+Amfs    v   15:04

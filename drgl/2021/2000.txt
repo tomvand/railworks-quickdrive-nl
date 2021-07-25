@@ -1,0 +1,36 @@
+Amf     a   12:34
+Amf 	v 	12:56   [4a]
+Bkda 	- 	12:57
+Amfva 	- 	12:58
+Dld 	- 	13:00
+Bhv 	- 	13:02
+Bloa 	- 	13:04
+Blw 	- 	13:05
+Bkp 	- 	13:05
+Uto 	- 	13:06
+Ut 	a 	13:09
+Ut 	v 	13:13   [8]
+Utwao 	- 	13:14
+Utwaw 	- 	13:15
+Utlr 	- 	13:16
+Utt 	- 	13:17
+Vtn 	- 	13:18
+Hmlva 	- 	13:19
+Hmla 	- 	13:20
+Wd 	- 	13:22
+Wdo 	- 	13:23
+Odo 	- 	13:25
+Odw 	- 	13:26
+Gdg 	- 	13:29
+Gd 	a 	13:31
+Gd 	v 	13:32   [8]
+Hgwbr 	- 	13:33
+Mda 	- 	13:34
+Mdaz 	- 	13:35
+Llzm 	- 	13:39
+Ztmo 	- 	13:41
+Ztm 	- 	13:42
+Ypb 	- 	13:46
+Vb 	- 	13:48
+Bkh 	- 	13:49
+Gvc 	a 	13:50   [4]

@@ -1,4 +1,5 @@
-Amfs 	v 	12:34
+Amfs    a   12:26
+Amfs 	v 	12:34   [2]
 Ama 	- 	12:36
 Amf 	a 	12:38
 Amf 	v 	12:40

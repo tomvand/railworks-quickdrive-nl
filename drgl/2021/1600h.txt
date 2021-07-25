@@ -1,0 +1,53 @@
+Es 	v 	11:16   [1]
+Esk 	- 	11:19
+Hgl 	a 	11:23
+Hgl 	v 	11:24   [2a]
+Bn 	- 	11:28
+Amri 	- 	11:33
+Aml 	a 	11:35
+Aml 	v 	11:36   [4b]
+Wdn 	- 	11:39
+Rsn 	- 	11:44
+Hon 	- 	11:49
+Dvc 	- 	11:56
+Spa 	- 	11:57
+Dvgea 	- 	11:58
+Dv 	a 	12:00
+Dv 	v 	12:03   [4]
+Twl 	- 	12:08
+Apdo 	- 	12:11
+Apda 	- 	12:12
+Apd 	a 	12:13
+Apd 	v 	12:14   [1]
+Sto 	- 	12:25
+Bnva 	- 	12:29
+Hvl 	- 	12:32
+Ama 	- 	12:36
+Amf 	a 	12:38
+Amf 	v 	12:41   [7]
+Amfga 	- 	12:43
+Brna 	- 	12:45
+Brn 	- 	12:48
+Hvs 	a 	12:53
+Hvs 	v 	12:54   [5]
+Hvsm 	- 	12:55
+Crao 	- 	12:56
+Craw 	- 	12:57
+Bsmz 	- 	12:58
+Ndb 	- 	12:59
+Kv 	- 	13:01
+Vtbr 	- 	13:02
+Wp 	- 	13:03
+Gpda 	- 	13:04
+Ddm 	- 	13:05
+Mdsa 	- 	13:06
+Dmnz 	- 	13:08
+Vspa 	- 	13:09
+Dvd 	+ 	13:10   [4]
+Dvaw 	- 	13:12
+Rai 	- 	13:13
+Asdz 	a 	13:15
+Asdz 	v 	13:16   [3]
+Skbr 	- 	13:17
+Asra 	- 	13:18
+Shl 	a 	13:22   [4]
