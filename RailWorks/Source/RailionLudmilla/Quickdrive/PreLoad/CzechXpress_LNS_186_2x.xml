@@ -1361,6 +1361,19 @@
 									</Value>
 								</Element>
 							</cConsistValidRoute>
+							<cConsistValidRoute>
+								<Element>
+									<Value>
+										<Attribute name="RouteGUID">
+											<cDeltaString>
+												<Element>
+													<Value>47b6f7ad-85b8-667f-975a-5aeb7c18d28c</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistValidRoute>
 						</Value>
 					</Element>
 				</__Indexed__cConsistValidRoute>
