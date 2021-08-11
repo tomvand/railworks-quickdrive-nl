@@ -4,7 +4,7 @@
 		<cConsistFragmentBlueprint xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
 			<Name d:type="cDeltaString"></Name>
 			<ConsistEntry>
-				<cConsistEntry d:id="844">
+				<cConsistEntry d:id="25877">
 					<BlueprintName>
 						<iBlueprintLibrary-cAbsoluteBlueprintID>
 							<BlueprintSetID>
@@ -18,7 +18,7 @@
 					</BlueprintName>
 					<Flipped d:type="cDeltaString">eFalse</Flipped>
 				</cConsistEntry>
-				<cConsistEntry d:id="866">
+				<cConsistEntry d:id="25884">
 					<BlueprintName>
 						<iBlueprintLibrary-cAbsoluteBlueprintID>
 							<BlueprintSetID>

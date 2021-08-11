@@ -38,6 +38,56 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
+																	<Value>PreLoad\_frag_DBC_189.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
 																	<Value>PreLoad\_fragw_SchuifwandWagen_4assig_RondDak.xml</Value>
 																</Element>
 															</cDeltaString>
@@ -1067,7 +1117,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value />
+										<Value>BR 189</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -1145,7 +1195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>UC Gremberg</Value>
+										<Value>DBC 189 + UC Gremberg</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -1219,21 +1269,21 @@
 			<Attribute name="EngineType">
 				<iEngine-eEngineType>
 					<Element>
-						<Value>Diesel</Value>
+						<Value>Electric</Value>
 					</Element>
 				</iEngine-eEngineType>
 			</Attribute>
 			<Attribute name="EraStartYear">
 				<sUInt32>
 					<Element>
-						<Value>2011</Value>
+						<Value>3021</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
 			<Attribute name="EraEndYear">
 				<sUInt32>
 					<Element>
-						<Value>2021</Value>
+						<Value>3021</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
@@ -1268,21 +1318,21 @@
 			<Attribute name="DrivableConsist">
 				<eBoolean>
 					<Element>
-						<Value>eFalse</Value>
+						<Value>eTrue</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>
 			<Attribute name="ConsistType">
 				<kConsist-eConsistType>
 					<Element>
-						<Value>eConsistTypeFreightScrap</Value>
+						<Value>eConsistTypeFreightNuclearFlask</Value>
 					</Element>
 				</kConsist-eConsistType>
 			</Attribute>
 			<Attribute name="HasPantograph">
 				<eBoolean>
 					<Element>
-						<Value>eFalse</Value>
+						<Value>eTrue</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>

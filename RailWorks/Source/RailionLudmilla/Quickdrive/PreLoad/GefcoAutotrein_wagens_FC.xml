@@ -38,56 +38,6 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_RFO_1800_Oranje.xml</Value>
-																</Element>
-															</cDeltaString>
-														</Attribute>
-													</Value>
-												</Element>
-											</iBlueprintLibrary-cAbsoluteBlueprintID>
-										</Attribute>
-										<Attribute name="Flipped">
-											<eBoolean>
-												<Element>
-													<Value>eFalse</Value>
-												</Element>
-											</eBoolean>
-										</Attribute>
-									</Value>
-								</Element>
-							</cConsistEntry>
-							<cConsistEntry>
-								<Element>
-									<Value>
-										<Attribute name="BlueprintName">
-											<iBlueprintLibrary-cAbsoluteBlueprintID>
-												<Element>
-													<Value>
-														<Attribute name="BlueprintSetID">
-															<iBlueprintLibrary-cBlueprintSetID>
-																<Element>
-																	<Value>
-																		<Attribute name="Provider">
-																			<cDeltaString>
-																				<Element>
-																					<Value>RailionLudmilla</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																		<Attribute name="Product">
-																			<cDeltaString>
-																				<Element>
-																					<Value>Quickdrive</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</iBlueprintLibrary-cBlueprintSetID>
-														</Attribute>
-														<Attribute name="BlueprintID">
-															<cDeltaString>
-																<Element>
 																	<Value>PreLoad\_fragw_Autos_2x2assig_GEFCO_Leeg.xml</Value>
 																</Element>
 															</cDeltaString>
@@ -1117,7 +1067,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>NS 1800</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -1195,7 +1145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>RFO 1800 (Oranje) + Gefco Autotrein</Value>
+										<Value>Gefco Autotrein</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -1269,21 +1219,21 @@
 			<Attribute name="EngineType">
 				<iEngine-eEngineType>
 					<Element>
-						<Value>Electric</Value>
+						<Value>Diesel</Value>
 					</Element>
 				</iEngine-eEngineType>
 			</Attribute>
 			<Attribute name="EraStartYear">
 				<sUInt32>
 					<Element>
-						<Value>2019</Value>
+						<Value>3021</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
 			<Attribute name="EraEndYear">
 				<sUInt32>
 					<Element>
-						<Value>2021</Value>
+						<Value>3021</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
@@ -1318,7 +1268,7 @@
 			<Attribute name="DrivableConsist">
 				<eBoolean>
 					<Element>
-						<Value>eTrue</Value>
+						<Value>eFalse</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>
@@ -1332,7 +1282,7 @@
 			<Attribute name="HasPantograph">
 				<eBoolean>
 					<Element>
-						<Value>eTrue</Value>
+						<Value>eFalse</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>
