@@ -1,16 +1,17 @@
-Ut  a   11:55
-Ut 	v 	12:07   [3] <5500
-Uto 	+ 	12:11
-Blw 	- 	12:12
-Bkp 	- 	12:13
-Blo 	- 	12:14
-Bloa 	- 	12:15
-Bhv 	+ 	12:16
-Dld 	a 	12:18
-Dld 	v 	12:19
-Stz 	+ 	12:24
-St 	a 	12:26
-St 	v 	12:27
-Sd 	+ 	12:30
-Brna 	- 	12:33
-Brn 	a 	12:35
+Ut  a   13:25
+Ut 	v 	13:37   [3] <5500
+Uto 	+ 	13:41
+Blw 	- 	13:42
+Bkp 	- 	13:43
+Blo 	- 	13:44
+Bloa 	- 	13:45
+Bhv 	+ 	13:46
+Dld 	a 	13:48
+Dld 	v 	13:49
+Stz 	+ 	13:54
+St 	a 	13:56
+St 	v 	14:02
+Sd 	+ 	14:05
+Brna 	- 	14:08
+Brn 	a 	14:10
+Brn     v   14:19
