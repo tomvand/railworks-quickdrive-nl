@@ -11,7 +11,7 @@ Craw 	- 	12:44
 Crao 	- 	12:45
 Hvsm 	- 	12:46
 Hvs 	a 	12:47
-Hvs 	v 	12:48
+Hvs 	v 	12:48   [2]
 Hvsp 	+ 	12:51
 Hor 	- 	12:56
 Bln 	- 	12:59
