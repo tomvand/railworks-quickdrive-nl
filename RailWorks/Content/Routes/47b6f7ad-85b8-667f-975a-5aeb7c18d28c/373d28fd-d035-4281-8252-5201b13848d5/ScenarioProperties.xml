@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="896235168">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="896607240">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -102,9 +102,9 @@
 	<FrontEndDriverList/>
 	<RequiredSet/>
 	<Gizmo>
-		<cOwnedEntity d:id="894245432">
+		<cOwnedEntity d:id="896361600">
 			<Component>
-				<cEditorSceneryRender d:id="891316408">
+				<cEditorSceneryRender d:id="915061496">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -112,16 +112,16 @@
 					<Palette1Index d:type="sUInt8">175</Palette1Index>
 					<Palette2Index d:type="sUInt8">254</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="894246512">
+				<cPosOri d:id="896361720">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="894246536">
+						<cFarMatrix d:id="896361744">
 							<Height d:type="sFloat32" d:alt_encoding="000000403CD9DF3F" d:precision="string">0.497634</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="894246588">
+								<cFarVector2 d:id="896361796">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -155,7 +155,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="1133035808">
+				<cScriptComponent d:id="1164613440">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -201,7 +201,7 @@
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad/>
 	<NamedEntity>
-		<cScenarioProperties-cGuidToNameMapping d:id="893939616">
+		<cScenarioProperties-cGuidToNameMapping d:id="903432416">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -226,7 +226,7 @@
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
 	<LocksScenario/>
 	<StartDestString>
-		<Localisation-cUserLocalisedString d:id="-244629976">
+		<Localisation-cUserLocalisedString d:id="-810659624">
 			<English d:type="cDeltaString">[&apos;21] Hilversum</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
@@ -236,9 +236,9 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">885d6ead-4d25-48cf-95e0-cc6ccf14580c</Key>
+			<Key d:type="cDeltaString">04b16512-e867-4f0e-a5ae-098db44cf4fd</Key>
 		</Localisation-cUserLocalisedString>
-		<Localisation-cUserLocalisedString d:id="-244629008">
+		<Localisation-cUserLocalisedString d:id="-810661648">
 			<English d:type="cDeltaString"></English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
@@ -248,9 +248,9 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">45899212-ebf7-495e-ba0b-f34e9d9c26d8</Key>
+			<Key d:type="cDeltaString">b66cbd27-0111-4eae-912b-a45af42367ed</Key>
 		</Localisation-cUserLocalisedString>
-		<Localisation-cUserLocalisedString d:id="-244630768">
+		<Localisation-cUserLocalisedString d:id="-810661472">
 			<English d:type="cDeltaString">:18/:48 Sprinter Utrecht Centraal (4900)</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
@@ -260,11 +260,11 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">ec4776a1-dc3e-4a9e-a339-1f3a559e1138</Key>
+			<Key d:type="cDeltaString">854f87fb-3dcf-4944-b9c1-049023b5d462</Key>
 		</Localisation-cUserLocalisedString>
 	</StartDestString>
 	<TemplateStartDestMapping>
-		<sTemplateStartDestMapping d:id="-246533368">
+		<sTemplateStartDestMapping d:id="-798640808">
 			<PropertyPairGUID>
 				<cGUID>
 					<UUID>
@@ -277,10 +277,10 @@
 			<StartNameUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5246496914506870445</e>
-						<e d:type="sUInt64">889483807521824917</e>
+						<e d:type="sUInt64">5696746107828266258</e>
+						<e d:type="sUInt64">18299335524257214117</e>
 					</UUID>
-					<DevString d:type="cDeltaString">885d6ead-4d25-48cf-95e0-cc6ccf14580c</DevString>
+					<DevString d:type="cDeltaString">04b16512-e867-4f0e-a5ae-098db44cf4fd</DevString>
 				</cGUID>
 			</StartNameUID>
 			<HasOverheadWires d:type="bool">1</HasOverheadWires>
@@ -292,31 +292,31 @@
 			<DestinationNameUIDs>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5286922459835634194</e>
-						<e d:type="sUInt64">15575308560755788730</e>
+						<e d:type="sUInt64">5669470156492684583</e>
+						<e d:type="sUInt64">17106681241989819281</e>
 					</UUID>
-					<DevString d:type="cDeltaString">45899212-ebf7-495e-ba0b-f34e9d9c26d8</DevString>
+					<DevString d:type="cDeltaString">b66cbd27-0111-4eae-912b-a45af42367ed</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5286922459835634194</e>
-						<e d:type="sUInt64">15575308560755788730</e>
+						<e d:type="sUInt64">5669470156492684583</e>
+						<e d:type="sUInt64">17106681241989819281</e>
 					</UUID>
-					<DevString d:type="cDeltaString">45899212-ebf7-495e-ba0b-f34e9d9c26d8</DevString>
+					<DevString d:type="cDeltaString">b66cbd27-0111-4eae-912b-a45af42367ed</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5286922459835634194</e>
-						<e d:type="sUInt64">15575308560755788730</e>
+						<e d:type="sUInt64">5669470156492684583</e>
+						<e d:type="sUInt64">17106681241989819281</e>
 					</UUID>
-					<DevString d:type="cDeltaString">45899212-ebf7-495e-ba0b-f34e9d9c26d8</DevString>
+					<DevString d:type="cDeltaString">b66cbd27-0111-4eae-912b-a45af42367ed</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5376977167937140385</e>
-						<e d:type="sUInt64">4040184429612579235</e>
+						<e d:type="sUInt64">5279412624689170427</e>
+						<e d:type="sUInt64">7121516075124310457</e>
 					</UUID>
-					<DevString d:type="cDeltaString">ec4776a1-dc3e-4a9e-a339-1f3a559e1138</DevString>
+					<DevString d:type="cDeltaString">854f87fb-3dcf-4944-b9c1-049023b5d462</DevString>
 				</cGUID>
 			</DestinationNameUIDs>
 			<DestinationDistance>
