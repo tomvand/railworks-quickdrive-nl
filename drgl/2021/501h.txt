@@ -40,7 +40,7 @@ Dld 	- 	12:56
 Amfva 	- 	12:58
 Bkda 	- 	12:59
 Amf 	a 	13:01
-Amf 	v 	13:04
+Amf 	v 	13:04   [2]
 Ama 	- 	13:06
 Amfs 	- 	13:08
 Avat 	- 	13:09

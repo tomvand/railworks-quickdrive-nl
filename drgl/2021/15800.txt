@@ -3,7 +3,7 @@ Avat 	v 	12:24   [2]
 Amfs 	+ 	12:27   [1]
 Ama 	- 	12:29
 Amf 	a 	12:31
-Amf 	v 	12:32   [6]
+Amf 	v 	12:32   [7]
 Amfga 	- 	12:34
 Brna 	- 	12:37
 Brn 	+ 	12:39   [2]
