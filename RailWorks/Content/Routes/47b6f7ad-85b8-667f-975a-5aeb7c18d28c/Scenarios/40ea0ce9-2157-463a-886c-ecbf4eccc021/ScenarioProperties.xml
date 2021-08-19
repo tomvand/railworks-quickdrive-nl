@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1113380880">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1175015304">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -102,9 +102,9 @@
 	<FrontEndDriverList/>
 	<RequiredSet/>
 	<Gizmo>
-		<cOwnedEntity d:id="1201149632">
+		<cOwnedEntity d:id="1175699184">
 			<Component>
-				<cEditorSceneryRender d:id="1114335216">
+				<cEditorSceneryRender d:id="1175708984">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -112,16 +112,16 @@
 					<Palette1Index d:type="sUInt8">175</Palette1Index>
 					<Palette2Index d:type="sUInt8">254</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="1201148792">
+				<cPosOri d:id="1175697144">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="1201148816">
+						<cFarMatrix d:id="1175697168">
 							<Height d:type="sFloat32" d:alt_encoding="000000E0CA071140" d:precision="string">4.25761</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="1201148868">
+								<cFarVector2 d:id="1175697220">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -155,7 +155,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="1102296368">
+				<cScriptComponent d:id="1161900064">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -213,7 +213,7 @@
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
 	<LocksScenario/>
 	<StartDestString>
-		<Localisation-cUserLocalisedString d:id="-610260832">
+		<Localisation-cUserLocalisedString d:id="-750520088">
 			<English d:type="cDeltaString">[&apos;21] Soest</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
@@ -223,9 +223,9 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">6e7014a1-832e-4d62-af73-f11d43c44da4</Key>
+			<Key d:type="cDeltaString">b6df46e0-6b70-4a5a-b897-2601d205d206</Key>
 		</Localisation-cUserLocalisedString>
-		<Localisation-cUserLocalisedString d:id="-610260568">
+		<Localisation-cUserLocalisedString d:id="-750520176">
 			<English d:type="cDeltaString"></English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
@@ -235,10 +235,10 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</Key>
+			<Key d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</Key>
 		</Localisation-cUserLocalisedString>
-		<Localisation-cUserLocalisedString d:id="-610260920">
-			<English d:type="cDeltaString">:02/:32 Sprinter Utrecht (5500)</English>
+		<Localisation-cUserLocalisedString d:id="-750520000">
+			<English d:type="cDeltaString">:02/:32 Spr Utrecht (5500)</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
 			<German d:type="cDeltaString"></German>
@@ -247,9 +247,9 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">1a39ec55-c1ba-4753-a6ea-646743daf047</Key>
+			<Key d:type="cDeltaString">fd2bad18-d784-42fb-93de-d970871abc88</Key>
 		</Localisation-cUserLocalisedString>
-		<Localisation-cUserLocalisedString d:id="-610261624">
+		<Localisation-cUserLocalisedString d:id="-750517712">
 			<English d:type="cDeltaString">[&apos;21] Baarn</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
@@ -259,10 +259,10 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">e9510b38-cc3f-4940-b032-d53244683650</Key>
+			<Key d:type="cDeltaString">62ce05ee-47fe-4948-9ddf-61cf59828d5d</Key>
 		</Localisation-cUserLocalisedString>
-		<Localisation-cUserLocalisedString d:id="-610262680">
-			<English d:type="cDeltaString">:19/:49 Sprinter Utrecht (5500)</English>
+		<Localisation-cUserLocalisedString d:id="-750517360">
+			<English d:type="cDeltaString">:19/:49 Spr Utrecht (5500)</English>
 			<French d:type="cDeltaString"></French>
 			<Italian d:type="cDeltaString"></Italian>
 			<German d:type="cDeltaString"></German>
@@ -271,11 +271,11 @@
 			<Polish d:type="cDeltaString"></Polish>
 			<Russian d:type="cDeltaString"></Russian>
 			<Other/>
-			<Key d:type="cDeltaString">063616e4-e8bc-4817-a38b-582a0dfb0946</Key>
+			<Key d:type="cDeltaString">a7a5418d-0578-4deb-ab09-dbc3b61b20bf</Key>
 		</Localisation-cUserLocalisedString>
 	</StartDestString>
 	<TemplateStartDestMapping>
-		<sTemplateStartDestMapping d:id="-605685024">
+		<sTemplateStartDestMapping d:id="2076901056">
 			<PropertyPairGUID>
 				<cGUID>
 					<UUID>
@@ -288,10 +288,10 @@
 			<StartNameUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5576163524082668705</e>
-						<e d:type="sUInt64">11839334787971117999</e>
+						<e d:type="sUInt64">5357712838559221472</e>
+						<e d:type="sUInt64">491461708857382840</e>
 					</UUID>
-					<DevString d:type="cDeltaString">6e7014a1-832e-4d62-af73-f11d43c44da4</DevString>
+					<DevString d:type="cDeltaString">b6df46e0-6b70-4a5a-b897-2601d205d206</DevString>
 				</cGUID>
 			</StartNameUID>
 			<HasOverheadWires d:type="bool">1</HasOverheadWires>
@@ -303,45 +303,45 @@
 			<DestinationNameUIDs>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5139664604807949397</e>
-						<e d:type="sUInt64">5183883154135771814</e>
+						<e d:type="sUInt64">4826688391840771352</e>
+						<e d:type="sUInt64">9852779253796036243</e>
 					</UUID>
-					<DevString d:type="cDeltaString">1a39ec55-c1ba-4753-a6ea-646743daf047</DevString>
+					<DevString d:type="cDeltaString">fd2bad18-d784-42fb-93de-d970871abc88</DevString>
 				</cGUID>
 			</DestinationNameUIDs>
 			<DestinationDistance>
@@ -353,7 +353,7 @@
 				<e d:type="sFloat32" d:alt_encoding="00000040E1FDD040" d:precision="string">17399.5</e>
 			</DestinationDistance>
 		</sTemplateStartDestMapping>
-		<sTemplateStartDestMapping d:id="-605684160">
+		<sTemplateStartDestMapping d:id="2076905472">
 			<PropertyPairGUID>
 				<cGUID>
 					<UUID>
@@ -366,10 +366,10 @@
 			<StartNameUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5278443338147629880</e>
-						<e d:type="sUInt64">5779921813896508080</e>
+						<e d:type="sUInt64">5280549720996840942</e>
+						<e d:type="sUInt64">6741187539486498717</e>
 					</UUID>
-					<DevString d:type="cDeltaString">e9510b38-cc3f-4940-b032-d53244683650</DevString>
+					<DevString d:type="cDeltaString">62ce05ee-47fe-4948-9ddf-61cf59828d5d</DevString>
 				</cGUID>
 			</StartNameUID>
 			<HasOverheadWires d:type="bool">1</HasOverheadWires>
@@ -381,59 +381,59 @@
 			<DestinationNameUIDs>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5722350016270598065</e>
-						<e d:type="sUInt64">6201314073971619202</e>
+						<e d:type="sUInt64">5353943571329833151</e>
+						<e d:type="sUInt64">16384700034069033122</e>
 					</UUID>
-					<DevString d:type="cDeltaString">80427fb1-df05-4f69-8275-b5574b7e0f56</DevString>
+					<DevString d:type="cDeltaString">cc99d8bf-074f-4a4d-a2f0-0302df2562e3</DevString>
 				</cGUID>
 				<cGUID>
 					<UUID>
-						<e d:type="sUInt64">5194876589450860260</e>
-						<e d:type="sUInt64">5046840891408944035</e>
+						<e d:type="sUInt64">5614587376214294925</e>
+						<e d:type="sUInt64">13772038132282886571</e>
 					</UUID>
-					<DevString d:type="cDeltaString">063616e4-e8bc-4817-a38b-582a0dfb0946</DevString>
+					<DevString d:type="cDeltaString">a7a5418d-0578-4deb-ab09-dbc3b61b20bf</DevString>
 				</cGUID>
 			</DestinationNameUIDs>
 			<DestinationDistance>
