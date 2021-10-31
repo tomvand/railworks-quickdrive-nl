@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\Kalkslurrytrein.xml</Value>
+																	<Value>PreLoad\frag_trein\goederen\Kalkslurrytrein.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
