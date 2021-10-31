@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cConsistFragmentBlueprint>
+	<Element>
+		<Value>
+			<Attribute name="Name">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="ConsistEntry">
+				<__Indexed__cConsistEntry>
+					<Element>
+						<Value>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_RoodGroen_tex-China.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_BlauwBlauw_Cosco.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_RoodRood.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_WitRood_OOCL.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_BlauwRood_CMA.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_RoodRood_Triton-CAI.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_LeegRood.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_BlauwBlauw.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_BlauwRood.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_BlauwRood.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_BlauwRood_Cosco-CAI.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_RoodBlauw_NorLines-Samskip.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_BlauwLeeg_Samskip.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_WitLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\2x40ft\Container_2x40ft_LeegLeeg.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_wagen\Container\80ft\Container_80ft_LeegBlauw_Samskip.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+						</Value>
+					</Element>
+				</__Indexed__cConsistEntry>
+			</Attribute>
+		</Value>
+	</Element>
+</cConsistFragmentBlueprint>
