@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</Value>
+																	<Value>PreLoad\frag_wagen\Ketelwagen_Knik_Wit.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_fragw_Ketelwagen_Knik_Wit.xml</Value>
+																	<Value>PreLoad\frag_wagen\Ketelwagen_Knik_Wit.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -138,7 +138,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_fragw_SchuifwandWagen_2assig_SchuinDak_Transwaggon.xml</Value>
+																	<Value>PreLoad\frag_wagen\SchuifwandWagen_2assig_SchuinDak_Transwaggon.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -188,7 +188,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_fragw_SchuifwandWagen_2assig_SchuinDak_Transwaggon.xml</Value>
+																	<Value>PreLoad\frag_wagen\SchuifwandWagen_2assig_SchuinDak_Transwaggon.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -238,7 +238,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_fragw_SchuifwandWagen_2assig_RondDak.xml</Value>
+																	<Value>PreLoad\frag_wagen\SchuifwandWagen_2assig_RondDak.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -288,7 +288,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_fragw_SchuifwandWagen_2assig_RondDak.xml</Value>
+																	<Value>PreLoad\frag_wagen\SchuifwandWagen_2assig_RondDak.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
