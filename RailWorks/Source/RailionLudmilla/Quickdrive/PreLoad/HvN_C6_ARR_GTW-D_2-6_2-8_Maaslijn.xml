@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_ARR_GTW-D_2-6_Maaslijn.xml</Value>
+																	<Value>PreLoad\frag_trein\GTW\GTW-D_2-6_Arriva_Maaslijn.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_ARR_GTW-D_2-8_Maaslijn.xml</Value>
+																	<Value>PreLoad\frag_trein\GTW\GTW-D_2-8_Arriva_Maaslijn.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
