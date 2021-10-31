@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_NS_SLT_4.xml</Value>
+																	<Value>PreLoad\frag_trein\SLT\SLT4_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_NS_SLT_4.xml</Value>
+																	<Value>PreLoad\frag_trein\SLT\SLT4_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
