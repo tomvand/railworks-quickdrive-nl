@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_LNS_186_RailpoolKleuren.xml</Value>
+																	<Value>PreLoad\frag_loco\186\186_LNS_RailpoolKleuren.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\_frag_LNS_186_ATC.xml</Value>
+																	<Value>PreLoad\frag_loco\186\186_LNS_ATC.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
