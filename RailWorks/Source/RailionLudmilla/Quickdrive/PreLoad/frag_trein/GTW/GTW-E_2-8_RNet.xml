@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version QBuzz Merwedelingelijn\Stadler GTW Bk1.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW Bk1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version QBuzz Merwedelingelijn\Stadler GTW Motorwagon Electric.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW Motorwagon Electric.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -145,7 +145,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version QBuzz Merwedelingelijn\Stadler GTW B.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW B.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +195,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version QBuzz Merwedelingelijn\Stadler GTW ABk1.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW ABk1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
