@@ -1,0 +1,14 @@
+Ed 	v 	15:23
+Edc 	+ 	15:27
+Ltn 	a 	15:33
+Ltn 	v 	15:34
+Bnz 	+ 	15:39
+Bnc 	a 	15:42
+Bnc 	v 	15:43
+Bnn 	a 	15:46
+Bnn 	v 	15:47
+Bnva 	- 	15:48
+Hvl 	a 	15:53
+Hvl 	v 	15:55
+Ama 	- 	15:59
+Amf 	a 	16:01

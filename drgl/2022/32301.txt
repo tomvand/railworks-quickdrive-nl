@@ -1,0 +1,12 @@
+Nm 	v 	12:23
+Nmh 	a 	12:25
+Nmh 	v 	12:26
+Mmlh 	+ 	12:32
+Cki 	- 	12:35
+Ck 	a 	12:36
+Ck 	v 	12:37
+Bgk 	- 	12:40
+Bmr 	a 	12:44
+Bmr 	v 	12:45
+Vlb 	+ 	12:51
+Vry 	a 	12:57

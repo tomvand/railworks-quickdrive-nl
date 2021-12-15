@@ -1,0 +1,13 @@
+Aml 	v 	11:23
+Wdn 	+ 	11:28
+Rsn 	+ 	11:33
+Hon 	+ 	11:39
+Dvc 	+ 	11:49
+Spa 	- 	11:51
+Dvgea 	- 	11:52
+Dv 	a 	11:54
+Dv 	v 	11:55
+Twl 	+ 	12:00
+Apdo 	+ 	12:06
+Apda 	- 	12:08
+Apd 	a 	12:10

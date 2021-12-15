@@ -1,0 +1,8 @@
+Amf 	v 	14:56
+Ama 	- 	14:58
+Hvl 	+ 	15:02
+Bnva 	- 	15:08
+Bnn 	+ 	15:09
+Bnc 	a 	15:12
+Bnc 	v 	15:13
+Bnz 	a 	15:15
