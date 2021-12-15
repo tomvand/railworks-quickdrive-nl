@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\GTW\GTW-D_2-6_Arriva_Achterhoek.xml</Value>
+																	<Value>PreLoad\frag_trein\DDZ\DDZ6_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>GTW-D</Value>
+										<Value>[RL] DDZ</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>Arriva GTW-D 2/6 Achterhoek</Value>
+										<Value>NS DDZ 6</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -219,14 +219,14 @@
 			<Attribute name="EngineType">
 				<iEngine-eEngineType>
 					<Element>
-						<Value>Diesel</Value>
+						<Value>Electric</Value>
 					</Element>
 				</iEngine-eEngineType>
 			</Attribute>
 			<Attribute name="EraStartYear">
 				<sUInt32>
 					<Element>
-						<Value>3021</Value>
+						<Value>3022</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
@@ -275,14 +275,14 @@
 			<Attribute name="ConsistType">
 				<kConsist-eConsistType>
 					<Element>
-						<Value>eConsistTypeCustom2</Value>
+						<Value>eConsistTypeCustom1</Value>
 					</Element>
 				</kConsist-eConsistType>
 			</Attribute>
 			<Attribute name="HasPantograph">
 				<eBoolean>
 					<Element>
-						<Value>eFalse</Value>
+						<Value>eTrue</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>
