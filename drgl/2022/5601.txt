@@ -1,4 +1,5 @@
-Ut 	v 	12:21
+Ut 	a 	12:09
+Ut 	v 	12:21   [4]
 Uto 	+ 	12:25
 Blw 	- 	12:26
 Bkp 	- 	12:27
@@ -9,7 +10,7 @@ Dld 	+ 	12:33
 Amfva 	- 	12:36
 Bkda 	- 	12:37
 Amf 	a 	12:40
-Amf 	v 	12:42
+Amf 	v 	12:42   [2]
 Ama 	- 	12:44
 Amfs 	+ 	12:46
 Avat 	+ 	12:49

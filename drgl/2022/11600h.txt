@@ -1,12 +1,12 @@
-Amfs 	v 	13:04
+Amfs 	v 	13:04   [2]
 Ama 	- 	13:06
 Amf 	a 	13:08
-Amf 	v 	13:11
+Amf 	v 	13:11   [7]
 Amfga 	- 	13:13
 Brna 	- 	13:17
 Brn 	- 	13:18
 Hvs 	a 	13:23
-Hvs 	v 	13:24
+Hvs 	v 	13:24   [5]
 Hvsm 	- 	13:25
 Crao 	- 	13:26
 Craw 	- 	13:27

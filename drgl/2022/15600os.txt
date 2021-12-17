@@ -1,8 +1,8 @@
-Hd 	v 	07:46
+Hd 	v 	07:46   [2]
 Eml 	- 	07:49
 Pt 	- 	07:52
 Nkk 	+ 	07:55
 Avat 	- 	07:59
 Amfs 	- 	08:00
 Ama 	- 	08:02
-Amf 	a 	08:04
+Amf 	a 	08:04   [5b/4b]

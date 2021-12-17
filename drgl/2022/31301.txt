@@ -1,12 +1,14 @@
-Amf 	v 	15:09
+Amf     a   15:01
+Amf 	v 	15:09   [4b]
 Ama 	- 	15:11
 Hvl 	+ 	15:15
 Bnva 	- 	15:21
 Bnn 	+ 	15:22
 Bnc 	a 	15:25
-Bnc 	v 	15:26
+Bnc 	v 	15:26   [1]
 Bnz 	+ 	15:28
 Ltn 	a 	15:34
 Ltn 	v 	15:35
 Edc 	+ 	15:42
-Ed 	a 	15:46
+Ed 	a 	15:46   [1a]
+Ed 	v 	15:53

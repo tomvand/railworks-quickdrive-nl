@@ -41,18 +41,18 @@ Twl 	- 	17:51
 Apdo 	- 	17:56
 Apda 	- 	17:57
 Apd 	a 	17:58
-Apd 	v 	18:00
+Apd 	v 	18:00   [1]
 Sto 	- 	18:06
 Bnva 	- 	18:10
 Hvl 	- 	18:14
 Ama 	- 	18:18
 Amf 	a 	18:24
-Amf 	v 	18:26
+Amf 	v 	18:26   [7]
 Amfga 	- 	18:28
 Brna 	- 	18:30
 Brn 	- 	18:31
 Hvs 	a 	18:38
-Hvs 	v 	18:40
+Hvs 	v 	18:40   [5]
 Hvsm 	- 	18:41
 Crao 	- 	18:42
 Craw 	- 	18:43

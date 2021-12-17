@@ -1,0 +1,10 @@
+Amf 	v 	12:36   [1]
+Ama 	- 	12:38
+Bnva 	- 	12:43
+Sto 	- 	12:48
+Apd 	a 	13:00
+Apd 	v 	13:02
+Apda 	- 	13:03
+Apdo 	- 	13:05
+Twl 	- 	13:07
+Dv 	a 	13:12

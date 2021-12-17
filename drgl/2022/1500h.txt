@@ -3,7 +3,7 @@ Amfga 	- 	12:58
 Brna 	- 	13:02
 Brn 	- 	13:03
 Hvs 	a 	13:08
-Hvs 	v 	13:10
+Hvs 	v 	13:10   [5]
 Hvsm 	- 	13:11
 Crao 	- 	13:12
 Craw 	- 	13:13

@@ -19,12 +19,12 @@ Craw 	- 	12:40
 Crao 	- 	12:41
 Hvsm 	+ 	12:42
 Hvs 	a 	12:44
-Hvs 	v 	12:45
+Hvs 	v 	12:45   [3]
 Brn 	+ 	12:50
 Brna 	- 	12:53
 Amfga 	- 	12:56
 Amf 	a 	12:58
-Amf 	v 	12:59
+Amf 	v 	12:59   [1]
 Ama 	- 	13:01
 Amfs 	+ 	13:02
-Avat 	a 	13:06
+Avat 	a 	13:06   [2]

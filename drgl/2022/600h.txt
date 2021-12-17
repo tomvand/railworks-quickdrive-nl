@@ -29,7 +29,7 @@ Avat 	- 	13:19
 Amfs 	- 	13:21
 Ama 	- 	13:23
 Amf 	a 	13:25
-Amf 	v 	13:29
+Amf 	v 	13:29   [6]
 Bkda 	- 	13:30
 Amfva 	- 	13:31
 Dld 	- 	13:34
@@ -40,7 +40,7 @@ Bkp 	- 	13:39
 Blw 	- 	13:40
 Uto 	- 	13:41
 Ut 	a 	13:42
-Ut 	v 	13:48
+Ut 	v 	13:48   [9]
 Utwao 	- 	13:49
 Utwaw 	- 	13:50
 Utlr 	- 	13:51

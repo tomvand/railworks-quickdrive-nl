@@ -14,7 +14,7 @@ Htnc 	+ 	12:35
 Htn 	+ 	12:38
 Utln 	+ 	12:42
 Utvr 	+ 	12:45
-Ut 	a 	12:48
+Ut 	a 	12:48   /8800
 Ut 	v 	12:51
 Utwao 	- 	12:52
 Utwaw 	- 	12:53

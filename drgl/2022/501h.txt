@@ -28,7 +28,7 @@ Utlr 	- 	12:40
 Utwao 	- 	12:41
 Utwaw 	- 	12:41
 Ut 	a 	12:42
-Ut 	v 	12:48
+Ut 	v 	12:48   [11]
 Uto 	- 	12:49
 Blw 	- 	12:50
 Bkp 	- 	12:51
@@ -39,7 +39,7 @@ Dld 	- 	12:56
 Amfva 	- 	12:58
 Bkda 	- 	12:59
 Amf 	a 	13:01
-Amf 	v 	13:04
+Amf 	v 	13:04   [2]
 Ama 	- 	13:06
 Amfs 	- 	13:08
 Avat 	- 	13:09

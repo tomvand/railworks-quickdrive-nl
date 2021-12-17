@@ -20,11 +20,11 @@ Craw 	- 	12:33
 Crao 	- 	12:34
 Hvsm 	- 	12:35
 Hvs 	a 	12:36
-Hvs 	v 	12:37
+Hvs 	v 	12:37   [2]
 Brn 	- 	12:42
 Brna 	- 	12:43
 Amfga 	- 	12:47
 Amf 	a 	12:48
-Amf 	v 	12:49
+Amf 	v 	12:49   [1]
 Ama 	- 	12:51
-Amfs 	a 	12:53
+Amfs 	a 	12:53   [2]

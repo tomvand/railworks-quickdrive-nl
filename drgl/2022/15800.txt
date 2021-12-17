@@ -1,13 +1,13 @@
-Avat 	v 	12:24
+Avat 	v 	12:24   [2]
 Amfs 	+ 	12:27
 Ama 	- 	12:29
 Amf 	a 	12:31
-Amf 	v 	12:32
+Amf 	v 	12:32   [7]
 Amfga 	- 	12:34
 Brna 	- 	12:37
 Brn 	+ 	12:39
 Hvs 	a 	12:45
-Hvs 	v 	12:46
+Hvs 	v 	12:46   [5]
 Hvsm 	+ 	12:48
 Crao 	- 	12:49
 Craw 	- 	12:50

@@ -18,12 +18,12 @@ Craw 	- 	17:27
 Crao 	- 	17:28
 Hvsm 	- 	17:29
 Hvs 	a 	17:31
-Hvs 	v 	17:32
+Hvs 	v 	17:32   [3]
 Brn 	- 	17:37
 Brna 	- 	17:38
 Amfga 	- 	17:42
 Amf 	a 	17:43
-Amf 	v 	17:45
+Amf 	v 	17:45   [1]
 Ama 	- 	17:48
 Hvl 	- 	17:52
 Bnva 	- 	17:55
