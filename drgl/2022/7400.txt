@@ -11,7 +11,7 @@ Bnk 	+ 	12:53
 Utza 	- 	12:57
 Utvr 	+ 	12:58
 Ut 	a 	13:01
-Ut 	v 	13:07
+Ut 	v 	13:07   [14]
 Utma 	- 	13:09
 Utzl 	+ 	13:10
 Mas 	+ 	13:15

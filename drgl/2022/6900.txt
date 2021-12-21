@@ -11,7 +11,7 @@ Htn 	+ 	12:57
 Utln 	+ 	13:01
 Utvr 	+ 	13:04
 Ut 	a 	13:07
-Ut 	v 	13:09
+Ut 	v 	13:09   [20]
 Utwao 	- 	13:11
 Utwaw 	- 	13:12
 Utlr 	+ 	13:13
