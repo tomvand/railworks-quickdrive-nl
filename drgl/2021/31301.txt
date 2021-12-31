@@ -5,9 +5,9 @@ Hvl 	+ 	15:15   [2]
 Bnva 	- 	15:21
 Bnn 	+ 	15:22
 Bnc 	a 	15:25
-Bnc 	v 	15:26
+Bnc 	v 	15:26   [1]
 Bnz 	+ 	15:28
 Ltn 	a 	15:34
-Ltn 	v 	15:35
+Ltn 	v 	15:35   [1]
 Edc 	+ 	15:42
 Ed 	a 	15:46   [1a]
