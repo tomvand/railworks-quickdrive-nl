@@ -14,8 +14,8 @@ Ahb 	- 	12:13
 Ahwa 	- 	12:14
 Ahz 	+ 	12:16
 Est 	+ 	12:20
-Ebtwa 	- 	12:21
-Esta 	- 	12:22
+Esta 	- 	12:21
+Ebtwa 	- 	12:22
 Rsa 	- 	12:23
 Nml 	+ 	12:25
 Nm 	a 	12:29
