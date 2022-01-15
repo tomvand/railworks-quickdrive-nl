@@ -10,7 +10,7 @@ rb	-	12:32
 bgn	a	12:39
 bgn v   12:40
 rsd	a	12:49
-rsd	v	12:52
+rsd	v	12:52   [4]
 odb	-	12:55
 zvb	-	13:00
 zlw	-	13:04

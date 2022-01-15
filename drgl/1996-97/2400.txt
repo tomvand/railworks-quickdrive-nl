@@ -1,6 +1,6 @@
 berch   v   11:46
 rsd a   12:21
-rsd	v	12:23
+rsd	v	12:23   [3b]
 odb	-	12:26	
 zvb	-	12:30	
 zlw	-	12:34	

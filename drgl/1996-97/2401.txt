@@ -18,5 +18,5 @@ zlw	-	12:56
 zvb	-	13:01
 odb	-	13:05
 rsd	a	13:11
-rsd v   13:14
+rsd v   13:14   [3b]
 berch   a   13:52
