@@ -1,0 +1,14 @@
+tb  v   12:03
+bd  a   12:16
+bd	v	12:17
+bdpb	-	12:21	
+zlw	-	12:27	
+ddzd	-	12:34	
+ddr	a	12:38
+ddr	v	12:39
+zwd	-	12:41
+brd	-	12:44
+rlb	+	12:46
+rtz	-	12:49
+rtb	-	12:52
+rtd	a	12:55
