@@ -18,7 +18,7 @@ zlw	-	14:26
 zvb	-	14:30
 odb	-	14:34
 rsd	a	14:39
-rsd	v	14:41   [4]
+rsd	v	14:41   [4b]
 bgn	a	14:50
 bgn v   14:51
 rb	-	14:56
