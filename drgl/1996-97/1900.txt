@@ -5,7 +5,7 @@ bdpb	-	12:21
 zlw	-	12:27	
 ddzd	-	12:34	
 ddr	a	12:38
-ddr	v	12:39
+ddr	v	12:39   [2]
 zwd	-	12:41
 brd	-	12:44
 rlb	+	12:46

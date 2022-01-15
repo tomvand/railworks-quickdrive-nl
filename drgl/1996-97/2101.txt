@@ -12,7 +12,7 @@ rlb	-	14:08
 brd	-	14:10
 zwd	-	14:13
 ddr	a	14:17
-ddr	v	14:18
+ddr	v	14:18   [5]
 ddzd	-	14:20
 zlw	-	14:26
 zvb	-	14:30
