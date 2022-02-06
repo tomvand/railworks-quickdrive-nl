@@ -1,0 +1,15 @@
+Ddr 	a 	12:40   <5241
+Ddr 	v 	12:51   [2]
+Grbr 	- 	12:53
+Zwd 	+ 	12:54
+Kfhaz 	- 	12:59
+Brd 	+ 	13:00
+Rlb 	a 	13:02
+Rlb 	v 	13:03
+Rtst 	- 	13:05
+Rtz 	+ 	13:07
+Wiltz 	- 	13:08
+Rtb 	+ 	13:10
+Wiltn 	- 	13:12
+Rtd 	a 	13:13
+Rtd 	v 	13:17   >5241

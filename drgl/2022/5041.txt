@@ -1,0 +1,26 @@
+Gvc 	v 	11:05
+Gv 	+ 	11:09
+Gvmw 	+ 	11:12
+Rsw 	+ 	11:15
+Dta 	- 	11:17
+Ngsfa 	- 	11:18
+Dt 	+ 	11:19
+Dtcp 	+ 	11:22
+Sdm 	+ 	11:29
+Rmoa 	- 	11:30
+Dhs 	- 	11:31
+Dhsa 	- 	11:32
+Rtd 	a 	11:33
+Rtd 	v 	11:35   [7]
+Wiltn 	- 	11:36
+Rtb 	+ 	11:38
+Wiltz 	- 	11:40
+Rtz 	+ 	11:41
+Rtst 	- 	11:43
+Rlb 	+ 	11:44
+Brd 	+ 	11:48
+Kfhaz 	- 	11:50
+Zwd 	+ 	11:53
+Grbr 	- 	11:56
+Ddr 	a 	11:58
+Ddr 	v 	12:12   >5140

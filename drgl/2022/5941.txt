@@ -1,0 +1,13 @@
+Ddr 	a 	11:37   <5940
+Ddr 	v 	11:53   [3b]
+Ddzd 	+ 	11:56
+Wld 	- 	12:00
+Mdbz 	- 	12:01
+Zlw 	a 	12:04
+Zlw 	v 	12:05
+Zvb 	+ 	12:10
+Zvbi 	- 	12:11
+Mabr 	- 	12:14
+Odb 	+ 	12:16
+Rsd 	a 	12:23
+Rsd 	v 	12:38   >5940

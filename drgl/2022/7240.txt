@@ -1,0 +1,21 @@
+Gdm 	v 	12:43
+Bsd 	+ 	12:48
+Ldm 	a 	12:54
+Ldm 	v 	12:56
+Mkbr 	- 	13:00
+Akl 	+ 	13:02
+Gr 	a 	13:06
+Gr 	v 	13:16
+Bhdv 	a 	13:21
+Bhdv 	v 	13:22
+Gnd 	+ 	13:25
+Hbzm 	+ 	13:27
+Sdt 	a 	13:29
+Sdt 	v 	13:30
+Sdtb 	+ 	13:33
+Bmbr 	- 	13:34
+Wijb 	- 	13:35
+Ddrs 	a 	13:36
+Ddrs 	v 	13:37
+Ddr 	a 	13:42
+Ddr 	v 	13:48   >7241

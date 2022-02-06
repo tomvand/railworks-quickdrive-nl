@@ -1,0 +1,31 @@
+Rsd 	a 	08:38   <2560
+Rsd 	v 	09:21   [1a]
+Rsdg 	- 	09:25
+Esn 	a 	09:29
+Esn 	v 	09:30
+Gwd 	+ 	09:34
+Fkth 	a 	09:38
+Fkth 	v 	09:39
+Gkt 	+ 	09:42
+Mid 	+ 	09:45
+Lkp 	a 	09:50
+Lkp 	v 	09:51
+Maria 	+ 	09:54
+Lkr 	a 	09:57
+Lkr 	v 	09:58
+Andd 	+ 	10:02
+Atwlb 	+ 	10:05
+Atw 	a 	10:10
+Atw 	v 	10:12
+Berch 	a 	10:16
+Berch 	v 	10:18
+Fnzd 	a 	10:22
+Fnzd 	v 	10:23
+Foe 	+ 	10:28
+Lkm 	+ 	10:33
+Schll 	+ 	10:36
+Lni 	+ 	10:39
+Fmb 	a 	10:43
+Fmb 	v 	10:45
+Fsv 	+ 	10:49
+Frp 	a 	10:53

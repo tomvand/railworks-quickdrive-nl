@@ -1,0 +1,20 @@
+Ddr 	a 	11:42   <7240
+Ddr 	v 	11:48   [15]
+Ddrs 	a 	11:51
+Ddrs 	v 	11:52
+Wijb 	- 	11:53
+Bmbr 	- 	11:54
+Sdtb 	+ 	11:56
+Sdt 	a 	11:59
+Sdt 	v 	12:00
+Hbzm 	+ 	12:03
+Gnd 	a 	12:04
+Gnd 	v 	12:05
+Bhdv 	+ 	12:08
+Gr 	a 	12:14
+Gr 	v 	12:15
+Akl 	+ 	12:19
+Mkbr 	- 	12:21
+Ldm 	+ 	12:26
+Bsd 	+ 	12:32
+Gdm 	a 	12:38

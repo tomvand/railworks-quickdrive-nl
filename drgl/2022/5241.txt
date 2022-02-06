@@ -1,0 +1,14 @@
+Rtd 	a 	11:43   <5240
+Rtd 	v 	11:47   [7]
+Wiltn 	- 	11:48
+Rtb 	+ 	11:50
+Wiltz 	- 	11:52
+Rtz 	+ 	11:53
+Rtst 	- 	11:55
+Rlb 	+ 	11:57
+Brd 	+ 	12:00
+Kfhaz 	- 	12:01
+Zwd 	+ 	12:06
+Grbr 	- 	12:08
+Ddr 	a 	12:10
+Ddr 	v 	12:21   >5240

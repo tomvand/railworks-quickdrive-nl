@@ -1,0 +1,22 @@
+Rtd 	a 	15:36   <1040
+Rtd 	v 	15:51   [11]
+Rhsla 	- 	15:52
+Hsrtdt 	- 	15:54
+Hsvbw 	- 	15:58
+Hsrtdv 	- 	16:00
+Hsghtz 	- 	16:01
+Hsghtn 	- 	16:03
+Hshmdo 	- 	16:06
+Hshfdo 	- 	16:10
+Hfdm 	- 	16:11
+Hfd 	- 	16:12
+Shl 	a 	16:16
+Shl 	v 	16:18
+Asra 	- 	16:21
+Asdl 	- 	16:23
+Aeg 	- 	16:24
+Ass 	- 	16:26
+Asdta 	- 	16:28
+Sgra 	- 	16:29
+Sgbr 	- 	16:30
+Asd 	a 	16:32
