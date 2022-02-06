@@ -20,8 +20,8 @@ Hstom 	- 	14:54
 Hsbrdo 	- 	14:56
 Rlb 	- 	14:57
 Rtst 	- 	14:58
-Wiltz 	- 	14:59
 Rtz 	- 	14:59
+Wiltz 	- 	14:59
 Rtb 	- 	15:00
 Wiltn 	- 	15:01
 Rtd 	a 	15:02
