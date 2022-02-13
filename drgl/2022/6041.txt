@@ -1,0 +1,19 @@
+Ut 	a 	12:05   <8841
+Ut 	v 	12:11   [21]
+Utvr 	+ 	12:13
+Utln 	+ 	12:16
+Htn 	+ 	12:20
+Htnc 	a 	12:22
+Htnc 	v 	12:23
+Lek 	- 	12:27
+Cl 	+ 	12:29
+Gdm 	a 	12:36
+Gdm 	v 	12:41   [6]
+Mbtwan 	- 	12:43
+Mbtwaz 	- 	12:45
+Zbm 	+ 	12:47
+Ozbm 	- 	12:48
+Hdl 	- 	12:52
+Htda 	- 	12:55
+Ht 	a 	12:57
+Ht 	v 	13:03   >6040

@@ -2,7 +2,7 @@ Tl 	v 	12:23
 Tpsw 	+ 	12:26
 Wnn 	- 	12:30
 Gdm 	a 	12:34
-Gdm 	v 	12:42
+Gdm 	v 	12:42   [1]
 Cl 	+ 	12:47
 Lek 	- 	12:49
 Htnc 	a 	12:54
@@ -11,7 +11,7 @@ Htn 	+ 	12:58
 Utln 	+ 	13:02
 Utvr 	+ 	13:05
 Ut 	a 	13:08
-Ut 	v 	13:14
+Ut 	v 	13:14   [20]
 Utwa 	- 	13:16
 Utlr 	+ 	13:18
 Utt 	+ 	13:20
