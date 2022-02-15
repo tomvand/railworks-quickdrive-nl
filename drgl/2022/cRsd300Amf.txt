@@ -34,5 +34,9 @@ bloa	-	14:01
 bhv	-	14:02
 dld	-	14:06
 amfva	-	14:11
-bkda	-	14:12
 amf	-	14:13
+ama	-	14:15
+bnva	-	14:26
+sto	a	14:32
+sto	v	14:38
+apd	-	14:53
