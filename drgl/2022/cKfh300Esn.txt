@@ -1,0 +1,17 @@
+kfhn	-	12:00	
+kfhz	-	12:02	
+kfhaz	-	12:06	
+zwd	-	12:08	
+grbr	-	12:09	
+ddr	-	12:10	
+ddzd	-	12:11
+wld	-	12:15
+mdbz	-	12:17
+zlw	-	12:19
+zvb	-	12:24
+zvbi	-	12:25
+mabr	-	12:26
+odb	-	12:31
+rsd	-	12:39
+rsdg	-	12:48
+esn	-	12:50

@@ -3,7 +3,7 @@ Ddr 	v 	11:58   [4b]
 Ddzd 	+ 	12:01
 Wld 	- 	12:05
 Mdbz 	- 	12:07
-Zlw 	+ 	12:09
+Zlw 	a 	12:09
 Zlw 	v 	12:10
 Zha 	- 	12:13
 Nvbro 	- 	12:14
@@ -15,12 +15,12 @@ Gz 	+ 	12:30
 Tbr 	+ 	12:35
 Tbu 	+ 	12:38
 Tb 	a 	12:41
-Tb 	v 	12:42
+Tb 	v 	12:42   [1]
 Tba 	- 	12:44
 Tbi 	- 	12:46
 Vga 	- 	12:54
 Ht 	a 	12:58
-Ht 	v 	13:02
+Ht 	v 	13:02   [1]
 Htda 	- 	13:04
 Hto 	+ 	13:06
 Rs 	+ 	13:10

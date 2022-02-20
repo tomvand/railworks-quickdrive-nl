@@ -1,0 +1,25 @@
+Ledn 	v 	11:22
+Gwt 	- 	11:23
+Ld 	- 	11:24
+Ldl 	+ 	11:27
+Rskbl 	- 	11:28
+Ztww 	- 	11:29
+Ztwo 	- 	11:30
+Apn 	a 	11:36
+Apn 	v 	11:37
+Gwb 	- 	11:39
+Bdg 	a 	11:44
+Bdg 	v 	11:46
+Dwb 	- 	11:48
+Wdmv 	- 	11:51
+Wdba 	- 	11:52
+Wd 	a 	11:54
+Wd 	v 	11:55
+Hmla 	- 	11:57
+Hmlva 	- 	11:59
+Vtn 	- 	12:00
+Utt 	- 	12:01
+Utlr 	- 	12:02
+Utwa 	- 	12:04
+Ut 	a 	12:05
+Ut 	v 	12:11   >6041

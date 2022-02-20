@@ -42,7 +42,7 @@ Mas 	- 	12:23
 Utzl 	- 	12:25
 Utma 	- 	12:26
 Ut 	a 	12:28
-Ut 	v 	12:34
+Ut 	v 	12:34   [19]
 Utvr 	- 	12:35
 Utza 	- 	12:36
 Bnk 	- 	12:39

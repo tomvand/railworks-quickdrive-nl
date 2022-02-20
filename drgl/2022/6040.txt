@@ -1,0 +1,18 @@
+Ht 	a 	11:57   <6041
+Ht 	v 	12:03   [4a]
+Htda 	- 	12:05
+Hdl 	- 	12:08
+Ozbm 	- 	12:10
+Zbm 	+ 	12:11
+Mbtwaz 	- 	12:13
+Mbtwan 	- 	12:14
+Gdm 	a 	12:18
+Gdm 	v 	12:23   [1]
+Cl 	+ 	12:29
+Lek 	- 	12:31
+Htnc 	+ 	12:35
+Htn 	+ 	12:38
+Utln 	+ 	12:42
+Utvr 	+ 	12:45
+Ut 	a 	12:48
+Ut 	v 	12:55   >8840
