@@ -21,7 +21,7 @@ Gp 	- 	11:47
 Tgra 	- 	11:49
 Ehv 	a 	11:51
 Ehv 	v 	11:57   [5]
-Ehs 	- 	12:00
+Ehs 	- 	12:00   [binnen]
 At 	- 	12:02
 Bet 	- 	12:04
 Beto 	- 	12:05
