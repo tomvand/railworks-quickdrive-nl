@@ -1,0 +1,15 @@
+Mtr 	v 	12:06
+Mt 	a 	12:09
+Mt 	v 	12:11
+Bha 	- 	12:14
+Bde 	+ 	12:16
+Bk 	+ 	12:22
+Lut 	a 	12:25
+Lut 	v 	12:27
+Luta 	- 	12:29
+Std 	a 	12:31
+Std 	v 	12:38
+Srn 	+ 	12:43
+Ec 	+ 	12:47
+Mbt 	- 	12:50
+Rm 	a 	12:56

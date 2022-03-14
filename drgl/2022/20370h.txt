@@ -1,0 +1,14 @@
+Bielef 	v 	13:12
+Buende 	a 	13:45
+Buende 	v 	13:46
+Osnh 	a 	14:12
+Osnh 	v 	14:14
+Rheine 	a 	14:46
+Rheine 	v 	14:49
+Sa 	+ 	14:54
+Bh 	a 	15:03
+Bh 	v 	15:08
+Spb 	- 	15:11
+Odz 	+ 	15:18
+Hglo 	- 	15:24
+Hgl 	a 	15:26

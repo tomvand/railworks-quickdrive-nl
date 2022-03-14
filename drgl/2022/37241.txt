@@ -1,0 +1,9 @@
+Lw 	v 	14:20
+Hrm 	- 	14:22
+Dei 	+ 	14:25
+Drp 	a 	14:30
+Drp 	v 	14:31
+Fn 	a 	14:36
+Fn 	v 	14:37
+Hlg 	+ 	14:45
+Hlgh 	a 	14:48

@@ -1,0 +1,11 @@
+Apn 	v 	14:09
+Bsk 	a 	14:14
+Bsk 	v 	14:15
+Bsks 	+ 	14:17
+Wadn 	+ 	14:19
+Wad 	a 	14:21
+Wad 	v 	14:29
+Wadt 	+ 	14:32
+Mda 	- 	14:36
+Gwbr 	- 	14:37
+Gd 	a 	14:38

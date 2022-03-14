@@ -1,0 +1,7 @@
+Sk 	v 	11:18
+Sknd 	a 	11:20
+Sknd 	v 	11:21
+Mg 	a 	11:29
+Mg 	v 	11:30
+Hrm 	- 	11:36
+Lw 	a 	11:38

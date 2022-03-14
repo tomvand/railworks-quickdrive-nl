@@ -1,0 +1,16 @@
+Mt 	v 	18:48
+Mtr 	+ 	18:51
+Edn 	+ 	18:58
+Edng 	- 	19:00
+Fvs 	a 	19:02
+Fvs 	v 	19:03
+Fbx 	a 	19:12
+Fbx 	v 	19:13
+Ygd 	- 	19:18
+Fl 	a 	19:21
+Fl 	v 	19:23
+Flj 	a 	19:27
+Flj 	v 	19:28
+Flgp 	a 	19:31
+Flgp 	v 	19:32
+Fhs 	a 	20:23

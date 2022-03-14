@@ -1,0 +1,12 @@
+Hfd 	v 	11:35
+Shl 	a 	11:39
+Shl 	v 	11:41
+Asra 	- 	11:45
+Asdl 	+ 	11:48
+Aeg 	- 	11:49
+Ass 	a 	11:51
+Ass 	v 	11:53
+Asdta 	- 	11:55
+Sgra 	- 	11:56
+Sgbr 	- 	11:57
+Asd 	a 	11:59
