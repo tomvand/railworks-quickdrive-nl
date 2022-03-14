@@ -1,0 +1,10 @@
+Hdb 	v 	11:16
+Mrb 	a 	11:23
+Mrb 	v 	11:25
+Gdk 	- 	11:27
+Vhp 	a 	11:29
+Vhp 	v 	11:30
+Da 	+ 	11:32
+Vz 	+ 	11:37
+Amlbp 	- 	11:41
+Aml 	a 	11:43

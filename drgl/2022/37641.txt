@@ -1,0 +1,17 @@
+Gn 	v 	13:22
+Rdp 	- 	13:24
+Gnn 	+ 	13:26
+Swd 	a 	13:31
+Swd 	v 	13:32
+Wsm 	a 	13:36
+Wsm 	v 	13:37
+Bf 	+ 	13:41
+Wfm 	a 	13:46
+Wfm 	v 	13:47
+Ust 	a 	13:50
+Ust 	v 	13:51
+Uhz 	+ 	13:56
+Uhm 	a 	14:00
+Uhm 	v 	14:01
+Rda 	- 	14:04
+Rd 	a 	14:05

@@ -1,0 +1,16 @@
+Fhs 	v 	10:37
+Flgp 	a 	11:28
+Flgp 	v 	11:29
+Flj 	a 	11:32
+Flj 	v 	11:33
+Fl 	a 	11:37
+Fl 	v 	11:40
+Ygd 	- 	11:44
+Fbx 	a 	11:47
+Fbx 	v 	11:48
+Fvs 	a 	11:57
+Fvs 	v 	11:58
+Edng 	- 	12:00
+Edn 	+ 	12:02
+Mtr 	+ 	12:10
+Mt 	a 	12:13

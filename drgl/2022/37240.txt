@@ -1,0 +1,10 @@
+Hlgh 	v 	10:42
+Hlg 	a 	10:45
+Hlg 	v 	10:46
+Fn 	a 	10:53
+Fn 	v 	10:54
+Drp 	a 	10:59
+Drp 	v 	11:00
+Dei 	+ 	11:06
+Hrm 	- 	11:09
+Lw 	a 	11:11

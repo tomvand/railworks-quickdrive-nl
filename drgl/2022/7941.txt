@@ -1,0 +1,15 @@
+Zl 	v 	13:22
+Hno 	a 	13:30
+Hno 	v 	13:31
+Rat 	+ 	13:36
+Nvd 	a 	13:43
+Nvd 	v 	13:47
+Wdn 	+ 	13:53
+Alm 	a 	13:59
+Aml 	v 	14:00
+Amri 	+ 	14:03
+Bn 	+ 	14:08
+Hgl 	a 	14:13
+Hgl 	v 	14:17
+Esk 	+ 	14:21
+Es 	a 	14:26
