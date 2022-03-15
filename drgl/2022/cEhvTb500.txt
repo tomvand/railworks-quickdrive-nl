@@ -1,10 +1,10 @@
-ehv	-	10:22	
-ehs	-	10:27	[buiten]
-at	-	10:31	
-bet	-	10:37	
-beto	-	10:39	
-lpe	-	10:42	
-btl	-	10:46	
+ehv	-	10:30	
+ehs	-	10:35	[buiten]
+at	-	10:37	
+bet	-	10:40	
+beto	-	10:42	
+lpe	-	10:46	
+btl	-	10:48	
 ot	-	10:54	
 tba	-	10:58	
-tb	-	11:02	
+tb	-	11:01	
