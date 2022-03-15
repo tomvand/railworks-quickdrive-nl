@@ -1,7 +1,7 @@
-btl	-	12:46	
-lpe	-	12:48	
-beto	-	12:52	
-bet	-	12:54	
-at	-	12:57	
-ehs	-	12:59	[buiten]
-ehv	-	13:04	
+btl	-	13:03	
+lpe	-	13:05	
+beto	-	13:09	
+bet	-	13:11	
+at	-	13:14	
+ehs	-	13:16	[buiten]
+ehv	-	13:21	
