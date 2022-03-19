@@ -42,5 +42,5 @@ Lpe 	- 	12:34
 Beto 	- 	12:37
 Bet 	- 	12:38
 At 	- 	12:40
-Ehs 	- 	12:42
+Ehs 	- 	12:42   [buiten?]
 Ehv 	a 	12:45   [1] >opstel
