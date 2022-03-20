@@ -4,9 +4,9 @@ Rvbr 	- 	11:17
 Nvp 	+ 	11:21
 Hfdm 	- 	11:24
 Hfd 	a 	11:25
-Hfd 	v 	11:26
+Hfd 	v 	11:26   [4]
 Shl 	a 	11:30
-Shl 	v 	11:32
+Shl 	v 	11:32   [1-2]
 Asra 	- 	11:36
 Asdl 	+ 	11:38
 Aeg 	- 	11:39
@@ -16,3 +16,4 @@ Asdta 	- 	11:45
 Sgra 	- 	11:46
 Sgbr 	- 	11:47
 Asd 	a 	11:49
+Asd 	v 	11:53   [10b]

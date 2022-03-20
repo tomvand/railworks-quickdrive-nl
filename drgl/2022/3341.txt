@@ -19,8 +19,8 @@ Aeg 	- 	11:28
 Asdl 	+ 	11:29
 Asra 	- 	11:33
 Shl 	a 	11:36
-Shl 	v 	11:38
-Hfd 	+ 	11:42
+Shl 	v 	11:38   [4]
+Hfd 	+ 	11:42   [1]
 Hfdm 	- 	11:44
 Nvp 	+ 	11:47
 Rvbr 	- 	11:50

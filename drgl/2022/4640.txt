@@ -1,4 +1,5 @@
-Asd 	v 	13:41
+Asd 	a 	13:37
+Asd 	v 	13:41   [14b]
 Sgbr 	- 	13:43
 Sgra 	- 	13:44
 Asdta 	- 	13:46
@@ -7,8 +8,8 @@ Aeg 	- 	13:50
 Asdl 	+ 	13:52
 Asra 	- 	13:55
 Shl 	a 	13:58
-Shl 	v 	13:59
-Hfd 	+ 	14:04
+Shl 	v 	13:59   [5-6]
+Hfd 	+ 	14:04   [1]
 Hfdm 	- 	14:05
 Nvp 	+ 	14:08
 Rvbr 	- 	14:12

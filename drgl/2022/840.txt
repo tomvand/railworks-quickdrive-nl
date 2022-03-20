@@ -65,7 +65,7 @@ Dgro 	- 	13:21
 Dgrw 	- 	13:23
 Ods 	- 	13:24
 Asd 	a 	13:25
-Asd 	v 	13:29
+Asd 	v 	13:29   [8b]
 Sgbr 	- 	13:31
 Sgra 	- 	13:32
 Obpa 	- 	13:33

@@ -1,4 +1,5 @@
-Asd 	v 	10:20
+Asd 	a 	10:10
+Asd 	v 	10:20   [2a]
 Sgbr 	- 	10:22
 Sgra 	- 	10:23
 Obpa 	- 	10:24

@@ -16,7 +16,7 @@ Obpa 	- 	11:27
 Sgra 	- 	11:28
 Sgbr 	- 	11:29
 Asd 	a 	11:31
-Asd 	v 	11:35
+Asd 	v 	11:35   [4b]
 Ods 	- 	11:36
 Dgrw 	- 	11:37
 Dgro 	- 	11:39

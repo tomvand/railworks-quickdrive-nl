@@ -1,4 +1,5 @@
-Asd 	v 	13:14
+Asd 	a 	13:00
+Asd 	v 	13:14   [15b]
 Sgbr 	- 	13:15
 Sgra 	- 	13:16
 Aswplz 	a 	13:18

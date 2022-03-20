@@ -1,6 +1,7 @@
-Hfd 	v 	11:35
+Hfd 	a 	11:33
+Hfd 	v 	11:35   [3]
 Shl 	a 	11:39
-Shl 	v 	11:41
+Shl 	v 	11:41   [1-2]
 Asra 	- 	11:45
 Asdl 	+ 	11:48
 Aeg 	- 	11:49
@@ -10,3 +11,4 @@ Asdta 	- 	11:55
 Sgra 	- 	11:56
 Sgbr 	- 	11:57
 Asd 	a 	11:59
+Asd 	v 	12:11   [10b]

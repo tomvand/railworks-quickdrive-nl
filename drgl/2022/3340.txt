@@ -11,9 +11,9 @@ Rvbr 	- 	13:07
 Nvp 	+ 	13:12
 Hfdm 	- 	13:14
 Hfd 	a 	13:16
-Hfd 	v 	13:17
+Hfd 	v 	13:17   [4]
 Shl 	a 	13:21
-Shl 	v 	13:23
+Shl 	v 	13:23   [3]
 Asra 	- 	13:27
 Asdl 	+ 	13:30
 Aeg 	- 	13:32

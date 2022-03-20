@@ -1,4 +1,5 @@
-Asd 	v 	10:56
+Asd 	a 	10:50
+Asd 	v 	10:56   [1]
 Sgbr 	- 	10:58
 Sgra 	- 	10:59
 Obpa 	- 	11:00

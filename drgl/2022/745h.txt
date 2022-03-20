@@ -12,7 +12,7 @@ Nvp 	- 	12:56
 Hfdm 	- 	12:58
 Hfd 	- 	13:00
 Shl 	a 	13:03
-Shl 	v 	13:05
+Shl 	v 	13:05   [1-2]
 Asra 	- 	13:08
 Skbr 	- 	13:09
 Asdz 	a 	13:11

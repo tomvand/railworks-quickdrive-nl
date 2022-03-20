@@ -1,4 +1,5 @@
-Asd 	v 	11:00
+Asd 	a 	10:44
+Asd 	v 	11:00   [10a]
 Ods 	- 	11:01
 Dgrw 	- 	11:02
 Dgok 	- 	11:03

@@ -23,5 +23,6 @@ Asdz 	v 	13:26
 Skbr 	- 	13:27
 Asra 	- 	13:28
 Shl 	a 	13:32
-Shl 	v 	13:33
+Shl 	v 	13:33   [4]
 Hfd 	a 	13:37
+Hfd 	v 	13:40   [2]

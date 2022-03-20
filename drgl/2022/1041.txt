@@ -11,7 +11,7 @@ Hshfdo 	- 	16:10
 Hfdm 	- 	16:11
 Hfd 	- 	16:12
 Shl 	a 	16:16
-Shl 	v 	16:18
+Shl 	v 	16:18   [1-2]
 Asra 	- 	16:21
 Asdl 	- 	16:23
 Aeg 	- 	16:24
@@ -20,3 +20,4 @@ Asdta 	- 	16:28
 Sgra 	- 	16:29
 Sgbr 	- 	16:30
 Asd 	a 	16:32
+Asd 	v 	16:55   [11a]

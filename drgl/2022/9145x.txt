@@ -1,4 +1,5 @@
-Asd 	v 	13:47
+Asd 	a 	13:40
+Asd 	v 	13:47   [15]
 Sgbr 	- 	13:51
 Sgra 	- 	13:52
 Asdta 	- 	13:53

@@ -1,4 +1,5 @@
-Asd 	v 	17:14
+Asd 	a 	17:05
+Asd 	v 	17:14   [11b]
 Ods 	- 	17:15
 Dgrw 	- 	17:16
 Asdmw 	- 	17:20
