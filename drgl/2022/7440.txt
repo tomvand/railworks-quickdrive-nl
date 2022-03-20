@@ -24,11 +24,11 @@ Dgro 	- 	13:46
 Dgrw 	- 	13:48
 Ods 	- 	13:49
 Asd 	a 	13:50
-Asd 	v 	13:53
+Asd 	v 	13:53   [7b]
 Sgbr 	- 	13:55
 Sgra 	- 	13:56
 Obpa 	- 	13:57
-Ass 	+ 	13:58
+Ass 	+ 	13:58   [4]
 Rdwa 	- 	13:59
 Hmta 	- 	14:03
 Zd 	+ 	14:05

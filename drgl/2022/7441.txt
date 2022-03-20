@@ -8,12 +8,12 @@ Kz 	+ 	11:21
 Zd 	+ 	11:24
 Hmta 	- 	11:26
 Rdwa 	- 	11:28
-Ass 	+ 	11:30
+Ass 	+ 	11:30   [5]
 Obpa 	- 	11:32
 Sgra 	- 	11:33
 Sgbr 	- 	11:34
 Asd 	a 	11:36
-Asd 	v 	11:39
+Asd 	v 	11:39   [5?]
 Ods 	- 	11:40
 Dgrw 	- 	11:41
 Dgro 	- 	11:42

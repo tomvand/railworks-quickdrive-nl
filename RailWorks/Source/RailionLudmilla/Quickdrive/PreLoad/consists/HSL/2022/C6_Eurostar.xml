@@ -275,7 +275,7 @@
 			<Attribute name="ConsistType">
 				<kConsist-eConsistType>
 					<Element>
-						<Value>eConsistTypeCustom5</Value>
+						<Value>eConsistTypeCustom6</Value>
 					</Element>
 				</kConsist-eConsistType>
 			</Attribute>
