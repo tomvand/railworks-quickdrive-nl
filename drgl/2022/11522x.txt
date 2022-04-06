@@ -1,0 +1,8 @@
+Vl 	v 	11:49
+Btl 	a 	12:43
+Btl 	v 	12:57
+Tb 	a 	13:10
+Tb 	v 	13:11
+Bd 	a 	13:26
+Bd 	v 	13:32
+Ddr 	a 	13:56

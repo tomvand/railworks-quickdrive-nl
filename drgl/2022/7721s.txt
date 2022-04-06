@@ -1,0 +1,16 @@
+Rtd 	v 	06:08
+Wspl 	- 	06:10
+Az 	- 	06:11
+Hlba 	- 	06:12
+Rtn 	+ 	06:13
+Rtngw 	- 	06:15
+Rtngo 	- 	06:16
+Rta 	+ 	06:18
+Cps 	+ 	06:21
+Nwk 	+ 	06:24
+Nwki 	- 	06:25
+Mdo 	- 	06:27
+Hgwbr 	- 	06:30
+Gd 	a 	06:32
+Gd 	v 	06:33
+Gdg 	a 	06:36
