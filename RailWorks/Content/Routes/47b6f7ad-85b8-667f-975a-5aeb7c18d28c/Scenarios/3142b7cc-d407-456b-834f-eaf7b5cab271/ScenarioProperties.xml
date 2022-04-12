@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="282905620">
+<cScenarioProperties xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="279394278">
 	<ID>
 		<cGUID>
 			<UUID>
@@ -100,7 +100,7 @@
 	<HasRollingStart d:type="bool">0</HasRollingStart>
 	<LoadedFromRollingStart d:type="bool">0</LoadedFromRollingStart>
 	<FrontEndDriverList>
-		<sDriverFrontEndDetails d:id="504894872">
+		<sDriverFrontEndDetails d:id="533691812">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut-Ah ICE 123</English>
@@ -151,18 +151,204 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">ae315cc8-fb91-43d7-9d2f-ae0264e63f4d</Key>
+					<Key d:type="cDeltaString">b379bd5f-d229-414c-b918-a7be0fb38e20</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">RSC</LocoAuthor>
 			<FilePath d:type="cDeltaString">RSC\ICE3Pack01\RailVehicles\Electric\ICE3\Default\Engine</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="D61856ACE97D1440" d:precision="string">5.12296</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="FA8C1402B60C4A40" d:precision="string">52.0993</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000E0BBFEEB3F" d:precision="string">0.874845</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="313116ABE97D1440" d:precision="string">5.12296</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="95CE1802B60C4A40" d:precision="string">52.0993</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000020BCFEEB3F" d:precision="string">0.874846</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504896776">
+		<sDriverFrontEndDetails d:id="533690928">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Mrn PO-Novara shuttle</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">9fae994b-f38d-494c-8920-65aebc5d0591</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Vectron ELL AC/DC</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString">Vectron ELL AC/DC</German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">edbb9b13-4e3b-4674-b559-613d3d109c94</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RSSLO</Provider>
+							<Product d:type="cDeltaString">BR193</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Engine\[KI] BLS 475 407\Vectron_ELL_AC_DC.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">1e1ff6ca-e47f-4e41-8ead-7d76eca86c67</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">RSSLO</LocoAuthor>
+			<FilePath d:type="cDeltaString">RSSLO\BR193\RailVehicles\Engine\[KI] BLS 475 407</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="98EF0887048A1540" d:precision="string">5.38478</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="46DD295A8E094A40" d:precision="string">52.0747</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000080395CF83F" d:precision="string">1.52252</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="533689364">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Wf Chengdu shuttle</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">fae42990-86d5-4847-9c09-3a6ac89557f1</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Vectron ELL AC/DC</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString">Vectron ELL AC/DC</German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">968d9e0b-8d58-4fa9-baf6-708b6cf00f55</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RSSLO</Provider>
+							<Product d:type="cDeltaString">BR193</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\Engine\PKP193\Vectron_ELL_AC_DC.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">faed91fd-e9ac-4408-b454-a56db4645574</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">RSSLO</LocoAuthor>
+			<FilePath d:type="cDeltaString">RSSLO\BR193\RailVehicles\Engine\PKP193</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="2B22212C7C3B1740" d:precision="string">5.80809</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="C9FC7357C9004A40" d:precision="string">52.0061</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000000E4A6DC3F" d:precision="string">0.447686</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="533693512">
+			<ServiceName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">Utza 3000</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">d574d2ac-3814-44ea-8547-75420399e277</Key>
+				</Localisation-cUserLocalisedString>
+			</ServiceName>
+			<LocoName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">CT NS V-IRM mBvk Green</English>
+					<French d:type="cDeltaString">CT NS V-IRM mBvk Green</French>
+					<Italian d:type="cDeltaString">CT NS V-IRM mBvk Green</Italian>
+					<German d:type="cDeltaString">CT NS V-IRM mBvk Green</German>
+					<Spanish d:type="cDeltaString">CT NS V-IRM mBvk Green</Spanish>
+					<Dutch d:type="cDeltaString">CT NS V-IRM mBvk Green</Dutch>
+					<Polish d:type="cDeltaString">CT NS V-IRM mBvk Green</Polish>
+					<Russian d:type="cDeltaString">CT NS V-IRM mBvk Green</Russian>
+					<Other/>
+					<Key d:type="cDeltaString">1a430faf-a866-4ea5-b56d-0d049390b252</Key>
+				</Localisation-cUserLocalisedString>
+			</LocoName>
+			<LocoBP>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">ChrisTrains</Provider>
+							<Product d:type="cDeltaString">RailSimulator</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailVehicles\EMUs\NS IRM\Wagons\Version_Green_VIRM\NS V-IRM mBvk groen.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</LocoBP>
+			<StartLocation>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString"></English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString"></German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString">b67983d1-0290-40eb-a596-a86d74da6381</Key>
+				</Localisation-cUserLocalisedString>
+			</StartLocation>
+			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
+			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
+			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_Green_VIRM</FilePath>
+			<Longitude d:type="sFloat64" d:alt_encoding="D30D67F0928E1440" d:precision="string">5.13923</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="F6F1C4C0D30B4A40" d:precision="string">52.0924</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000060A358F83F" d:precision="string">1.52164</Height>
+			<PlayerDriver d:type="bool">0</PlayerDriver>
+		</sDriverFrontEndDetails>
+		<sDriverFrontEndDetails d:id="533689908">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 3000</English>
@@ -188,7 +374,7 @@
 					<Polish d:type="cDeltaString">CT NS V-IRM mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS V-IRM mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">05b54602-18af-40af-994c-2e3cf1b1d509</Key>
+					<Key d:type="cDeltaString">ce401a8d-2ca7-4fe9-b752-909b5e1d5368</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -219,12 +405,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="E62A2DE1DB9A1740" d:precision="string">5.90123</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="3367262735FE4940" d:precision="string">51.986</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="0000008084B6DC3F" d:precision="string">0.44864</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="A8E037E0DB9A1740" d:precision="string">5.90123</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="6DA7242735FE4940" d:precision="string">51.986</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000A084B6DC3F" d:precision="string">0.44864</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504896572">
+		<sDriverFrontEndDetails d:id="533690384">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ahwa 3100</English>
@@ -250,7 +436,7 @@
 					<Polish d:type="cDeltaString">CT NS V-IRM mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS V-IRM mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">c11994ff-78df-4662-b5a6-efa449ca2f0f</Key>
+					<Key d:type="cDeltaString">d6a14acd-151a-46f4-aea3-67928ca41cad</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -275,18 +461,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">d40d1207-14f6-4b62-a481-8195ca679e07</Key>
+					<Key d:type="cDeltaString">5645db06-a9ef-4e65-a462-920803257533</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="8890DA712D681740" d:precision="string">5.85174</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="206132B91DFC4940" d:precision="string">51.9697</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000C03FBBF03F" d:precision="string">1.04572</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="56A3D6712D681740" d:precision="string">5.85174</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="D5E526B91DFC4940" d:precision="string">51.9697</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000A03FBBF03F" d:precision="string">1.04571</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504897184">
+		<sDriverFrontEndDetails d:id="533692356">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ahwa 3600</English>
@@ -312,7 +498,7 @@
 					<Polish d:type="cDeltaString">CT NS DDZ ABvk</Polish>
 					<Russian d:type="cDeltaString">CT NS DDZ ABvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">7448a0ea-ebdd-47f1-ae2a-06d38de645fa</Key>
+					<Key d:type="cDeltaString">9d13d927-5663-45fc-8299-a4d8578c6f2b</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -337,7 +523,7 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">f5870786-a889-47a5-aaf4-d1212a54597b</Key>
+					<Key d:type="cDeltaString">6feccf2b-0039-44ee-9117-0b4ae7094dd9</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
@@ -348,7 +534,7 @@
 			<Height d:type="sFloat32" d:alt_encoding="00000080A4C1DC3F" d:precision="string">0.449319</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504894940">
+		<sDriverFrontEndDetails d:id="533689636">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 3000 ri Nm</English>
@@ -374,7 +560,7 @@
 					<Polish d:type="cDeltaString">CT NS V-IRM mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS V-IRM mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">947b5803-a99f-4b30-a0aa-e1d42da71cf1</Key>
+					<Key d:type="cDeltaString">744caa76-2c4b-41b9-8b5b-40aaea2293f9</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -405,12 +591,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="0489AF77AC981740" d:precision="string">5.8991</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="25B7639A38FE4940" d:precision="string">51.9861</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="EEDCC877AC981740" d:precision="string">5.8991</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="0B9E599A38FE4940" d:precision="string">51.9861</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E051B8DC3F" d:precision="string">0.44875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895076">
+		<sDriverFrontEndDetails d:id="533693580">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Otb 3200</English>
@@ -436,7 +622,7 @@
 					<Polish d:type="cDeltaString">CT NS VIRMm1 9400 mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS VIRMm1 9400 mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">1ed30798-6785-48f5-99b8-0fc2fb6e8ca6</Key>
+					<Key d:type="cDeltaString">8816bd52-7eff-4d00-8d99-ba6ec2ebb503</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -467,12 +653,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS VIRMm\Wagons\Version_VIRMm</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="FEC30AE88D5C1740" d:precision="string">5.84039</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="CC6CECC4A9FF4940" d:precision="string">51.9974</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="A19F42E68D5C1740" d:precision="string">5.84039</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="7DBFF0C4A9FF4940" d:precision="string">51.9974</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000006FA9DC3F" d:precision="string">0.447841</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895824">
+		<sDriverFrontEndDetails d:id="533691132">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Wf 3100</English>
@@ -498,7 +684,7 @@
 					<Polish d:type="cDeltaString">CT NS VIRMm2 8700 mBvk1</Polish>
 					<Russian d:type="cDeltaString">CT NS VIRMm2 8700 mBvk1</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">484145b3-517e-4ea7-80fa-715881e56615</Key>
+					<Key d:type="cDeltaString">1e373c53-29d1-4394-83bd-86e3db4833f7</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -529,12 +715,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS VIRMm\Wagons\Version_VIRMm23</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="D46691CCEB2C1740" d:precision="string">5.79387</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="5F43C2842F014A40" d:precision="string">52.0093</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="FF6A1DCCEB2C1740" d:precision="string">5.79387</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="B06DC1842F014A40" d:precision="string">52.0093</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E0206BDC3F" d:precision="string">0.444039</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895620">
+		<sDriverFrontEndDetails d:id="533690996">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ed 3000</English>
@@ -560,7 +746,7 @@
 					<Polish d:type="cDeltaString">CT NS VIRMm1 9400 mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS VIRMm1 9400 mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">07b19a9f-b964-4390-a50e-1304f5b53241</Key>
+					<Key d:type="cDeltaString">6057a847-73c9-4c27-975e-06429dec550a</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -591,12 +777,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS VIRMm\Wagons\Version_VIRMm</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="688ABFD6C6B31640" d:precision="string">5.67556</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="74B9F0FB59044A40" d:precision="string">52.034</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="7DEEF3D8C6B31640" d:precision="string">5.67556</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="4FF1EDFB59044A40" d:precision="string">52.034</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="00000040C58CDC3F" d:precision="string">0.446092</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504898136">
+		<sDriverFrontEndDetails d:id="533690520">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Klp 3200</English>
@@ -622,7 +808,7 @@
 					<Polish d:type="cDeltaString">CT NS V-IRM mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS V-IRM mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">cae2d560-383f-4573-ad27-919a9b18ed40</Key>
+					<Key d:type="cDeltaString">58c6c3d3-1c33-4811-b19c-673b68236142</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -653,12 +839,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="70436DF4E94A1640" d:precision="string">5.57316</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="49F8ADE318074A40" d:precision="string">52.0554</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="4CAC5DF3E94A1640" d:precision="string">5.57316</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="ECE3AFE318074A40" d:precision="string">52.0554</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000606E27F43F" d:precision="string">1.25963</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895416">
+		<sDriverFrontEndDetails d:id="533693648">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Mrn 3100</English>
@@ -684,7 +870,7 @@
 					<Polish d:type="cDeltaString">CT NS VIRMm1 9400 mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS VIRMm1 9400 mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">9dbadaf6-9bc6-4de9-bc16-b953ee97dc1e</Key>
+					<Key d:type="cDeltaString">2cd6d490-6e3f-4da7-b95c-e9292ad33089</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -715,12 +901,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS VIRMm\Wagons\Version_VIRMm</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="DCECDC99BA7E1540" d:precision="string">5.37376</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="98C17B1BEA094A40" d:precision="string">52.0775</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="91C0C998BA7E1540" d:precision="string">5.37376</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="03737C1BEA094A40" d:precision="string">52.0775</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000200725FC3F" d:precision="string">1.75904</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504896028">
+		<sDriverFrontEndDetails d:id="533689772">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut 3500</English>
@@ -746,7 +932,7 @@
 					<Polish d:type="cDeltaString">CT NS V-IRM mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS V-IRM mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">221d894c-d2b5-49b5-a4e8-2f0bb5980086</Key>
+					<Key d:type="cDeltaString">32ea5db7-b08d-48fa-8d13-af7da5149089</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -777,74 +963,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="34C02FE0B6771440" d:precision="string">5.11691</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="A7725B89C00D4A40" d:precision="string">52.1074</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="84531DE0B6771440" d:precision="string">5.11691</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="203D5389C00D4A40" d:precision="string">52.1074</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E051B8DC3F" d:precision="string">0.44875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895892">
-			<ServiceName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">Utza 3000</English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">d574d2ac-3814-44ea-8547-75420399e277</Key>
-				</Localisation-cUserLocalisedString>
-			</ServiceName>
-			<LocoName>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString">CT NS V-IRM mBvk Green</English>
-					<French d:type="cDeltaString">CT NS V-IRM mBvk Green</French>
-					<Italian d:type="cDeltaString">CT NS V-IRM mBvk Green</Italian>
-					<German d:type="cDeltaString">CT NS V-IRM mBvk Green</German>
-					<Spanish d:type="cDeltaString">CT NS V-IRM mBvk Green</Spanish>
-					<Dutch d:type="cDeltaString">CT NS V-IRM mBvk Green</Dutch>
-					<Polish d:type="cDeltaString">CT NS V-IRM mBvk Green</Polish>
-					<Russian d:type="cDeltaString">CT NS V-IRM mBvk Green</Russian>
-					<Other/>
-					<Key d:type="cDeltaString">cd340420-6e3e-4e61-9bac-9629e9350f6a</Key>
-				</Localisation-cUserLocalisedString>
-			</LocoName>
-			<LocoBP>
-				<iBlueprintLibrary-cAbsoluteBlueprintID>
-					<BlueprintSetID>
-						<iBlueprintLibrary-cBlueprintSetID>
-							<Provider d:type="cDeltaString">ChrisTrains</Provider>
-							<Product d:type="cDeltaString">RailSimulator</Product>
-						</iBlueprintLibrary-cBlueprintSetID>
-					</BlueprintSetID>
-					<BlueprintID d:type="cDeltaString">RailVehicles\EMUs\NS IRM\Wagons\Version_Green_VIRM\NS V-IRM mBvk groen.xml</BlueprintID>
-				</iBlueprintLibrary-cAbsoluteBlueprintID>
-			</LocoBP>
-			<StartLocation>
-				<Localisation-cUserLocalisedString>
-					<English d:type="cDeltaString"></English>
-					<French d:type="cDeltaString"></French>
-					<Italian d:type="cDeltaString"></Italian>
-					<German d:type="cDeltaString"></German>
-					<Spanish d:type="cDeltaString"></Spanish>
-					<Dutch d:type="cDeltaString"></Dutch>
-					<Polish d:type="cDeltaString"></Polish>
-					<Russian d:type="cDeltaString"></Russian>
-					<Other/>
-					<Key d:type="cDeltaString">c9fb7617-1d7f-4285-9757-65521ae3021c</Key>
-				</Localisation-cUserLocalisedString>
-			</StartLocation>
-			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
-			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
-			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_Green_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F4A20CF0928E1440" d:precision="string">5.13923</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="B0AFC8C0D30B4A40" d:precision="string">52.0924</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="000000E0A458F83F" d:precision="string">1.52164</Height>
-			<PlayerDriver d:type="bool">0</PlayerDriver>
-		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895756">
+		<sDriverFrontEndDetails d:id="533692560">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut (1)1700</English>
@@ -870,7 +994,7 @@
 					<Polish d:type="cDeltaString">CT NS ICMm sBk</Polish>
 					<Russian d:type="cDeltaString">CT NS ICMm sBk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">434a17ac-4609-4f0b-88fd-f4e22a144027</Key>
+					<Key d:type="cDeltaString">27ff633b-c208-45c1-9338-2c723fe0b3e9</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -901,12 +1025,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS ICMm\Wagons</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="CE601B5271771440" d:precision="string">5.11664</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="BFE0A2FFA80D4A40" d:precision="string">52.1067</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="5C4C065371771440" d:precision="string">5.11664</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="16759CFFA80D4A40" d:precision="string">52.1067</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E051B8DC3F" d:precision="string">0.44875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504898952">
+		<sDriverFrontEndDetails d:id="533692492">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Speler 3235</English>
@@ -932,7 +1056,7 @@
 					<Polish d:type="cDeltaString">CT NS V-IRM mBvk</Polish>
 					<Russian d:type="cDeltaString">CT NS V-IRM mBvk</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">3ed67f80-ccf6-4a3f-9578-8ee0ce8463f0</Key>
+					<Key d:type="cDeltaString">92a91c11-0049-49da-bb59-a0d0cba011fb</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -963,12 +1087,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS IRM\Wagons\Version_VIRM</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="4C8B13BE93761440" d:precision="string">5.1158</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="7281F989C00D4A40" d:precision="string">52.1074</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="FA363FBE93761440" d:precision="string">5.1158</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="B483F389C00D4A40" d:precision="string">52.1074</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000C04DB8DC3F" d:precision="string">0.448749</Height>
 			<PlayerDriver d:type="bool">1</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504897864">
+		<sDriverFrontEndDetails d:id="533689840">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 31100</English>
@@ -994,7 +1118,7 @@
 					<Polish d:type="cDeltaString">CT Stadler GTW Bk1 Arriva Achterhoek</Polish>
 					<Russian d:type="cDeltaString">CT Stadler GTW Bk1 Arriva Achterhoek</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">426f0ccd-297a-4954-ba18-fab39315c5bd</Key>
+					<Key d:type="cDeltaString">985a4c76-83b1-49bc-a022-0bd96c1d2e09</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1025,12 +1149,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Achterhoek</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="AF203EB8CA971740" d:precision="string">5.89823</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="34632AD031FE4940" d:precision="string">51.9859</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="BC5D17B9CA971740" d:precision="string">5.89823</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="37E325D031FE4940" d:precision="string">51.9859</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000604678DC3F" d:precision="string">0.444841</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504898000">
+		<sDriverFrontEndDetails d:id="533692696">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 30700</English>
@@ -1056,7 +1180,7 @@
 					<Polish d:type="cDeltaString">CT Stadler GTW ABk1 Connexxion Breng</Polish>
 					<Russian d:type="cDeltaString">CT Stadler GTW ABk1 Connexxion Breng</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">300fa971-7cd5-414f-9462-7ec23dd5b5b9</Key>
+					<Key d:type="cDeltaString">0d1cbd3a-ff46-423f-b229-58a9d343360a</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1081,18 +1205,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">bfe28b6c-4e9d-4c2c-b58b-24bb2e2cfc97</Key>
+					<Key d:type="cDeltaString">1bc3ef0a-ef75-4f2f-9d29-77cd8119e2f3</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_DIESEL</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\DMUs\Stadler GTW\Wagons\Version Connexxion Breng</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="14F83FCC55AB1740" d:precision="string">5.91732</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="572947A334FE4940" d:precision="string">51.986</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="126E32CE55AB1740" d:precision="string">5.91732</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="DABE2DA334FE4940" d:precision="string">51.986</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="00000020C6DDDC3F" d:precision="string">0.451036</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504894804">
+		<sDriverFrontEndDetails d:id="533691200">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 6600</English>
@@ -1118,7 +1242,7 @@
 					<Polish d:type="cDeltaString">CT Stadler Flirt3 A NS 2500</Polish>
 					<Russian d:type="cDeltaString">CT Stadler Flirt3 A NS 2500</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">b751178f-db37-4fb1-ba24-e9dd92af9a70</Key>
+					<Key d:type="cDeltaString">5edd793b-9fc0-4827-bdd1-2ab76817a8d9</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1149,12 +1273,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\Stadler Flirt 3\Wagons\Version NS</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="E924750FDA9A1740" d:precision="string">5.90122</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="94CC2E0621FE4940" d:precision="string">51.9854</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000020E288DC3F" d:precision="string">0.445855</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="A0FDF710DA9A1740" d:precision="string">5.90122</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="BFB3290621FE4940" d:precision="string">51.9854</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="00000040E288DC3F" d:precision="string">0.445855</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504898816">
+		<sDriverFrontEndDetails d:id="533693104">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 7600</English>
@@ -1180,7 +1304,7 @@
 					<Polish d:type="cDeltaString">CT NS SNG A1</Polish>
 					<Russian d:type="cDeltaString">CT NS SNG A1</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">739b2953-acf5-4275-9ca6-d9f21a3bebaf</Key>
+					<Key d:type="cDeltaString">8b6ec254-8eb2-48df-af97-c697ca26ec6c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1205,18 +1329,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">8bfc3d15-44f4-4b83-bc8d-0bee4c448504</Key>
+					<Key d:type="cDeltaString">e75ad2b6-f0a9-4ef2-8a7f-08afd12c4836</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\NS SNG\RailVehicles\CT NS SNG\Version_NS</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="9881A70CB6A31740" d:precision="string">5.90987</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="1978735939FE4940" d:precision="string">51.9861</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="DEC0300DB6A31740" d:precision="string">5.90987</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="800B735939FE4940" d:precision="string">51.9861</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A0C9E1DC3F" d:precision="string">0.451281</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504896980">
+		<sDriverFrontEndDetails d:id="533692152">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ah 7500</English>
@@ -1242,7 +1366,7 @@
 					<Polish d:type="cDeltaString">CT Stadler Flirt3 B NS 2200</Polish>
 					<Russian d:type="cDeltaString">CT Stadler Flirt3 B NS 2200</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">38a5905d-1cd8-42e4-8ce2-4f59a932c213</Key>
+					<Key d:type="cDeltaString">3237895b-8e78-4c63-8da2-8e22dfcb3031</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1273,12 +1397,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\Stadler Flirt 3\Wagons\Version NS</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F4C209D7BE991740" d:precision="string">5.90014</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="CE8458FF38FE4940" d:precision="string">51.9861</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="83A10ED7BE991740" d:precision="string">5.90014</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="36EF61FF38FE4940" d:precision="string">51.9861</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E051B8DC3F" d:precision="string">0.44875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504898612">
+		<sDriverFrontEndDetails d:id="533693444">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Bnk 7300</English>
@@ -1304,7 +1428,7 @@
 					<Polish d:type="cDeltaString">CT NS SLT mABk3</Polish>
 					<Russian d:type="cDeltaString">CT NS SLT mABk3</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">68f608a1-f8d9-48a0-ad5d-bb437cd095ec</Key>
+					<Key d:type="cDeltaString">ebcf4168-fbd1-4d0f-b634-30fc076ccbc0</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1329,18 +1453,18 @@
 					<Polish d:type="cDeltaString"></Polish>
 					<Russian d:type="cDeltaString"></Russian>
 					<Other/>
-					<Key d:type="cDeltaString">ddfe3c60-7cd6-491b-8d77-d0e454d52055</Key>
+					<Key d:type="cDeltaString">fe8d1768-830b-4f7e-b1e4-e9201665fcd1</Key>
 				</Localisation-cUserLocalisedString>
 			</StartLocation>
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS SLT\Wagons\Version BlueWhiteYellow</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="20735554FED11440" d:precision="string">5.20507</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="95C3420F2D0A4A40" d:precision="string">52.0795</Latitude>
-			<Height d:type="sFloat32" d:alt_encoding="00000040ED26E33F" d:precision="string">0.598502</Height>
+			<Longitude d:type="sFloat64" d:alt_encoding="208F5D54FED11440" d:precision="string">5.20507</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="77EC430F2D0A4A40" d:precision="string">52.0795</Latitude>
+			<Height d:type="sFloat32" d:alt_encoding="000000C0EC26E33F" d:precision="string">0.598502</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504896844">
+		<sDriverFrontEndDetails d:id="533692424">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Utvr 6900</English>
@@ -1366,7 +1490,7 @@
 					<Polish d:type="cDeltaString">CT NS SLT mABk3</Polish>
 					<Russian d:type="cDeltaString">CT NS SLT mABk3</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">8fdf1c5a-3513-42f3-8779-b32e59069ffc</Key>
+					<Key d:type="cDeltaString">c0f49f8e-6481-4409-af78-22a8d0ff3dac</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1397,12 +1521,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS SLT\Wagons\Version BlueWhiteYellow</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="A4B5670ED3821440" d:precision="string">5.12776</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="EE2F4059560C4A40" d:precision="string">52.0964</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="79C67F0ED3821440" d:precision="string">5.12776</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="5D144359560C4A40" d:precision="string">52.0964</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A024400040" d:precision="string">2.03132</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504897932">
+		<sDriverFrontEndDetails d:id="533692628">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut 7400</English>
@@ -1428,7 +1552,7 @@
 					<Polish d:type="cDeltaString">CT NS SLT mABk3</Polish>
 					<Russian d:type="cDeltaString">CT NS SLT mABk3</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">50679b21-c673-4e34-8d31-1ffc11ee7c46</Key>
+					<Key d:type="cDeltaString">10ce605f-9afb-4e99-82de-ab5b529f5bf1</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1459,12 +1583,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS SLT\Wagons\Version BlueWhiteYellow</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F428EEF21D771440" d:precision="string">5.11633</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="5FA1998CB20D4A40" d:precision="string">52.107</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="CDD879F21D771440" d:precision="string">5.11633</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="26C4958CB20D4A40" d:precision="string">52.107</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E051B8DC3F" d:precision="string">0.44875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504897524">
+		<sDriverFrontEndDetails d:id="533689500">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut 6000/8800</English>
@@ -1490,7 +1614,7 @@
 					<Polish d:type="cDeltaString">CT NS SLT mABk1</Polish>
 					<Russian d:type="cDeltaString">CT NS SLT mABk1</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">3403df43-0619-424e-a4c8-c3247cf179e4</Key>
+					<Key d:type="cDeltaString">0bf39205-ca0e-429f-bdb4-ffc17b1be66e</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1521,12 +1645,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS SLT\Wagons\Version BlueWhiteYellow</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="B884EEC362761440" d:precision="string">5.11561</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="122CC747AE0D4A40" d:precision="string">52.1069</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="06C900C462761440" d:precision="string">5.11561</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="64C1BA47AE0D4A40" d:precision="string">52.1069</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000C04DB8DC3F" d:precision="string">0.448749</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504895348">
+		<sDriverFrontEndDetails d:id="533691472">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut 5500</English>
@@ -1552,7 +1676,7 @@
 					<Polish d:type="cDeltaString">CT NS SLT mABk4</Polish>
 					<Russian d:type="cDeltaString">CT NS SLT mABk4</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">a380d114-704c-4bff-aa41-c6db522f0118</Key>
+					<Key d:type="cDeltaString">9e6c3a73-c072-466e-b353-f2147d2bf644</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1583,12 +1707,12 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\RailSimulator\RailVehicles\EMUs\NS SLT\Wagons\Version BlueWhiteYellow</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="8A78C59151771440" d:precision="string">5.11652</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="4D7B629CE20D4A40" d:precision="string">52.1085</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="C20FAF9251771440" d:precision="string">5.11652</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="3887589CE20D4A40" d:precision="string">52.1085</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000A062B8DC3F" d:precision="string">0.448754</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
-		<sDriverFrontEndDetails d:id="504897660">
+		<sDriverFrontEndDetails d:id="533690452">
 			<ServiceName>
 				<Localisation-cUserLocalisedString>
 					<English d:type="cDeltaString">Ut 4900/5700</English>
@@ -1614,7 +1738,7 @@
 					<Polish d:type="cDeltaString">CT NS SNG A1</Polish>
 					<Russian d:type="cDeltaString">CT NS SNG A1</Russian>
 					<Other/>
-					<Key d:type="cDeltaString">52c9faea-9e1e-4498-a801-f0ecf7101c30</Key>
+					<Key d:type="cDeltaString">1368a271-514a-4581-b401-ba19bf7f261c</Key>
 				</Localisation-cUserLocalisedString>
 			</LocoName>
 			<LocoBP>
@@ -1645,30 +1769,42 @@
 			<LocoClass d:type="cDeltaString">LOCO_CLASS_ELECTRIC</LocoClass>
 			<LocoAuthor d:type="cDeltaString">ChrisTrains</LocoAuthor>
 			<FilePath d:type="cDeltaString">ChrisTrains\NS SNG\RailVehicles\CT NS SNG\Version_NS</FilePath>
-			<Longitude d:type="sFloat64" d:alt_encoding="F8790F08B0771440" d:precision="string">5.11688</Longitude>
-			<Latitude d:type="sFloat64" d:alt_encoding="6A9AFCBDDD0D4A40" d:precision="string">52.1083</Latitude>
+			<Longitude d:type="sFloat64" d:alt_encoding="280B0E07B0771440" d:precision="string">5.11688</Longitude>
+			<Latitude d:type="sFloat64" d:alt_encoding="C54004BEDD0D4A40" d:precision="string">52.1083</Latitude>
 			<Height d:type="sFloat32" d:alt_encoding="000000E051B8DC3F" d:precision="string">0.44875</Height>
 			<PlayerDriver d:type="bool">0</PlayerDriver>
 		</sDriverFrontEndDetails>
 	</FrontEndDriverList>
 	<RequiredSet>
-		<iBlueprintLibrary-cBlueprintSetID d:id="179037626">
+		<iBlueprintLibrary-cBlueprintSetID d:id="56633518">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">NS SNG</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="179037628">
+		<iBlueprintLibrary-cBlueprintSetID d:id="56633520">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="179037630">
+		<iBlueprintLibrary-cBlueprintSetID d:id="56633522">
+			<Provider d:type="cDeltaString">GRUPO_STR</Provider>
+			<Product d:type="cDeltaString">Sggmrss</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="56633524">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ICE3Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="56633526">
+			<Provider d:type="cDeltaString">RSSLO</Provider>
+			<Product d:type="cDeltaString">BR193</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="56633528">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">Konstanz-Villingen</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
 	</RequiredSet>
 	<Gizmo>
-		<cOwnedEntity d:id="55797022">
+		<cOwnedEntity d:id="177912166">
 			<Component>
-				<cEditorSceneryRender d:id="282908026">
+				<cEditorSceneryRender d:id="279380742">
 					<DetailLevel d:type="sInt32">10</DetailLevel>
 					<Global d:type="bool">0</Global>
 					<Saved d:type="bool">1</Saved>
@@ -1676,16 +1812,16 @@
 					<Palette1Index d:type="sUInt8">0</Palette1Index>
 					<Palette2Index d:type="sUInt8">0</Palette2Index>
 				</cEditorSceneryRender>
-				<cPosOri d:id="176383978">
+				<cPosOri d:id="56710098">
 					<Scale d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 1.0000000 1.0000000 0.0000000</Scale>
 					<RFarMatrix>
-						<cFarMatrix d:id="176383984">
+						<cFarMatrix d:id="56710104">
 							<Height d:type="sFloat32" d:alt_encoding="000000606666E63F" d:precision="string">0.7</Height>
 							<RXAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">1.0000000 0.0000000 0.0000000 0.0000000</RXAxis>
 							<RYAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 1.0000000 0.0000000 0.0000000</RYAxis>
 							<RZAxis d:numElements="4" d:elementType="sFloat32" d:precision="string">0.0000000 0.0000000 1.0000000 0.0000000</RZAxis>
 							<RFarPosition>
-								<cFarVector2 d:id="176383991">
+								<cFarVector2 d:id="56710111">
 									<X>
 										<cFarCoordinate>
 											<RouteCoordinate>
@@ -1719,7 +1855,7 @@
 						</cFarMatrix>
 					</RFarMatrix>
 				</cPosOri>
-				<cScriptComponent d:id="282913616">
+				<cScriptComponent d:id="177159492">
 					<DebugDisplay d:type="bool">1</DebugDisplay>
 					<StateName d:type="cDeltaString"></StateName>
 				</cScriptComponent>
@@ -1764,33 +1900,45 @@
 	<Author d:type="cDeltaString"></Author>
 	<DispatcherVersion d:type="cDeltaString">V1</DispatcherVersion>
 	<RBlueprintSetPreLoad>
-		<iBlueprintLibrary-cBlueprintSetID d:id="55377452">
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581200">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">RailSimulator</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="55377454">
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581202">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">NS SNG</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="55377456">
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581204">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">NS Class 186 and ICRmh wagons</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="55377458">
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581206">
 			<Provider d:type="cDeltaString">ChrisTrains</Provider>
 			<Product d:type="cDeltaString">Klmos</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="55377460">
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581208">
 			<Provider d:type="cDeltaString">RailionLudmilla</Provider>
 			<Product d:type="cDeltaString">Quickdrive</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
-		<iBlueprintLibrary-cBlueprintSetID d:id="55377462">
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581210">
 			<Provider d:type="cDeltaString">RSC</Provider>
 			<Product d:type="cDeltaString">ICE3Pack01</Product>
 		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581212">
+			<Provider d:type="cDeltaString">RSSLO</Provider>
+			<Product d:type="cDeltaString">BR193</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581214">
+			<Provider d:type="cDeltaString">GRUPO_STR</Provider>
+			<Product d:type="cDeltaString">Sggmrss</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
+		<iBlueprintLibrary-cBlueprintSetID d:id="313581216">
+			<Provider d:type="cDeltaString">virtualRailroads</Provider>
+			<Product d:type="cDeltaString">Konstanz-Villingen</Product>
+		</iBlueprintLibrary-cBlueprintSetID>
 	</RBlueprintSetPreLoad>
 	<NamedEntity>
-		<cScenarioProperties-cGuidToNameMapping d:id="176819296">
+		<cScenarioProperties-cGuidToNameMapping d:id="177198600">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -1802,7 +1950,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Ah3 rijweg</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="176819242">
+		<cScenarioProperties-cGuidToNameMapping d:id="177198996">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -1814,7 +1962,7 @@
 			</Guid>
 			<Name d:type="cDeltaString">Ah7 rijweg</Name>
 		</cScenarioProperties-cGuidToNameMapping>
-		<cScenarioProperties-cGuidToNameMapping d:id="176819326">
+		<cScenarioProperties-cGuidToNameMapping d:id="177199098">
 			<Guid>
 				<cGUID>
 					<UUID>
@@ -1833,7 +1981,7 @@
 	<CareerRules>
 		<d:nil/>
 	</CareerRules>
-	<MD5 d:type="cDeltaString">5AA676286C432A64A3398FBF78B38130</MD5>
+	<MD5 d:type="cDeltaString">D10F696765A258649B46BE85DA8199D5</MD5>
 	<MessageEvent/>
 	<SimpleControlsOnly d:type="bool">0</SimpleControlsOnly>
 	<ExpertControlsOnly d:type="bool">0</ExpertControlsOnly>
