@@ -1,3 +1,31 @@
+Bijzondere treinen
+==================
+
+- 7 juli 2022: Sommer-Strand-Express
+  - Bremen-Zvt 13470? (9901, Euro-Express)
+    - Amf8 11:20
+    - Asd 12:34
+    - Ovn-Zvt 13:00
+  - LM Zvt-Hlm 70450 (9901, Euro-Express, 1251)
+    - Zvt V **13:05**
+    - Zvt(-Ovn) 13:09, 13:12, 13:17
+    - Ovn **13:21**
+    - Hlm7 A 13:25, GDST 13:30
+  - R Hlm
+    - Lokwissel
+    - Hlm7 13:43?
+  - LM Hlm-Zvt (1251, Euro-Express, 9901)
+    - Hlm7 GDST 17:39 V19:43(?)
+    - Ovn-Zvt 17:55
+    - Zvt2 17:55
+  - Zvt-Bremen
+    - Hlm 18:17
+
+
+
+Omleidingen
+===========
+
 Thalys via Hlm-Ledn:
 - 6 mei 2022
   - https://treinposities.nl/ritinfo/20220506/9328
