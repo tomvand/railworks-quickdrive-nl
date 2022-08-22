@@ -1,11 +1,10 @@
-ut	a	17:58	
-ut	v	18:03	[21]
-utvr	+	18:04	
-utza	-	18:06	
-utln	+	18:07	
-htn	+	18:10	
-htnc	a	18:11	
-htnc	v	18:12	
-lek	-	18:15	
-cl	+	18:16	
+ut	v	17:59	[21]
+utvr	+	18:00	
+utza	-	18:02	
+utln	+	18:03	
+htn	+	18:07	
+htnc	a	18:08	
+htnc	v	18:10	
+lek	-	18:13	
+cl	+	18:14	
 gdm	a	18:21	

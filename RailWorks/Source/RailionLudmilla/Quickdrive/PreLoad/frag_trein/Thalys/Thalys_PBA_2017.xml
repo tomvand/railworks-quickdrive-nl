@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PowerCar\Engine\TGV_Thalys_A.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PowerCar\Engine\Thalys PBA PowerCar A.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R1-R8\TGV_Thalys_R1.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R1-R8\Thalys R1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -145,7 +145,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R2-R3\TGV_Thalys_R2.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R2-R3\Thalys R2.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +195,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R2-R3\TGV_Thalys_R3.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R2-R3\Thalys R3.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -245,7 +245,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R4\TGV_Thalys_R4.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R4\Thalys R4 WelcomeBar.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -295,7 +295,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R5-R6-R7\TGV_Thalys_R5.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R5\Thalys R5.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -345,7 +345,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R5-R6-R7\TGV_Thalys_R6.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R5-R6-R7\Thalys R6.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -395,7 +395,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R5-R6-R7\TGV_Thalys_R7.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R7\Thalys R7.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -445,7 +445,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PassengerCars\R1-R8\TGV_Thalys_R8.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PassengerCars\R1-R8\Thalys R8.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -495,7 +495,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\TGV_DCR_Thalys_PBA-2017\PowerCar\Engine\TGV_Thalys_B.xml</Value>
+																	<Value>RailVehicles\Electric\Thalys PBA\PowerCar\Engine\Thalys PBA PowerCar B ND.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
