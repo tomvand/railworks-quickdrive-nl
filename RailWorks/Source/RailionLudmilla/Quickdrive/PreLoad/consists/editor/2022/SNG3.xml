@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\MAT64\PlanT_NS.xml</Value>
+																	<Value>PreLoad\frag_trein\SNG\SNG3_NS_GeleNeus.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value />
+										<Value>[L'22] SNG</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value />
+										<Value>3</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -226,14 +226,14 @@
 			<Attribute name="EraStartYear">
 				<sUInt32>
 					<Element>
-						<Value>2096</Value>
+						<Value>1830</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
 			<Attribute name="EraEndYear">
 				<sUInt32>
 					<Element>
-						<Value>2096</Value>
+						<Value>2050</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
@@ -247,42 +247,28 @@
 			<Attribute name="ValidBuildAndDriveRoutes">
 				<__Indexed__cConsistValidRoute>
 					<Element>
-						<Value>
-							<cConsistValidRoute>
-								<Element>
-									<Value>
-										<Attribute name="RouteGUID">
-											<cDeltaString>
-												<Element>
-													<Value>2fd712fd-2a9b-4e30-b10c-a93b7051a081</Value>
-												</Element>
-											</cDeltaString>
-										</Attribute>
-									</Value>
-								</Element>
-							</cConsistValidRoute>
-						</Value>
+						<Value />
 					</Element>
 				</__Indexed__cConsistValidRoute>
 			</Attribute>
 			<Attribute name="DrivableConsist">
 				<eBoolean>
 					<Element>
-						<Value>eTrue</Value>
+						<Value>eFalse</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>
 			<Attribute name="ConsistType">
 				<kConsist-eConsistType>
 					<Element>
-						<Value>eConsistTypeCustom4</Value>
+						<Value>eConsistTypePassengerRegional</Value>
 					</Element>
 				</kConsist-eConsistType>
 			</Attribute>
 			<Attribute name="HasPantograph">
 				<eBoolean>
 					<Element>
-						<Value>eTrue</Value>
+						<Value>eFalse</Value>
 					</Element>
 				</eBoolean>
 			</Attribute>
