@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>ChrisTrains</Value>
+																					<Value>SKtrains</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>NS Class 186 and ICRmh wagons</Value>
+																					<Value>SNCB_NMBS_HLE21_27</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\CT NS Class 186\Version_DCR_NS-Bordeaux\CT NS Class 186.xml</Value>
+																	<Value>RailVehicles\Bleuprints\SKTRAINS_HLE11.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
