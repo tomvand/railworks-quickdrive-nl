@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] Thalys</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>Thalys PBA 2017</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

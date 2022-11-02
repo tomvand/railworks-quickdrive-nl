@@ -167,7 +167,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] ICMm</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -245,7 +245,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>3 + 3 + 3</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

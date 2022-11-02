@@ -167,7 +167,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] G2000</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -245,7 +245,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>IRP G2000 + 2x G1206</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

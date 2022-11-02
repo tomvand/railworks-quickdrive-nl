@@ -167,7 +167,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] 189</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -245,7 +245,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>Hagen-Vorhalle Staaltrein</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

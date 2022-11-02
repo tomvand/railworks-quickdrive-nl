@@ -117,7 +117,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] ICM</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>NS ICMm 4+3</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

@@ -117,7 +117,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] NS 1600</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>NS 1600 + IC+</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

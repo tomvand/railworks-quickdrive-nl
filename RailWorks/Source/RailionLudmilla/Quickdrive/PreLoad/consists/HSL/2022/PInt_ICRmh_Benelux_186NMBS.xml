@@ -167,7 +167,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] BR186</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -245,7 +245,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>NMBS 186 + ICRmh Benelux + NMBS 186</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

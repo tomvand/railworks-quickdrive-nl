@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>Erts</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
