@@ -117,7 +117,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>VIRM</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>NS VIRMm1 4 + VIRMm2 4</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

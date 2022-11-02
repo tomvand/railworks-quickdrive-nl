@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>GTW-D</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>Arriva GTW-D 2/8 Achterhoek</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] ICE 3</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>ICE 3 DB</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

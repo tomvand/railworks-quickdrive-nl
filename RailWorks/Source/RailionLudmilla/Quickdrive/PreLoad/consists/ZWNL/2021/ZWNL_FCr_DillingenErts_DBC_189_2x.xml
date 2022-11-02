@@ -167,7 +167,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>BR 189</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -245,7 +245,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>DBC 189 2x + Dillingen Ertstrein</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

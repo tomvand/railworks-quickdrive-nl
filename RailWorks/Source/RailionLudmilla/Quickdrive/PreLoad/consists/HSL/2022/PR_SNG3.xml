@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[RL] SNG</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>NS SNG 3</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
