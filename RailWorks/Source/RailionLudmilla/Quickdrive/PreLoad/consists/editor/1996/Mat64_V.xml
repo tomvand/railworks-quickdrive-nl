@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\MAT64\PlanV_NS_Siemens.xml</Value>
+																	<Value>PreLoad\frag_trein\MAT64\PlanV_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>V (Siemens)</Value>
+										<Value>V</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>

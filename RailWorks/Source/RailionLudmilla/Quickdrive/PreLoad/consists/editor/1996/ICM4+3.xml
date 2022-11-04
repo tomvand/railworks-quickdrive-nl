@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\MAT64\PlanV_NS_Siemens.xml</Value>
+																	<Value>PreLoad\frag_trein\ICM\ICM4_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -56,6 +56,56 @@
 									</Value>
 								</Element>
 							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\frag_trein\ICM\ICM3_NS.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eTrue</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
 						</Value>
 					</Element>
 				</__Indexed__cConsistEntry>
@@ -67,7 +117,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[L'96] Mat'64</Value>
+										<Value>[L'96] ICM</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>V (Siemens)</Value>
+										<Value>4 + 3</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
