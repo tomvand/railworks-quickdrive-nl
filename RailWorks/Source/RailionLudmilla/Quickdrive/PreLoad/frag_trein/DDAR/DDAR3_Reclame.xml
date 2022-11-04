@@ -5,7 +5,7 @@
 			<Attribute name="Name">
 				<cDeltaString>
 					<Element>
-						<Value>Frag-ICM3</Value>
+						<Value />
 					</Element>
 				</cDeltaString>
 			</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\NS ICMm mBFk 4000.xml</Value>
+																	<Value>RailVehicles\EMUs\NS DD-AR\Wagons\NS DD-AR ABv.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\NS ICMm AB.xml</Value>
+																	<Value>RailVehicles\EMUs\NS DD-AR\Wagons\NS DD-AR Bv.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -145,7 +145,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\NS ICMm sBk 4000.xml</Value>
+																	<Value>RailVehicles\EMUs\NS DD-AR\Wagons\NS DD-AR Bvk.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

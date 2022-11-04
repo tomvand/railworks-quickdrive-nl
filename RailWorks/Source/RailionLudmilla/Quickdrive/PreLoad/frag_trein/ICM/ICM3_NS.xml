@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\Version_OldNSb\NS ICM mBFk oldnsb.xml</Value>
+																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\Version_OldNSb\NS ICM mBFk 4000 oldnsb.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\Version_OldNS\NS ICM AB oldns.xml</Value>
+																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\Version_OldNSb\NS ICM AB 4000 oldnsb.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -106,7 +106,7 @@
 										<Attribute name="Flipped">
 											<eBoolean>
 												<Element>
-													<Value>eTrue</Value>
+													<Value>eFalse</Value>
 												</Element>
 											</eBoolean>
 										</Attribute>
@@ -145,7 +145,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\Version_OldNSb\NS ICM sBk oldnsb.xml</Value>
+																	<Value>RailVehicles\EMUs\NS ICMm\Wagons\Version_OldNSb\NS ICM sBk 4000 oldnsb.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
