@@ -27,7 +27,7 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>ChrisTrains</Value>
+																					<Value>MyRailDreams</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW Bk1.xml</Value>
+																	<Value>RailVehicles\DMUs\NS Plan U\Wagons\Version_DCR_NS_DE3-Siemens_01\NS_PlanU2_6_ABK_csw.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -77,7 +77,7 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>ChrisTrains</Value>
+																					<Value>MyRailDreams</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW Motorwagon Diesel MAN.xml</Value>
+																	<Value>RailVehicles\DMUs\NS Plan U\Wagons\Version_DCR_NS_DE3-Siemens_01\NS_PlanU2_6_B.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -127,7 +127,7 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>ChrisTrains</Value>
+																					<Value>MyRailDreams</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -145,57 +145,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW B.xml</Value>
-																</Element>
-															</cDeltaString>
-														</Attribute>
-													</Value>
-												</Element>
-											</iBlueprintLibrary-cAbsoluteBlueprintID>
-										</Attribute>
-										<Attribute name="Flipped">
-											<eBoolean>
-												<Element>
-													<Value>eTrue</Value>
-												</Element>
-											</eBoolean>
-										</Attribute>
-									</Value>
-								</Element>
-							</cConsistEntry>
-							<cConsistEntry>
-								<Element>
-									<Value>
-										<Attribute name="BlueprintName">
-											<iBlueprintLibrary-cAbsoluteBlueprintID>
-												<Element>
-													<Value>
-														<Attribute name="BlueprintSetID">
-															<iBlueprintLibrary-cBlueprintSetID>
-																<Element>
-																	<Value>
-																		<Attribute name="Provider">
-																			<cDeltaString>
-																				<Element>
-																					<Value>ChrisTrains</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																		<Attribute name="Product">
-																			<cDeltaString>
-																				<Element>
-																					<Value>RailSimulator</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</iBlueprintLibrary-cBlueprintSetID>
-														</Attribute>
-														<Attribute name="BlueprintID">
-															<cDeltaString>
-																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW ABk1.xml</Value>
+																	<Value>RailVehicles\DMUs\NS Plan U\Wagons\Version_DCR_NS_DE3-Siemens_01\NS_PlanU2_6_mBDk_csw.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

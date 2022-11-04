@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW Bk1.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version Arriva Vechtdallijn\Stadler GTW ABk1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,7 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW Motorwagon Diesel MAN.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version Arriva Vechtdallijn\Stadler GTW Motorwagon Electric.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -145,7 +145,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW B.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version Arriva Vechtdallijn\Stadler GTW B.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +195,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\DMUs\Stadler GTW\Wagons\Version Arriva Limburg Diesel\Stadler GTW ABk1.xml</Value>
+																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version Arriva Vechtdallijn\Stadler GTW Bk1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW Bk1.xml</Value>
+																	<Value>RailVehicles\EMUs\NS SGM\Wagons\Version_SGM2CityPendel\NS SGM2 Bk1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -95,57 +95,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW Motorwagon Electric.xml</Value>
-																</Element>
-															</cDeltaString>
-														</Attribute>
-													</Value>
-												</Element>
-											</iBlueprintLibrary-cAbsoluteBlueprintID>
-										</Attribute>
-										<Attribute name="Flipped">
-											<eBoolean>
-												<Element>
-													<Value>eFalse</Value>
-												</Element>
-											</eBoolean>
-										</Attribute>
-									</Value>
-								</Element>
-							</cConsistEntry>
-							<cConsistEntry>
-								<Element>
-									<Value>
-										<Attribute name="BlueprintName">
-											<iBlueprintLibrary-cAbsoluteBlueprintID>
-												<Element>
-													<Value>
-														<Attribute name="BlueprintSetID">
-															<iBlueprintLibrary-cBlueprintSetID>
-																<Element>
-																	<Value>
-																		<Attribute name="Provider">
-																			<cDeltaString>
-																				<Element>
-																					<Value>ChrisTrains</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																		<Attribute name="Product">
-																			<cDeltaString>
-																				<Element>
-																					<Value>RailSimulator</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</iBlueprintLibrary-cBlueprintSetID>
-														</Attribute>
-														<Attribute name="BlueprintID">
-															<cDeltaString>
-																<Element>
-																	<Value>RailVehicles\EMUs\Stadler GTW\Wagons\Version RNET\Stadler GTW ABk1.xml</Value>
+																	<Value>RailVehicles\EMUs\NS SGM\Wagons\Version_SGM2CityPendel\NS SGM2 Bk2.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
