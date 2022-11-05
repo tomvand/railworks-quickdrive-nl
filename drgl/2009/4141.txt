@@ -1,0 +1,16 @@
+Hlds	v	11:04
+Hld	a	11:06
+Hld	v	11:07
+Msw	+	11:14
+Hvbr	-	11:16
+Mss	+	11:17
+Vdw	+	11:21
+Vdg	+	11:24
+Vdgbr	-	11:25
+Vdo	+	11:27
+Nwl	+	11:30
+Sdm	+	11:33
+Dhs	-	11:35
+Rmoa	-	11:35
+Dhsa	-	11:36
+Rtd	a	11:38

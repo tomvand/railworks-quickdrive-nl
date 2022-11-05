@@ -1,0 +1,16 @@
+Es	v	11:15
+Esd	+	11:20
+Hgl	a	11:25
+Hgl	v	11:26
+Bn	+	11:30
+Amri	+	11:36
+Aml	a	11:42
+Aml	v	11:43
+Wdn	a	11:50
+Wdn	v	11:53
+Nvd	a	12:00
+Nvd	v	12:01
+Rat	+	12:10
+Hno	a	12:15
+Hno	v	12:16
+Zl	a	12:27

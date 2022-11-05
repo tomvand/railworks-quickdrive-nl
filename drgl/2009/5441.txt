@@ -1,0 +1,15 @@
+Asd	v	10:15
+Sgra	-	10:17
+Sgbr	-	10:17
+Obpa	-	10:18
+Ass	a	10:20
+Ass	v	10:21
+Hw	-	10:25
+Hlms	-	10:28
+Spbr	-	10:29
+Hlmvam	-	10:29
+Hlm	a	10:30
+Hlm	v	10:31
+Hlmkr	-	10:32
+Ovn	+	10:35
+Zvt	a	10:42

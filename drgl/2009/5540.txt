@@ -1,0 +1,16 @@
+Brn	v	12:51
+Brna	-	12:52
+Sd	+	12:56
+St	a	12:59
+St	v	13:00
+Stz	+	13:02
+Dld	+	13:07
+Bhv	+	13:10
+Bloa	-	13:13
+Bkp	-	13:14
+Blo	-	13:14
+Blw	-	13:15
+Uto	a	13:16
+Uto	v	13:19
+Utoa	-	13:21
+Ut	a	13:24

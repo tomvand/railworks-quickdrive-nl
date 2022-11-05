@@ -1,0 +1,16 @@
+Rtd	v	13:43
+Dhsa	-	13:45
+Rmoa	-	13:46
+Dhs	-	13:46
+Sdm	+	13:48
+Nwl	+	13:50
+Vdo	+	13:53
+Vdgbr	-	13:54
+Vdg	+	13:55
+Vdw	+	13:58
+Mss	+	14:02
+Hvbr	-	14:03
+Msw	+	14:05
+Hld	a	14:12
+Hld	v	14:13
+Hlds	a	14:15

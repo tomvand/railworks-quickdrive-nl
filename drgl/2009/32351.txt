@@ -1,0 +1,12 @@
+Nm	v	14:54
+Nmh	+	14:57
+Mo	-	15:02
+Cki	-	15:03
+Ck	a	15:05
+Ck	v	15:07
+Bgk	-	15:10
+Bmr	a	15:14
+Bmr	v	15:15
+Vlb	a	15:21
+Vlb	v	15:22
+Vry	a	15:27

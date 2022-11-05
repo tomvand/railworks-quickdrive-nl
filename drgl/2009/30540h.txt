@@ -1,0 +1,15 @@
+Rd	v	10:15
+Rda	-	10:16
+Uhm	a	10:18
+Uhm	v	10:19
+Uhz	+	10:23
+Ust	a	10:28
+Ust	v	10:29
+Wfm	+	10:33
+Bf	+	10:38
+Wsm	a	10:42
+Wsm	v	10:43
+Swd	-	10:47
+Gnn	+	10:53
+Rdp	-	10:55
+Gn	a	10:59

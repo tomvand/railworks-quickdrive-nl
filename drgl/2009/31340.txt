@@ -1,0 +1,9 @@
+Ed	v	14:01
+Edc	+	14:04
+Ltn	a	14:11
+Ltn	v	14:12
+Bnc	+	14:18
+Bnn	+	14:22
+Bnva	-	14:23
+Ama	-	14:33
+Amf	a	14:35

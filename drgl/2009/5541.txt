@@ -1,0 +1,16 @@
+Ut	v	12:05
+Utoa	-	12:07
+Uto	+	12:09
+Blw	-	12:10
+Blo	-	12:11
+Bkp	-	12:11
+Bloa	-	12:12
+Bhv	+	12:16
+Dld	a	12:21
+Dld	v	12:22
+Stz	+	12:27
+St	a	12:29
+St	v	12:30
+Sd	+	12:33
+Brna	-	12:37
+Brn	a	12:38
