@@ -1,0 +1,9 @@
+Rtd	v	16:19
+Dhsa	-	16:21
+Dhs	-	16:21
+Rmoa	-	16:21
+Sdm	+	16:23
+Nwl	+	16:26
+Vdo	+	16:29
+Vdgbr	-	16:30
+Vdg	a	16:31
