@@ -1,0 +1,12 @@
+# Ontbreekt, reconstructie obv ovinnederland
+# DD-AR 7400
+# Plan V 3x
+# mDDM 7800
+Tl  v   13:51
+Tpsw    +   13:54
+Gdm a   14:02
+Gdm v   14:09
+Cl  +   14:14
+Htn +   14:23
+Utln    +   14:26
+Ut  a   14:32
