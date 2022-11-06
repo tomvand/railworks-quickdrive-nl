@@ -1,4 +1,8 @@
 # reconstructie obv ovinnederland
+# Plan V 2x
+# DD-AR 7400 + 1700
+# mDDM 7800
+# Plan T
 Gvc v   13:28
 Gv  a   13:31
 Gv  v   13:33

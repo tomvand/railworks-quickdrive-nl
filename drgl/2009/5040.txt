@@ -1,3 +1,6 @@
+# Plan V 2x, 3x
+# SDM II+III
+# Plan T
 Ddr	v	12:55
 Grbr	-	12:57
 Zwd	+	12:58

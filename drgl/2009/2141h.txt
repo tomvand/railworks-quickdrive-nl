@@ -57,6 +57,7 @@ Rsd	a	12:12
 Rsd	v	12:16
 Kraga	-	12:22
 Bgnphm	-	12:24
+# VIRM VI+IV, VI
 Bgn	+	12:25
 Rb	-	12:33
 Kbd	-	12:34
