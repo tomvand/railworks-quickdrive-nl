@@ -1,3 +1,6 @@
+# Plan V 2x
+# DD-AR 7400 + mDDM
+# VIRM VI
 Ht	v	12:29
 Vga	-	12:31
 Tbi	-	12:41

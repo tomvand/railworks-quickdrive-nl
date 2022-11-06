@@ -1,3 +1,6 @@
+# Plan V 2x
+# DD-AR 7400 + mDDM
+# VIRM VI
 Bd	v	11:55
 Gzvea	-	12:01
 Gz	+	12:02
