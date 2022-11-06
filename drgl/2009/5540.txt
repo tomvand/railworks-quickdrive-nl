@@ -1,3 +1,4 @@
+# SGM-III, Plan T
 Brn	v	12:51
 Brna	-	12:52
 Sd	+	12:56

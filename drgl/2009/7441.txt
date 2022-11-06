@@ -1,3 +1,5 @@
+# Plan V 2x
+# Plan V 3x
 Bkl	v	12:00
 Bkla	-	12:01
 Mas	+	12:05

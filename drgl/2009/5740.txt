@@ -1,3 +1,5 @@
+# SGM II+III, III+III
+# mDDM 7800
 Ut	v	12:08
 Utoa	-	12:11
 Uto	+	12:13
