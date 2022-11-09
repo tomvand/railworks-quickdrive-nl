@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\ICM\ICM4_NS_Olympisch.xml</Value>
+																	<Value>PreLoad\frag_trein\ICM\ICM3_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -49,7 +49,7 @@
 										<Attribute name="Flipped">
 											<eBoolean>
 												<Element>
-													<Value>eTrue</Value>
+													<Value>eFalse</Value>
 												</Element>
 											</eBoolean>
 										</Attribute>
@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\ICM\ICMm3_NS.xml</Value>
+																	<Value>PreLoad\frag_trein\ICM\ICM4_NS.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>ICM 4 (Olympisch) + 3 (m)</Value>
+										<Value>7</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
