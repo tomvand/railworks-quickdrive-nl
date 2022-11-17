@@ -1,5 +1,5 @@
 # Plan V 2x, 3x
-# SDM II+III
+# SGM II+III
 # Plan T
 Ledn	v	10:53
 Vkbr	-	10:56
