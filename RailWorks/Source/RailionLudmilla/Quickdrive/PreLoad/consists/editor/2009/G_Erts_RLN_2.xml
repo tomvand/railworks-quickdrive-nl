@@ -138,7 +138,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_loco\6400\6400_RLN_GeelGrijs.xml</Value>
+																	<Value>PreLoad\frag_loco\6400\6400_RLN_Rood.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -188,7 +188,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_loco\6400\6400_RLN_Rood.xml</Value>
+																	<Value>PreLoad\frag_trein\goederen_v2\2008_Erts_OUzMUqUkD_w_2.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
