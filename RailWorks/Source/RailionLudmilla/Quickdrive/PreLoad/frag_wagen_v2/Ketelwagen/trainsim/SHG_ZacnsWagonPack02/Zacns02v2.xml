@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3DZUG</Value>
+																					<Value>SHG</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3dz_KIPack</Value>
+																					<Value>Zacns_WagonPack02</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Cargo\samms_db_beladen.xml</Value>
+																	<Value>RailVehicles\Freight\Zacns\Zacns_WagonPack02_v2_Empty.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3DZUG</Value>
+																					<Value>fopixtrains</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3dz_KIPack</Value>
+																					<Value>treinen</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Cargo\samms_db_beladen.xml</Value>
+																	<Value>1800\Engine\Railion\Railion-1600.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

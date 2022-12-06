@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3DZUG</Value>
+																					<Value>RSItalia</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3dz_KIPack</Value>
+																					<Value>Addon</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Cargo\samms_db_beladen.xml</Value>
+																	<Value>RailVehicles\Freight\Carri_Rils_Pack\Default\Wagon\Rils_DB-CARGO-01.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

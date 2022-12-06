@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3DZUG</Value>
+																					<Value>RailionLudmilla</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>3dz_KIPack</Value>
+																					<Value>Quickdrive</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Cargo\samms_db_beladen.xml</Value>
+																	<Value>PreLoad\frag_wagen_v2\Ketelwagen\trainsim\Kuju_RailSimulator\TTA_Grey.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
