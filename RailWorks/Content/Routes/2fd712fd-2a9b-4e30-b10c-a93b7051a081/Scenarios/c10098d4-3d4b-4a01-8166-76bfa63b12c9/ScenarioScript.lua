@@ -45,35 +45,25 @@ function OnEventCustomWeather()
   local d = math.random(1, 30)
 
   if d == 1 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 2 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 3 then
     -- Fair
   elseif d == 4 then
-    -- Overcast
-    if math.random(1, 2) == 1 then
-      SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
-    else
-      SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
-    end
+    -- Fair
   elseif d == 5 then
     -- Fair
-    SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
   elseif d == 6 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 7 then
     -- Clear
   elseif d == 8 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 9 then
     -- Fog
-    local t1 = math.random(0, 20*60)
-    local t2 = t1 + 22*60 + math.random(0, 20*60)
+    local t1 = 0
+    local t2 = t1 + 30*60
     SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShowerFog" .. math.random(1,6), t1);
     SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShowerFog" .. math.random(1,6), t2);
   elseif d == 10 then
@@ -85,25 +75,21 @@ function OnEventCustomWeather()
   elseif d == 13 then
     -- Fair
   elseif d == 14 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 15 then
     -- Fair
   elseif d == 16 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
+    -- Fair
   elseif d == 17 then
     -- Fair
   elseif d == 18 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 19 then
     -- Fair
   elseif d == 20 then
     -- Fair
   elseif d == 21 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
+    -- Fair
   elseif d == 22 then
     -- Light rain shower
     local t1 = math.random(0, 20*60)
@@ -111,16 +97,13 @@ function OnEventCustomWeather()
     SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower" .. math.random(1,6), t1);
     SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower" .. math.random(1,6), t2);
   elseif d == 23 then
-    -- Overcast
-    if math.random(1, 2) == 1 then
-      SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
-    else
-      SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
-    end
+    -- Fair
   elseif d == 24 then
     -- Drizzle
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", 0);
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", 30*60);
+    local t1 = 0
+    local t2 = t1 + 30*60
+    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t1);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t2);
   elseif d == 25 then
     -- Overcast
     if math.random(1, 2) == 1 then
@@ -130,28 +113,18 @@ function OnEventCustomWeather()
     end
   elseif d == 26 then
     -- Drizzle
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", 0);
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", 30*60);
+    local t1 = 0
+    local t2 = t1 + 30*60
+    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t1);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t2);
   elseif d == 27 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+    -- Fair
   elseif d == 28 then
-    -- Overcast
-    if math.random(1, 2) == 1 then
-      SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
-    else
-      SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
-    end
+    -- Fair
   elseif d == 29 then
-    -- Overcast
-    SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
+    -- Fair
   else
-    -- Overcast
-    if math.random(1, 2) == 1 then
-      SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
-    else
-      SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
-    end
+    -- Fair
   end
 end
 
@@ -162,6 +135,14 @@ end
 
 function OnEventClearOvercast()
   SysCall ( "WeatherController:SetCurrentWeatherEventChain", "ClearOvercast" )
+end
+
+function OnEventDrizzleFog()
+  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "DrizzleFog" )
+end
+
+function OnEventLightRain()
+  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRain" )
 end
 
 function OnEventLightRainShowerFog1()
