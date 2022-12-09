@@ -190,7 +190,10 @@ Overcast        -> Overcast
 ```
 Rain mappings
 
-
+Drizzle     ->    Drizzle, Light
+Light       ->    Light
+Moderate    ->    Mod
+Heavy       ->    Heavy
 ```
 
 ### Weer

@@ -20,8 +20,6 @@ MSG_RIGHT = 32
 MSG_SMALL = 0
 MSG_REG = 1
 MSG_LRG = 2
-TRIGGER_PROBABILITY = 75
-MAX_DEFERRED_MINS = 60
 
 
 ---------------------------------------------
