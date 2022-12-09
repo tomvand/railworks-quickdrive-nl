@@ -23,10 +23,6 @@ MSG_LRG = 2
 TRIGGER_PROBABILITY = 75
 MAX_DEFERRED_MINS = 60
 
-function OnEvent ( event )
-  _G["OnEvent" .. event]()
-end
-
 
 ---------------------------------------------
 -- Code for scenario 2461
@@ -39,6 +35,15 @@ end
 
 function Initialise()
   math.randomseed(os.clock())
+end
+
+function OnEvent ( event )
+  if string.sub(event, 1, 2) == "Wx" then
+    local wxpattern = string.sub(event, 3, -1)
+    SysCall ( "WeatherController:SetCurrentWeatherEventChain", wxpattern )
+  else
+    _G["OnEvent" .. event]()
+  end
 end
 
 function OnEventCustomWeather()
@@ -62,10 +67,12 @@ function OnEventCustomWeather()
     -- Fair
   elseif d == 9 then
     -- Fog
-    local t1 = 0
-    local t2 = t1 + 30*60
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShowerFog" .. math.random(1,6), t1);
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShowerFog" .. math.random(1,6), t2);
+    local t1 = math.random(0, 5) * 60
+    local t2 = t1 + 22*60 + math.random(0, 5) * 60
+    local t3 = t2 + 22*60 + math.random(0, 5) * 60
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShowerFog" .. math.random(1,6), t1);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShowerFog" .. math.random(1,6), t2);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShowerFog" .. math.random(1,6), t3);
   elseif d == 10 then
     -- Fair
   elseif d == 11 then
@@ -92,31 +99,37 @@ function OnEventCustomWeather()
     -- Fair
   elseif d == 22 then
     -- Light rain shower
-    local t1 = math.random(0, 20*60)
-    local t2 = t1 + 22*60 + math.random(0, 20*60)
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower" .. math.random(1,6), t1);
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower" .. math.random(1,6), t2);
+    local t1 = math.random(0, 10) * 60
+    local t2 = t1 + 22*60 + math.random(0, 10) * 60
+    local t3 = t2 + 22*60 + math.random(0, 10) * 60
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower" .. math.random(1,6), t1);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower" .. math.random(1,6), t2);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower" .. math.random(1,6), t3);
   elseif d == 23 then
     -- Fair
   elseif d == 24 then
     -- Drizzle
-    local t1 = 0
-    local t2 = t1 + 30*60
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t1);
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t2);
+    local t1 = math.random(0, 5) * 60
+    local t2 = t1 + 22*60 + math.random(0, 5) * 60
+    local t3 = t2 + 22*60 + math.random(0, 5) * 60
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower6", t1);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower6", t2);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower6", t3);
   elseif d == 25 then
     -- Overcast
     if math.random(1, 2) == 1 then
-      SysCall("ScenarioManager:TriggerDeferredEvent", "OvercastClear", 0);
+      SysCall("ScenarioManager:TriggerDeferredEvent", "WxOvercastClear", 0);
     else
-      SysCall("ScenarioManager:TriggerDeferredEvent", "ClearOvercast", 0);
+      SysCall("ScenarioManager:TriggerDeferredEvent", "WxClearOvercast", 0);
     end
   elseif d == 26 then
     -- Drizzle
-    local t1 = 0
-    local t2 = t1 + 30*60
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t1);
-    SysCall("ScenarioManager:TriggerDeferredEvent", "LightRainShower6", t2);
+    local t1 = math.random(0, 5) * 60
+    local t2 = t1 + 22*60 + math.random(0, 5) * 60
+    local t3 = t2 + 22*60 + math.random(0, 5) * 60
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower6", t1);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower6", t2);
+    SysCall("ScenarioManager:TriggerDeferredEvent", "WxLightRainShower6", t3);
   elseif d == 27 then
     -- Fair
   elseif d == 28 then
@@ -126,59 +139,4 @@ function OnEventCustomWeather()
   else
     -- Fair
   end
-end
-
-
-function OnEventOvercastClear()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "OvercastClear" )
-end
-
-function OnEventClearOvercast()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "ClearOvercast" )
-end
-
-function OnEventDrizzleFog()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "DrizzleFog" )
-end
-
-function OnEventLightRain()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRain" )
-end
-
-function OnEventLightRainShowerFog1()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShowerFog1" )
-end
-function OnEventLightRainShowerFog2()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShowerFog2" )
-end
-function OnEventLightRainShowerFog3()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShowerFog3" )
-end
-function OnEventLightRainShowerFog4()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShowerFog4" )
-end
-function OnEventLightRainShowerFog5()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShowerFog5" )
-end
-function OnEventLightRainShowerFog6()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShowerFog6" )
-end
-
-function OnEventLightRainShower1()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShower1" )
-end
-function OnEventLightRainShower2()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShower2" )
-end
-function OnEventLightRainShower3()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShower3" )
-end
-function OnEventLightRainShower4()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShower4" )
-end
-function OnEventLightRainShower5()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShower5" )
-end
-function OnEventLightRainShower6()
-  SysCall ( "WeatherController:SetCurrentWeatherEventChain", "LightRainShower6" )
 end

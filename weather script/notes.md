@@ -183,22 +183,14 @@ Cloud mappings
 Clear           -> Clear
 Mostly clear    -> Fair cloud
 Partly cloudy   -> Fair cloud
-Mostly cloudy   -> Overcast
+Mostly cloudy   -> Fair cloud
 Overcast        -> Overcast
+```
 
-      Clear   Fair    Overcast
-Jan   10%     25%     65%
-Feb   15%     25%     60%
-Maa   15%     25%     60%
-Apr   20%     30%     50%
-Mei   25%     25%     50%
-Jun   25%     25%     50%
-Jul   30%     25%     45%
-Aug   25%     30%     45%
-Sep   25%     25%     50%
-Okt   15%     30%     55%
-Nov   10%     25%     55%
-Dec   10%     25%     65%
+```
+Rain mappings
+
+
 ```
 
 ### Weer
@@ -262,6 +254,30 @@ Sep
 Okt
 Nov
 Dec
+```
+
+```
+Cloud mappings
+
+Clear           -> Clear
+Mostly clear    -> Fair cloud
+Partly cloudy   -> Fair cloud
+Mostly cloudy   -> Overcast
+Overcast        -> Overcast
+
+      Clear   Fair    Overcast
+Jan   10%     25%     65%
+Feb   15%     25%     60%
+Maa   15%     25%     60%
+Apr   20%     30%     50%
+Mei   25%     25%     50%
+Jun   25%     25%     50%
+Jul   30%     25%     45%
+Aug   25%     30%     45%
+Sep   25%     25%     50%
+Okt   15%     30%     55%
+Nov   10%     25%     55%
+Dec   10%     25%     65%
 ```
 
 
