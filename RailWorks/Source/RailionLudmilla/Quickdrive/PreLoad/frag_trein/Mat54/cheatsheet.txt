@@ -1,0 +1,29 @@
+Mat'54
+Let op, de preload consists kloppen niet qua nummering!!
+
+10	Groen, gele snor, emaille klassenbordjes
+11	Groen, gele snor, geen/minder emaille
+12	Groen, gele snor, wit NS logo
+13	Groen, gele snor, 2-puntsverlichting, reclamebanen, NS logo
+14	Groen, gele snor, 3-punts verlichting, reclamebanen, NS logo
+
+20	Geel, reclamebanen
+
+30	IC, onderbroken streep
+31	IC, doorlopende streep
+
+
+A: eenbeenspantograaf
+
+
+
+
+
+Mat'57
+
+10	Lichtgele band, kort klassenstreepje voor eerste deur
+11	Lichtgele band
+12	Lichtgele band, 1e klas ook voor 1e deur
+
+20	Mooi gele streep, 3-puntsv, met keuken
+21	Mooi gele streep, 3-puntsv, zonder keuken (vanaf begin '80)
