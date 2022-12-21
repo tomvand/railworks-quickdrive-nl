@@ -38,57 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_loco\1600-1700-1800\1600_NS.xml</Value>
-																</Element>
-															</cDeltaString>
-														</Attribute>
-													</Value>
-												</Element>
-											</iBlueprintLibrary-cAbsoluteBlueprintID>
-										</Attribute>
-										<Attribute name="Flipped">
-											<eBoolean>
-												<Element>
-													<Value>eFalse</Value>
-												</Element>
-											</eBoolean>
-										</Attribute>
-									</Value>
-								</Element>
-							</cConsistEntry>
-							<cConsistEntry>
-								<Element>
-									<Value>
-										<Attribute name="BlueprintName">
-											<iBlueprintLibrary-cAbsoluteBlueprintID>
-												<Element>
-													<Value>
-														<Attribute name="BlueprintSetID">
-															<iBlueprintLibrary-cBlueprintSetID>
-																<Element>
-																	<Value>
-																		<Attribute name="Provider">
-																			<cDeltaString>
-																				<Element>
-																					<Value>RailionLudmilla</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																		<Attribute name="Product">
-																			<cDeltaString>
-																				<Element>
-																					<Value>Quickdrive</Value>
-																				</Element>
-																			</cDeltaString>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</iBlueprintLibrary-cBlueprintSetID>
-														</Attribute>
-														<Attribute name="BlueprintID">
-															<cDeltaString>
-																<Element>
-																	<Value>PreLoad\frag_trein\Internationaal\2244_1985.xml</Value>
+																	<Value>PreLoad\consists\editor\1986\ICR_BNL.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>2505</Value>
+										<Value>167</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>

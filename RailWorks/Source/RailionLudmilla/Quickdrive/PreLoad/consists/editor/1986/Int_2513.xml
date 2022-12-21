@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_loco\1600-1700-1800\1600_NS.xml</Value>
+																	<Value>PreLoad\frag_loco\1100\1100_NS_Botsneus.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\Internationaal\2244_1985.xml</Value>
+																	<Value>PreLoad\frag_trein\Internationaal\2513_1987.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>2505</Value>
+										<Value>2513</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>

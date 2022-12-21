@@ -88,7 +88,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_trein\Internationaal\2244_1985.xml</Value>
+																	<Value>PreLoad\frag_trein\Internationaal\416_1987.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -195,7 +195,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>2505</Value>
+										<Value>416</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
