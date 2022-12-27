@@ -148,8 +148,10 @@ Overzicht van effecten per extension pattern:
                                     
 Overcast Ext          SHRA  FGSHRA  SHSN  FGSHSN        NSC->OVC  OVC->NSC  RA->NSC RA->SCT
 Fair cloud Ext        SHRA  FGSHRA  SHSN  FGSHSN
-Heavy Rain Showers:   SHRA  FGSHRA
-Heavy Snow Showers:                 SHSN  FGSHSN
+Heavy Rain Showers:   SHRA
+Heavy Rain Showers FG:      FGSHRA
+Heavy Snow Showers:                 SHSN
+Heavy Snow Showers FG:                    FGSHSN
 Thundery showers                                  SHTS
 
 Weather Ext           FGDZ  RA  FGRA  SN  FGSN                NSC->FG   FG->NSC
