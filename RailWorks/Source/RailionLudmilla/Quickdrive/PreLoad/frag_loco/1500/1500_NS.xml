@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Quinzeedied</Value>
+																					<Value>MyRailDreams</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>AddOn01</Value>
+																					<Value>RailSimulator</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\NS1100\Engine\NS1136.xml</Value>
+																	<Value>RailVehicles\Locomotives\NS 1500\Engine\NS 1500\NS_1500_Geel-Grijs.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
