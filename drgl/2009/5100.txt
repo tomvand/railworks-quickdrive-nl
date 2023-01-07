@@ -3,14 +3,15 @@
 # DD-AR 7400 + 1700
 # mDDM 7800
 # Plan T
-Ddr v   10:37
+Ddr a   10:25   [2]
+Ddr v   10:37   [2]
 Zwd +   10:40
 Brd +   10:46
 Rlb +   10:50
 Rtz +   10:53
 Rtb +   10:56
-Rtd a   10:59
-Rtd v   11:02
+Rtd a   10:59   [8]
+Rtd v   11:02   [8]
 Sdm +   11:07
 Dtz +   11:13
 Dt  +   11:15

@@ -1,5 +1,6 @@
 # ICM III+IV
-Rtd	v	15:02
+Rtd	a	14:57   [14]
+Rtd	v	15:02   [14]
 Wspl	-	15:04
 Hlba	-	15:05
 Az	-	15:05

@@ -3,7 +3,7 @@
 # VIRM VI
 Rsd v   04:51
 Etn +   05:00
-Bd  v   05:10
+Bd  v   05:10   [3]
 Tb  v   05:24
 Ht  v   05:43
 O   v   05:55

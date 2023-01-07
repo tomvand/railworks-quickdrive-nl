@@ -1,5 +1,6 @@
 # SGM-III
-Rtd	v	13:43
+Rtd	a	13:38   [2*]
+Rtd	v	13:43   [2*]
 Dhsa	-	13:45
 Rmoa	-	13:46
 Dhs	-	13:46

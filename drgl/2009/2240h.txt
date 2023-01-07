@@ -1,6 +1,7 @@
 # 1800+Bv+ABv+Bv+ABv+Bv+Bvk
 # VIRM IV+IV
-Ddr	v	13:22
+Ddr	a	13:11   [2]
+Ddr	v	13:22   [2]
 Grbr	-	13:23
 Zwd	-	13:24
 Kfhaz	-	13:27
@@ -11,8 +12,8 @@ Rtz	-	13:33
 Wiltz	-	13:34
 Rtb	+	13:35
 Wiltn	-	13:37
-Rtd	a	13:39
-Rtd	v	13:41
+Rtd	a	13:39   [8]
+Rtd	v	13:41   [8]
 Dhsa	-	13:43
 Rmoa	-	13:44
 Dhs	-	13:44

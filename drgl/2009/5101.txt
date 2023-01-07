@@ -11,11 +11,12 @@ Rsw +   13:39
 Dt  +   13:46
 Dtz +   13:48
 Sdm +   13:54
-Rtd a   13:59
-Rtd v   14:02
+Rtd a   13:59   [7]
+Rtd v   14:02   [7]
 Rtb +   14:05
 Rtz +   14:07
 Rlb +   14:11
 Brd +   14:14
 Zwd +   14:20
-Ddr a   14:25
+Ddr a   14:25   [2/3b]
+Ddr v   14:37   [2/3b]

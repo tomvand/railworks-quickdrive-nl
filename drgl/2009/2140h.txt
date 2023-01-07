@@ -25,8 +25,8 @@ Zlw	-	13:02
 Mdbz	-	13:03
 Wld	-	13:05
 Ddzd	-	13:09
-Ddr	a	13:11
-Ddr	v	13:12
+Ddr	a	13:11   [1]
+Ddr	v	13:12   [1]
 Grbr	-	13:13
 Zwd	-	13:14
 Kfhaz	-	13:18
@@ -37,8 +37,8 @@ Rtz	-	13:23
 Rtb	-	13:24
 Wiltz	-	13:24
 Wiltn	-	13:25
-Rtd	a	13:26
-Rtd	v	13:28
+Rtd	a	13:26   [9]
+Rtd	v	13:28   [9]
 Rmoa	-	13:30
 Dhs	-	13:30
 Dhsa	-	13:30

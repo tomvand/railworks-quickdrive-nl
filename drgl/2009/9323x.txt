@@ -39,8 +39,8 @@ Rtz	-	13:33
 Wiltz	-	13:34
 Rtb	-	13:34
 Wiltn	-	13:35
-Rtd	a	13:36
-Rtd	v	13:38
+Rtd	a	13:36   [11]
+Rtd	v	13:38   [11]
 Dhsa	-	13:40
 Dhs	-	13:40
 Rmoa	-	13:40

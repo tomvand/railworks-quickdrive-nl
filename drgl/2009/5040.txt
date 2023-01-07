@@ -1,7 +1,8 @@
 # Plan V 2x, 3x
 # SGM II+III
 # Plan T
-Ddr	v	12:55
+Ddr	a	12:38   [3a]
+Ddr	v	12:55   [3a]
 Grbr	-	12:57
 Zwd	+	12:58
 Kfhaz	-	13:02
@@ -12,8 +13,8 @@ Rtz	+	13:11
 Wiltz	-	13:13
 Rtb	+	13:14
 Wiltn	-	13:16
-Rtd	a	13:18
-Rtd	v	13:19
+Rtd	a	13:18   [8]
+Rtd	v	13:19   [8]
 Rmoa	-	13:21
 Dhs	-	13:21
 Dhsa	-	13:21

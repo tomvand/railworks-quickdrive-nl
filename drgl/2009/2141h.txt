@@ -32,8 +32,8 @@ Sdm	-	11:29
 Dhsa	-	11:30
 Dhs	-	11:30
 Rmoa	-	11:30
-Rtd	a	11:32
-Rtd	v	11:33
+Rtd	a	11:32   [3]
+Rtd	v	11:33   [3]
 Wiltn	-	11:34
 Wiltz	-	11:35
 Rtb	-	11:35
@@ -44,8 +44,8 @@ Brd	-	11:40
 Kfhaz	-	11:41
 Zwd	-	11:44
 Grbr	-	11:45
-Ddr	a	11:46
-Ddr	v	11:47
+Ddr	a	11:46   [4]
+Ddr	v	11:47   [4]
 Ddzd	-	11:49
 Wld	-	11:53
 Mdbz	-	11:55

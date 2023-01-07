@@ -1,5 +1,6 @@
 # DD-AR 7400, mDDM 7800
-Rtd	v	12:20
+Rtd	a	12:09   [12]
+Rtd	v	12:20   [12]
 Wspl	-	12:22
 Az	-	12:23
 Hlba	-	12:24

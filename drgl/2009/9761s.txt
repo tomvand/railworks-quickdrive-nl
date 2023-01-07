@@ -1,5 +1,6 @@
 # SGM-III
-Rtd	v	16:05
+Rtd	a	15:54   [16]
+Rtd	v	16:05   [16]
 Wspl	-	16:07
 Az	-	16:09
 Hlba	-	16:10

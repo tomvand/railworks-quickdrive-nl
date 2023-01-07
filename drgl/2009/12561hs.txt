@@ -1,5 +1,6 @@
 # ICM IV+IV
-Rtd	v	16:32
+Rtd	a	16:27   [14]
+Rtd	v	16:32   [14]
 Wspl	-	16:34
 Hlba	-	16:35
 Az	-	16:35

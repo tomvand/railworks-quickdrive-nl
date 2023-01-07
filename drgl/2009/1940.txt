@@ -27,8 +27,8 @@ Tbu	-	12:27
 Tbr	-	12:29
 Gzvea	-	12:32
 Gz	-	12:32
-Bd	a	12:38
-Bd	v	12:39
+Bd	a	12:38   [6]
+Bd	v	12:39   [6]
 Bda	-	12:40
 Bdpb	-	12:42
 Zha	-	12:44
@@ -37,8 +37,8 @@ Zlw	-	12:48
 Mdbz	-	12:49
 Wld	-	12:52
 Ddzd	-	12:55
-Ddr	a	12:57
-Ddr	v	12:59
+Ddr	a	12:57   [1]
+Ddr	v	12:59   [1]
 Grbr	-	13:00
 Zwd	-	13:01
 Kfhaz	-	13:04
@@ -49,8 +49,8 @@ Rtz	-	13:09
 Wiltz	-	13:10
 Rtb	-	13:10
 Wiltn	-	13:11
-Rtd	a	13:12
-Rtd	v	13:16
+Rtd	a	13:12   [9]
+Rtd	v	13:16   [9]
 Rmoa	-	13:18
 Dhs	-	13:18
 Dhsa	-	13:18

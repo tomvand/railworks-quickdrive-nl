@@ -1,5 +1,6 @@
 # VIRM VI+IV, VI
-Ddr	v	13:42
+Ddr	a	13:16   [5]
+Ddr	v	13:42   [5]
 Grbr	-	13:43
 Zwd	-	13:44
 Kfhaz	-	13:48
@@ -10,8 +11,8 @@ Rtz	-	13:53
 Wiltz	-	13:54
 Rtb	-	13:54
 Wiltn	-	13:55
-Rtd	a	13:56
-Rtd	v	13:58
+Rtd	a	13:56   [9]
+Rtd	v	13:58   [9]
 Dhsa	-	14:00
 Dhs	-	14:00
 Rmoa	-	14:00

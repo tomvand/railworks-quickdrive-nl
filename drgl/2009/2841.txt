@@ -1,6 +1,7 @@
 # ICM III+IV
 # ICM III+III+IV
-Rtd	v	11:17
+Rtd	a	11:12   [13]
+Rtd	v	11:17   [13]
 Wspl	-	11:19
 Hlba	-	11:20
 Az	-	11:20

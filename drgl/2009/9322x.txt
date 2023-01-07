@@ -23,8 +23,8 @@ Sdm	-	09:20
 Rmoa	-	09:21
 Dhs	-	09:21
 Dhsa	-	09:21
-Rtd	a	09:23
-Rtd	v	09:26
+Rtd	a	09:23   [3*]
+Rtd	v	09:26   [3*]
 Wiltn	-	09:27
 Rtb	-	09:28
 Wiltz	-	09:28

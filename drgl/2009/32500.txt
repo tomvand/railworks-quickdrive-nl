@@ -1,4 +1,5 @@
 # E-GTW 2/8
 # E-GTW 2/6
-Ddr v   10:07
+Ddr a   09:53   [15]
+Ddr v   10:07   [15]
 Gdm a   10:51

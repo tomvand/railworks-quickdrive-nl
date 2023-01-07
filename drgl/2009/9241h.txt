@@ -30,8 +30,8 @@ Zlw	-	17:44
 Mdbz	-	17:45
 Wld	-	17:48
 Ddzd	-	17:51
-Ddr	a	17:53
-Ddr	v	17:54
+Ddr	a	17:53   [1]
+Ddr	v	17:54   [1]
 Grbr	-	17:55
 Zwd	-	17:56
 Kfhaz	-	17:59
@@ -42,8 +42,8 @@ Rtz	-	18:03
 Wiltz	-	18:04
 Rtb	-	18:05
 Wiltn	-	18:05
-Rtd	a	18:06
-Rtd	v	18:08
+Rtd	a	18:06   [9]
+Rtd	v	18:08   [9]
 Dhsa	-	18:10
 Dhs	-	18:10
 Rmoa	-	18:10
