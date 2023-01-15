@@ -4,7 +4,7 @@
 # mDDM 7800
 # Plan T
 Ddr a   14:25   [3b]
-Ddr v   14:26   [3b]
+Ddr v   14:26   [3b,:56 of spits]
 Ddzd    +   14:29
 Zlw +   14:36
 Zvb +   14:44

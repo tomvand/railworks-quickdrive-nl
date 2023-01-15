@@ -1,7 +1,7 @@
 # 1800+Bv+ABv+Bv+ABv+Bv+Bvk
 # VIRM IV+IV
-Ddr	a	13:11   [2]
-Ddr	v	13:22   [2]
+Ddr	a	13:11   [2,:11]
+Ddr	v	13:22   [2,:22]
 Grbr	-	13:23
 Zwd	-	13:24
 Kfhaz	-	13:27

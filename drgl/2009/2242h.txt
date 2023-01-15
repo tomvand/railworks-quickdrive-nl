@@ -11,8 +11,8 @@ Zlw	v	13:34
 Mdbz	-	13:36
 Wld	-	13:38
 Ddzd	+	13:42
-Ddr	a	13:46   [2]
-Ddr	v	13:52   [2]
+Ddr	a	13:46   [2,:46]
+Ddr	v	13:52   [2,:52]
 Grbr	-	13:53
 Zwd	-	13:54
 Kfhaz	-	13:57
