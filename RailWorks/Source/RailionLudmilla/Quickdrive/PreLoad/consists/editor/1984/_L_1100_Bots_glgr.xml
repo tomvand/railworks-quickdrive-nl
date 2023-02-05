@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>PreLoad\frag_loco\1600-1700-1800\1600_NS.xml</Value>
+																	<Value>PreLoad\frag_loco\1100\1100_NS_Botsneus.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[L'96] Lok</Value>
+										<Value>[L'84 L]</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -145,7 +145,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>1600</Value>
+										<Value>1100 (Geel/Grijs)</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
