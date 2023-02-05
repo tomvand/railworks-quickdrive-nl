@@ -12,7 +12,7 @@ Voorlopige tijden: https://treinposities.nl/spooragenda/2023-02-24/177/Alpen_Exp
 2022:
 
 - Dienstregeling 2022: https://treinposities.nl/ritinfo/20220304/13489
-- https://www.flickr.com/photos/120261694@N07/51946268716/
+- Samenstelling: https://www.flickr.com/photos/120261694@N07/51946268716/
 - SK-GfF detail https://www.flickr.com/photos/120261694@N07/51949836249
 - Spoorgebruik
   - Gv3 https://www.flickr.com/photos/159407874@N07/51944388121/

@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>DTG</Value>
+																					<Value>virtualRailroads</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Academy</Value>
+																					<Value>vR_BR189_VRot_EL</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Electric\BR 189 100 DB Schenker Rail\Engine\BR189_Engine.xml</Value>
+																	<Value>Elloks\[RDF_RS]BR189\BR189_VRot_Latz_075_Dreckig.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cAmbientAudioControl>
+	<Element>
+		<Value>
+			<Attribute name="ProxyControlRevision">
+				<kLoud-cProxyControl-eProxyControlRevision>
+					<Element>
+						<Value>eVersion2</Value>
+					</Element>
+				</kLoud-cProxyControl-eProxyControlRevision>
+			</Attribute>
+			<Attribute name="ActivationDistance">
+				<sFloat32>
+					<Element>
+						<Value>500</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="Sound">
+				<__Indexed__kLoud-cSound>
+					<Element>
+						<Value>
+							<kLoud-cSingleSampleSound>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>Mensen</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="IsLooped">
+											<bool>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</bool>
+										</Attribute>
+										<Attribute name="Priority">
+											<sUInt32>
+												<Element>
+													<Value>75</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="BaseVolume">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="VolumeVariation">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="BasePitchShift">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="PitchShiftVariation">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="AttenuationStartDist">
+											<sFloat32>
+												<Element>
+													<Value>5000</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="NoFutherAttenuationDist">
+											<sFloat32>
+												<Element>
+													<Value>5010</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="InstanceGroup">
+											<kLoud-cInstanceGroup>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cInstanceGroup>
+										</Attribute>
+										<Attribute name="Sample">
+											<kLoud-cSampleID>
+												<Element>
+													<Value>
+														<Attribute name="Filename">
+															<cDeltaString>
+																<Element>
+																	<Value>Audio\dummy-copyrighted.wav</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cSampleID>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cSingleSampleSound>
+						</Value>
+					</Element>
+				</__Indexed__kLoud-cSound>
+			</Attribute>
+			<Attribute name="Curve">
+				<__Indexed__kLoud-cCurve>
+					<Element>
+						<Value>
+							<kLoud-cCurve>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>Distance Volume 400m (UKTS_FP)</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="CurvePoint">
+											<__Indexed__kLoud-cRVector2>
+												<Element>
+													<Value>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>90000</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>1</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>100870</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.22637</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>113165</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.09845</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>127021</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.04609</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>142582</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.01772</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>250000</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+													</Value>
+												</Element>
+											</__Indexed__kLoud-cRVector2>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cCurve>
+						</Value>
+					</Element>
+				</__Indexed__kLoud-cCurve>
+			</Attribute>
+			<Attribute name="ModifierChain">
+				<__Indexed__kLoud-cModifierChain>
+					<Element>
+						<Value>
+							<kLoud-cModifierChain>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>Distance Volume</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="Modifier">
+											<__Indexed__kLoud-cModifier>
+												<Element>
+													<Value>
+														<kLoud-cVolumeCurveModifier>
+															<Element>
+																<Value>
+																	<Attribute name="ControllerIsGlobal">
+																		<bool>
+																			<Element>
+																				<Value>0</Value>
+																			</Element>
+																		</bool>
+																	</Attribute>
+																	<Attribute name="ControllerName">
+																		<cDeltaString>
+																			<Element>
+																				<Value>ListenerDistanceSquared</Value>
+																			</Element>
+																		</cDeltaString>
+																	</Attribute>
+																	<Attribute name="Curve">
+																		<kLoud-cCurve>
+																			<Element>
+																				<Value>
+																					<Attribute name="Name">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Distance Volume 400m (UKTS_FP)</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cCurve>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cVolumeCurveModifier>
+													</Value>
+												</Element>
+											</__Indexed__kLoud-cModifier>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cModifierChain>
+						</Value>
+					</Element>
+				</__Indexed__kLoud-cModifierChain>
+			</Attribute>
+			<Attribute name="InstanceGroup">
+				<__Indexed__kLoud-cInstanceGroup>
+					<Element>
+						<Value />
+					</Element>
+				</__Indexed__kLoud-cInstanceGroup>
+			</Attribute>
+			<Attribute name="AmbientLoop">
+				<__Indexed__cAmbientSoundLooped>
+					<Element>
+						<Value>
+							<cAmbientSoundLooped>
+								<Element>
+									<Value>
+										<Attribute name="PlayState">
+											<ePlayState>
+												<Element>
+													<Value>BOTH</Value>
+												</Element>
+											</ePlayState>
+										</Attribute>
+										<Attribute name="Sound">
+											<kLoud-cSound>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value>Mensen</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cSound>
+										</Attribute>
+										<Attribute name="ModifierChain">
+											<kLoud-cModifierChain>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value>Distance Volume</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cModifierChain>
+										</Attribute>
+										<Attribute name="Weathers">
+											<cWeathers>
+												<Element>
+													<Value>
+														<Attribute name="Clear">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+														<Attribute name="Overcast">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+														<Attribute name="Rain">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+														<Attribute name="Storm">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+													</Value>
+												</Element>
+											</cWeathers>
+										</Attribute>
+										<Attribute name="Seasons">
+											<cSeasons>
+												<Element>
+													<Value>
+														<Attribute name="Spring">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+														<Attribute name="Summer">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+														<Attribute name="Autumn">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+														<Attribute name="Winter">
+															<bool>
+																<Element>
+																	<Value>1</Value>
+																</Element>
+															</bool>
+														</Attribute>
+													</Value>
+												</Element>
+											</cSeasons>
+										</Attribute>
+										<Attribute name="Delay">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="RandomDelayVariation">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="StartHour">
+											<sUInt32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="StartMinute">
+											<sUInt32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="EndHour">
+											<sUInt32>
+												<Element>
+													<Value>24</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="EndMinute">
+											<sUInt32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="ControllerName">
+											<cDeltaString>
+												<Element>
+													<Value>ListenerDistanceSquared</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="ActiveRangeStartValue">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="ActiveRangeEndValue">
+											<sFloat32>
+												<Element>
+													<Value>250000</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+									</Value>
+								</Element>
+							</cAmbientSoundLooped>
+						</Value>
+					</Element>
+				</__Indexed__cAmbientSoundLooped>
+			</Attribute>
+			<Attribute name="AmbientRandomOneshot">
+				<__Indexed__cAmbientSoundRandomOneshot>
+					<Element>
+						<Value />
+					</Element>
+				</__Indexed__cAmbientSoundRandomOneshot>
+			</Attribute>
+		</Value>
+	</Element>
+</cAmbientAudioControl>

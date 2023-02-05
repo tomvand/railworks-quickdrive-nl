@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kLoud-cProxyControlLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<ProxyControl>
+		<cAmbientAudioControl>
+			<ActivationDistance d:type="sFloat32" d:alt_encoding="0000000000407F40" d:precision="string">500</ActivationDistance>
+			<Sound>
+				<kLoud-cRandomSampleSound d:id="94824320">
+					<Name d:type="cDeltaString">Annoucements</Name>
+					<IsLooped d:type="bool">0</IsLooped>
+					<Priority d:type="sUInt32">50</Priority>
+					<BaseVolume d:type="sFloat32" d:alt_encoding="000000606666E63F" d:precision="string">0.7</BaseVolume>
+					<VolumeVariation d:type="sFloat32" d:alt_encoding="000000A09999C93F" d:precision="string">0.2</VolumeVariation>
+					<BasePitchShift d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</BasePitchShift>
+					<PitchShiftVariation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</PitchShiftVariation>
+					<AttenuationStartDist d:type="sFloat32" d:alt_encoding="000000000088B340" d:precision="string">5000</AttenuationStartDist>
+					<NoFutherAttenuationDist d:type="sFloat32" d:alt_encoding="000000000092B340" d:precision="string">5010</NoFutherAttenuationDist>
+					<InstanceGroup d:type="ref">94531344</InstanceGroup>
+					<Sample>
+						<kLoud-cSampleWithLikelihood d:id="94537616">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">Coha\Audio</Pathname>
+									<Filename d:type="cDeltaString">Coha\Audio\Sound1.WAV</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94536592">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">Coha\Audio</Pathname>
+									<Filename d:type="cDeltaString">Coha\Audio\Sound2.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+					</Sample>
+				</kLoud-cRandomSampleSound>
+				<kLoud-cRandomSampleSound d:id="96260416">
+					<Name d:type="cDeltaString">Rolling Stock</Name>
+					<IsLooped d:type="bool">0</IsLooped>
+					<Priority d:type="sUInt32">50</Priority>
+					<BaseVolume d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</BaseVolume>
+					<VolumeVariation d:type="sFloat32" d:alt_encoding="000000A09999C93F" d:precision="string">0.2</VolumeVariation>
+					<BasePitchShift d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</BasePitchShift>
+					<PitchShiftVariation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</PitchShiftVariation>
+					<AttenuationStartDist d:type="sFloat32" d:alt_encoding="000000000088B340" d:precision="string">5000</AttenuationStartDist>
+					<NoFutherAttenuationDist d:type="sFloat32" d:alt_encoding="000000000092B340" d:precision="string">5010</NoFutherAttenuationDist>
+					<InstanceGroup d:type="ref">94531728</InstanceGroup>
+					<Sample>
+						<kLoud-cSampleWithLikelihood d:id="94878232">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_arrive_1.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94879256">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_arrive_2.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94880280">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_arrive_3.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94881304">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_arrive_4.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94882328">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_arrive_5.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94883352">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_arrive_6.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94885400">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_depart_1.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94609128">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_depart_2.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94610152">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_depart_3.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="94612200">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Trains\train_pass_1.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+					</Sample>
+				</kLoud-cRandomSampleSound>
+				<kLoud-cRandomSampleSound d:id="94613224">
+					<Name d:type="cDeltaString">Frequent and Short</Name>
+					<IsLooped d:type="bool">0</IsLooped>
+					<Priority d:type="sUInt32">50</Priority>
+					<BaseVolume d:type="sFloat32" d:alt_encoding="000000606666E63F" d:precision="string">0.7</BaseVolume>
+					<VolumeVariation d:type="sFloat32" d:alt_encoding="000000A09999C93F" d:precision="string">0.2</VolumeVariation>
+					<BasePitchShift d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</BasePitchShift>
+					<PitchShiftVariation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</PitchShiftVariation>
+					<AttenuationStartDist d:type="sFloat32" d:alt_encoding="000000000088B340" d:precision="string">5000</AttenuationStartDist>
+					<NoFutherAttenuationDist d:type="sFloat32" d:alt_encoding="000000000092B340" d:precision="string">5010</NoFutherAttenuationDist>
+					<InstanceGroup d:type="ref">94531728</InstanceGroup>
+					<Sample>
+						<kLoud-cSampleWithLikelihood d:id="59547312">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Other\gas_escape_1.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+						<kLoud-cSampleWithLikelihood d:id="59548336">
+							<Likelihood d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</Likelihood>
+							<Sample>
+								<kLoud-cSampleID>
+									<Pathname d:type="cDeltaString">UKTS_FP\Audio_Ambient</Pathname>
+									<Filename d:type="cDeltaString">UKTS_FP\Audio_Ambient\JN\Stations\Generic\Other\gas_escape_2.wav</Filename>
+								</kLoud-cSampleID>
+							</Sample>
+						</kLoud-cSampleWithLikelihood>
+					</Sample>
+				</kLoud-cRandomSampleSound>
+				<kLoud-cSingleSampleSound d:id="59549360">
+					<Name d:type="cDeltaString">Hub Bub</Name>
+					<IsLooped d:type="bool">1</IsLooped>
+					<Priority d:type="sUInt32">75</Priority>
+					<BaseVolume d:type="sFloat32" d:alt_encoding="000000000000E83F" d:precision="string">0.75</BaseVolume>
+					<VolumeVariation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</VolumeVariation>
+					<BasePitchShift d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</BasePitchShift>
+					<PitchShiftVariation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</PitchShiftVariation>
+					<AttenuationStartDist d:type="sFloat32" d:alt_encoding="000000000088B340" d:precision="string">5000</AttenuationStartDist>
+					<NoFutherAttenuationDist d:type="sFloat32" d:alt_encoding="000000000092B340" d:precision="string">5010</NoFutherAttenuationDist>
+					<InstanceGroup d:type="ref">0</InstanceGroup>
+					<Sample>
+						<kLoud-cSampleID>
+							<Pathname d:type="cDeltaString">ChrisTrains\RailSimulator</Pathname>
+							<Filename d:type="cDeltaString">ChrisTrains\RailSimulator\Scenery\SoundFX\stationcrowd.dav</Filename>
+						</kLoud-cSampleID>
+					</Sample>
+				</kLoud-cSingleSampleSound>
+			</Sound>
+			<Curve>
+				<kLoud-cCurve d:id="10257928">
+					<Name d:type="cDeltaString">Distance Volume Curve</Name>
+					<CurvePoint>
+						<kLoud-cRVector2 d:id="10258440">
+							<X d:type="sFloat32" d:alt_encoding="0000000000F9F540" d:precision="string">90000</X>
+							<Y d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</Y>
+						</kLoud-cRVector2>
+						<kLoud-cRVector2 d:id="59500592">
+							<X d:type="sFloat32" d:alt_encoding="000000C05CA0F840" d:precision="string">100870</X>
+							<Y d:type="sFloat32" d:alt_encoding="00000040B1F9CC3F" d:precision="string">0.22637</Y>
+						</kLoud-cRVector2>
+						<kLoud-cRVector2 d:id="59499568">
+							<X d:type="sFloat32" d:alt_encoding="00000000D0A0FB40" d:precision="string">113165</X>
+							<Y d:type="sFloat32" d:alt_encoding="000000E00434B93F" d:precision="string">0.09845</Y>
+						</kLoud-cRVector2>
+						<kLoud-cRVector2 d:id="94827904">
+							<X d:type="sFloat32" d:alt_encoding="00000000D002FF40" d:precision="string">127021</X>
+							<Y d:type="sFloat32" d:alt_encoding="000000C01B99A73F" d:precision="string">0.04609</Y>
+						</kLoud-cRVector2>
+						<kLoud-cRVector2 d:id="94829056">
+							<X d:type="sFloat32" d:alt_encoding="00000060AE670141" d:precision="string">142582</X>
+							<Y d:type="sFloat32" d:alt_encoding="000000203125923F" d:precision="string">0.01772</Y>
+						</kLoud-cRVector2>
+						<kLoud-cRVector2 d:id="94829824">
+							<X d:type="sFloat32" d:alt_encoding="0000000080840E41" d:precision="string">250000</X>
+							<Y d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Y>
+						</kLoud-cRVector2>
+					</CurvePoint>
+				</kLoud-cCurve>
+			</Curve>
+			<ModifierChain>
+				<kLoud-cModifierChain d:id="94828416">
+					<Name d:type="cDeltaString">Fade</Name>
+					<Modifier>
+						<kLoud-cVolumeCurveModifier d:id="94825728">
+							<ControllerIsGlobal d:type="bool">0</ControllerIsGlobal>
+							<ControllerName d:type="cDeltaString">ListenerDistanceSquared</ControllerName>
+							<Curve d:type="ref">10257928</Curve>
+						</kLoud-cVolumeCurveModifier>
+					</Modifier>
+				</kLoud-cModifierChain>
+			</ModifierChain>
+			<InstanceGroup>
+				<kLoud-cInstanceGroup d:id="94531728">
+					<Name d:type="cDeltaString">ThreeAtATime</Name>
+					<MaximumNumberOfInstances d:type="sUInt32">3</MaximumNumberOfInstances>
+					<InstanceExceededAction d:type="cDeltaString">RejectNew</InstanceExceededAction>
+				</kLoud-cInstanceGroup>
+				<kLoud-cInstanceGroup d:id="94531344">
+					<Name d:type="cDeltaString">OneAtATime</Name>
+					<MaximumNumberOfInstances d:type="sUInt32">1</MaximumNumberOfInstances>
+					<InstanceExceededAction d:type="cDeltaString">RejectNew</InstanceExceededAction>
+				</kLoud-cInstanceGroup>
+			</InstanceGroup>
+			<AmbientLoop>
+				<cAmbientSoundLooped d:id="59553968">
+					<PlayState d:type="cDeltaString">BOTH</PlayState>
+					<Sound d:type="ref">59549360</Sound>
+					<ModifierChain d:type="ref">94828416</ModifierChain>
+					<Weathers>
+						<cWeathers>
+							<Clear d:type="bool">1</Clear>
+							<Overcast d:type="bool">1</Overcast>
+							<Rain d:type="bool">1</Rain>
+							<Storm d:type="bool">1</Storm>
+						</cWeathers>
+					</Weathers>
+					<Seasons>
+						<cSeasons>
+							<Spring d:type="bool">1</Spring>
+							<Summer d:type="bool">1</Summer>
+							<Autumn d:type="bool">1</Autumn>
+							<Winter d:type="bool">1</Winter>
+						</cSeasons>
+					</Seasons>
+					<Delay d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Delay>
+					<RandomDelayVariation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</RandomDelayVariation>
+					<StartHour d:type="sUInt32">0</StartHour>
+					<StartMinute d:type="sUInt32">0</StartMinute>
+					<EndHour d:type="sUInt32">24</EndHour>
+					<EndMinute d:type="sUInt32">0</EndMinute>
+					<ControllerName d:type="cDeltaString">ListenerDistanceSquared</ControllerName>
+					<ActiveRangeStartValue d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</ActiveRangeStartValue>
+					<ActiveRangeEndValue d:type="sFloat32" d:alt_encoding="0000000080840E41" d:precision="string">250000</ActiveRangeEndValue>
+				</cAmbientSoundLooped>
+			</AmbientLoop>
+			<AmbientRandomOneshot>
+				<cAmbientSoundRandomOneshot d:id="94807680">
+					<PlayState d:type="cDeltaString">BOTH</PlayState>
+					<Sound d:type="ref">94824320</Sound>
+					<ModifierChain d:type="ref">94828416</ModifierChain>
+					<Weathers>
+						<cWeathers>
+							<Clear d:type="bool">1</Clear>
+							<Overcast d:type="bool">1</Overcast>
+							<Rain d:type="bool">1</Rain>
+							<Storm d:type="bool">1</Storm>
+						</cWeathers>
+					</Weathers>
+					<Seasons>
+						<cSeasons>
+							<Spring d:type="bool">1</Spring>
+							<Summer d:type="bool">1</Summer>
+							<Autumn d:type="bool">1</Autumn>
+							<Winter d:type="bool">1</Winter>
+						</cSeasons>
+					</Seasons>
+					<Delay d:type="sFloat32" d:alt_encoding="0000000000003E40" d:precision="string">30</Delay>
+					<RandomDelayVariation d:type="sFloat32" d:alt_encoding="0000000000002440" d:precision="string">10</RandomDelayVariation>
+					<StartHour d:type="sUInt32">0</StartHour>
+					<StartMinute d:type="sUInt32">0</StartMinute>
+					<EndHour d:type="sUInt32">24</EndHour>
+					<EndMinute d:type="sUInt32">0</EndMinute>
+					<ControllerName d:type="cDeltaString">ListenerDistanceSquared</ControllerName>
+					<ActiveRangeStartValue d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</ActiveRangeStartValue>
+					<ActiveRangeEndValue d:type="sFloat32" d:alt_encoding="0000000080840E41" d:precision="string">250000</ActiveRangeEndValue>
+				</cAmbientSoundRandomOneshot>
+				<cAmbientSoundRandomOneshot d:id="95309448">
+					<PlayState d:type="cDeltaString">BOTH</PlayState>
+					<Sound d:type="ref">96260416</Sound>
+					<ModifierChain d:type="ref">94828416</ModifierChain>
+					<Weathers>
+						<cWeathers>
+							<Clear d:type="bool">1</Clear>
+							<Overcast d:type="bool">1</Overcast>
+							<Rain d:type="bool">1</Rain>
+							<Storm d:type="bool">1</Storm>
+						</cWeathers>
+					</Weathers>
+					<Seasons>
+						<cSeasons>
+							<Spring d:type="bool">1</Spring>
+							<Summer d:type="bool">1</Summer>
+							<Autumn d:type="bool">1</Autumn>
+							<Winter d:type="bool">1</Winter>
+						</cSeasons>
+					</Seasons>
+					<Delay d:type="sFloat32" d:alt_encoding="0000000000004440" d:precision="string">40</Delay>
+					<RandomDelayVariation d:type="sFloat32" d:alt_encoding="0000000000002440" d:precision="string">10</RandomDelayVariation>
+					<StartHour d:type="sUInt32">0</StartHour>
+					<StartMinute d:type="sUInt32">0</StartMinute>
+					<EndHour d:type="sUInt32">24</EndHour>
+					<EndMinute d:type="sUInt32">0</EndMinute>
+					<ControllerName d:type="cDeltaString">ListenerDistanceSquared</ControllerName>
+					<ActiveRangeStartValue d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</ActiveRangeStartValue>
+					<ActiveRangeEndValue d:type="sFloat32" d:alt_encoding="0000000080840E41" d:precision="string">250000</ActiveRangeEndValue>
+				</cAmbientSoundRandomOneshot>
+				<cAmbientSoundRandomOneshot d:id="95758960">
+					<PlayState d:type="cDeltaString">BOTH</PlayState>
+					<Sound d:type="ref">94613224</Sound>
+					<ModifierChain d:type="ref">94828416</ModifierChain>
+					<Weathers>
+						<cWeathers>
+							<Clear d:type="bool">1</Clear>
+							<Overcast d:type="bool">1</Overcast>
+							<Rain d:type="bool">1</Rain>
+							<Storm d:type="bool">1</Storm>
+						</cWeathers>
+					</Weathers>
+					<Seasons>
+						<cSeasons>
+							<Spring d:type="bool">1</Spring>
+							<Summer d:type="bool">1</Summer>
+							<Autumn d:type="bool">1</Autumn>
+							<Winter d:type="bool">1</Winter>
+						</cSeasons>
+					</Seasons>
+					<Delay d:type="sFloat32" d:alt_encoding="0000000000002E40" d:precision="string">15</Delay>
+					<RandomDelayVariation d:type="sFloat32" d:alt_encoding="0000000000002440" d:precision="string">10</RandomDelayVariation>
+					<StartHour d:type="sUInt32">0</StartHour>
+					<StartMinute d:type="sUInt32">0</StartMinute>
+					<EndHour d:type="sUInt32">24</EndHour>
+					<EndMinute d:type="sUInt32">0</EndMinute>
+					<ControllerName d:type="cDeltaString">ListenerDistanceSquared</ControllerName>
+					<ActiveRangeStartValue d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</ActiveRangeStartValue>
+					<ActiveRangeEndValue d:type="sFloat32" d:alt_encoding="0000000080840E41" d:precision="string">250000</ActiveRangeEndValue>
+				</cAmbientSoundRandomOneshot>
+			</AmbientRandomOneshot>
+		</cAmbientAudioControl>
+	</ProxyControl>
+</kLoud-cProxyControlLoader>

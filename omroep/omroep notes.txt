@@ -1,0 +1,33 @@
+Station omroep v2
+-----------------
+
+Normalizeren
+Vervorming hard clipping -12dB
+Grafische EQ: telefoon
+Galm: pre-delay omhoog 50-100ms
+Low-pass 12dB/200Hz (interieur)
+Normalizeren
+
+
+Trein omroep
+------------
+
+Normalizeren
+Vervorming hard clipping -18dB
+Grafische EQ: AM radio
+Low-pass 12dB/400Hz (interieur)
+Normalizeren
+
+Trein omroep v2
+---------------
+
+Normalizeren
+Mono track toevoegen: bruine ruis, 0.2 amp
+Mono track toevoegen: roze ruis, 0.1 amp
+Mixen en renderen
+Vervorming hard clipping -3dB
+Grafische EQ: AM radio
+High-pass 12dB/100Hz
+Low-pass 12dB/3000Hz
+Normalizeren
+Low-pass 12dB/400Hz (interieur)
