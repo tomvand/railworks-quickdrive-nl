@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Dutch Classics</Value>
+																					<Value>fopixtrains</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>DC41200-1200-00</Value>
+																					<Value>treinen</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>DC41200-1200-07S.xml</Value>
+																	<Value>1800\Engine\Locon_99xx_old\Locon_9901_old-VE.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
