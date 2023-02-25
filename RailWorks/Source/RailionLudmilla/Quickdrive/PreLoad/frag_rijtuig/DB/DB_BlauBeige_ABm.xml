@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Regio-Netze</Value>
+																					<Value>DR</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Addon</Value>
+																					<Value>Bm235</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Passenger\Schnellzug_DB_Ep4b\1Klasse.xml</Value>
+																	<Value>ABm235-1.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>

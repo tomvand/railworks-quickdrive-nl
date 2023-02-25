@@ -27,14 +27,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Andi_M</Value>
+																					<Value>DTG</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>DB</Value>
+																					<Value>KarlsruheStrasbourg</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>RailVehicles\Passenger\IC\Bvmz_ICE_Farbschema.xml</Value>
+																	<Value>RailVehicles\Passenger\ICCoaches\Default\Coach\Bmpz.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
