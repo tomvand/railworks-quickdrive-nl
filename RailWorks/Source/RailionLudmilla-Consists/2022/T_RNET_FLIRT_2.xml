@@ -38,7 +38,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>Treinstellen\FLIRT\FLIRT_2_AN.xml</Value>
+																	<Value>Treinstellen\FLIRT\FLIRT_2_RNET.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -67,7 +67,7 @@
 							<Attribute name="English">
 								<cDeltaString>
 									<Element>
-										<Value>[L|T AN] FLIRT</Value>
+										<Value>[L|T RNET] FLIRT</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
