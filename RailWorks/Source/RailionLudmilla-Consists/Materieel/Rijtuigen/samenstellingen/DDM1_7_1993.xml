@@ -45,7 +45,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>Rijtuigen\NS\DDM1\DDM1_ABv.xml</Value>
+																	<Value>Rijtuigen\NS\DDM1\DDM1_Bv.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -56,7 +56,7 @@
 										<Attribute name="Flipped">
 											<eBoolean>
 												<Element>
-													<Value>eTrue</Value>
+													<Value>eFalse</Value>
 												</Element>
 											</eBoolean>
 										</Attribute>
@@ -156,7 +156,57 @@
 										<Attribute name="Flipped">
 											<eBoolean>
 												<Element>
-													<Value>eTrue</Value>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla-Consists</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Materieel</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>Rijtuigen\NS\DDM1\DDM1_ABv.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
 												</Element>
 											</eBoolean>
 										</Attribute>
@@ -196,6 +246,56 @@
 															<cDeltaString>
 																<Element>
 																	<Value>Rijtuigen\NS\DDM1\DDM1_Bv.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla-Consists</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Materieel</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>Rijtuigen\NS\DDM1\DDM1_ABv.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
