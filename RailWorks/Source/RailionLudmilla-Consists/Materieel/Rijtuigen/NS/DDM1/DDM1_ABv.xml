@@ -56,7 +56,7 @@
 										<Attribute name="Flipped">
 											<eBoolean>
 												<Element>
-													<Value>eFalse</Value>
+													<Value>eTrue</Value>
 												</Element>
 											</eBoolean>
 										</Attribute>
