@@ -27,7 +27,7 @@
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value>Materieel</Value>
+																					<Value>Quickdrive</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -38,7 +38,57 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value>Treinstellen\DDAR\DDZ_4.xml</Value>
+																	<Value>PreLoad\Universeel\PF_2014_20xx_VIRM_4_groen.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="Flipped">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+									</Value>
+								</Element>
+							</cConsistEntry>
+							<cConsistEntry>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintName">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailionLudmilla-Consists</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>Quickdrive</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>PreLoad\Universeel\PF_2003_20xx_VIRM_6.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -226,14 +276,14 @@
 			<Attribute name="EraStartYear">
 				<sUInt32>
 					<Element>
-						<Value>2322012</Value>
+						<Value>2322014</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
 			<Attribute name="EraEndYear">
 				<sUInt32>
 					<Element>
-						<Value>2322023</Value>
+						<Value>2322050</Value>
 					</Element>
 				</sUInt32>
 			</Attribute>
@@ -457,7 +507,7 @@
 			<Attribute name="ConsistType">
 				<kConsist-eConsistType>
 					<Element>
-						<Value>eConsistTypePassengerInternational</Value>
+						<Value>eConsistTypePassengerFast</Value>
 					</Element>
 				</kConsist-eConsistType>
 			</Attribute>
